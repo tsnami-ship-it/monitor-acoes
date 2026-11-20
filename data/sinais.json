@@ -1,11 +1,11 @@
 {
  "versao": 1,
- "gerado_em": "2026-11-20T00:27:03Z",
- "pregao": "2026-11-19",
+ "gerado_em": "2026-11-20T21:55:50Z",
+ "pregao": "2026-11-20",
  "resumo": {
-  "monitorados": 106,
+  "monitorados": 105,
   "com_sinal": 30,
-  "erros": 1
+  "erros": 0
  },
  "sinais": [
   {
@@ -14,8 +14,8 @@
    "tipo": "acao",
    "preco": 14.63,
    "var_dia": -7.29,
-   "var_semana": -13.43,
-   "var_mes": -46.15,
+   "var_semana": -8.05,
+   "var_mes": -43.29,
    "min_52s": 13.29,
    "max_52s": 30.58,
    "dist_min_52s": 10.1,
@@ -28,37 +28,37 @@
     },
     {
      "id": "queda_semana",
-     "texto": "Caiu 13,4% em 5 pregões"
+     "texto": "Caiu 8,0% em 5 pregões"
     },
     {
      "id": "queda_mes",
-     "texto": "Caiu 46,2% em 21 pregões"
+     "texto": "Caiu 43,3% em 21 pregões"
     },
     {
      "id": "abaixo_da_media",
-     "texto": "19,6% abaixo da média de 50 pregões"
+     "texto": "19,4% abaixo da média de 50 pregões"
     }
    ],
    "pontos": 4,
    "desde": "2026-11-19",
    "noticias": [
     {
-     "titulo": "Azzas (AZZA3) registra lucro de R$ 168 mi no 4T25",
-     "fonte": "Nord Investimentos",
-     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUno0c3A4dWZXdXpLaVg1WnRKZFBKTENpRGlpM1FtWlZ0R2RDUVZKT01pblNZMkY1UjI2MGVkZWlVNTVmNUdIRUd5WE9uQk01NFFkVGlLaTh5TUJpLUZ6VWtWUE5lOEJ6Y2MyR0Q5Q2x1LU9fZXRPczlBcGdCOHRaddIBhgFBVV95cUxQMDN0UTlSM3VjMnhLcjQ0RkQ3NnJKLUd1dGt0aDhXcG50ZDZTQ0dadjN3Q0Ita0VDU2pVSlh4NFE4eFR1YnNXR2FEX0lBTmtKd3Q5NHVxTWFsakpvT2JORnJGMFV5VUYwaFR6cXVPempaYnR1M0Zqd0hHblpTTzlyMmJ3UUFDdw?oc=5",
-     "data": "2026-11-19T06:17:36Z"
-    },
-    {
      "titulo": "Azzas 2154 (AZZA3) vive um momento crítico e este detalhe pode mudar tudo",
      "fonte": "Acionista.com.br",
      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxON0JDTnNad3poSWlnZFpFYmdaUlM2SlJ4Mzc4OVRhSkZVVVFtRGkyNm5KYXc5R0laaXg2ak5hVW5OQ0RqUm1RcTEzZ2NHaVctcllMbnoxMDFYejFlNjU4bmxoeml0WklXQ2JndVBhcHVUVHRIRG1Dc1c3Qk4xdWRZTVFFUFhaQ09BX2JhNEt1NHFEYzQ3RXd1NkJjMWZadw?oc=5",
-     "data": "2026-11-18T21:21:38Z"
+     "data": "2026-11-20T00:36:41Z"
     },
     {
      "titulo": "Azzas tomba mais 7% e sofre maior queda do dia; veja os destaques do Ibovespa hoje",
      "fonte": "Estadão",
      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZFlvQ2hJQTREWjdqd1FhdmRjZG9OR1Axb1l3UnIwNDlLSVpqdDk4eHh0QUU4cXp0TEJzeDFpV3dhSGJHQUU0cFphNjFYQzBzQnl4S1U2XzBzNDdNcFJsZHdHOHVZN2JlSmZLWERGbGlJVTRhVEg0SnNzUGEyWW95UzduT3VkUWZnbUpCM2ItWUJQY3RYbV95WlFfczdTZ0E5MkNEVjcwMk1ic0ZEbUlIY0ptZHVOc1o5UFNKalFiUEtIVmpHdEFpcDNibkI1eHPSAdQBQVVfeXFMTlhOYU1GQ0lwNlg5UjRqT01TWVlRcWRTLU9vS1NYbGFDNDc1OHRkU3VmM3I0eldEQUhkUmFqOHN5TWRJUGdrNjhWWGFieDVoQy1PckVtQ3lmVms5QlNkNE1jYkxoR1FhNXd5NEdOTzhIX1FzdG1ST0drckRJSG0zNWhIcW1qOEYxS0Jkbjc5RkVQUTRSV2dMNkI5eGZlU3o1RmEwdGJqVHpuaUxjQmRjZElQdjVCdFFVOG5VNERBZlVqQ2lIYlZKcTBtemtnWHI5Q0pYR2Q?oc=5",
      "data": "2026-11-19T19:26:00Z"
+    },
+    {
+     "titulo": "AZZA3 cai 7,0% e POSI3 sobe 6,0%; Ibovespa recua 0,73% na B3 hoje",
+     "fonte": "Visno Invest",
+     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOT3RuaTQyLUlFMnV5THE4SWtpUHJLRjhmb0ZTOWlIc3hMR09ULU5tRGZBeWNqQzM0OGxSdUxNMmg3QUdoRFBGVkFHNU5oaXk5eTBsa0FOQ1ZYT1VQa2MtS1U0MFdieDhlell3dklUN09NTFI5WkV3MjFNQ0ZWU04yeXRxbXU4MkptTC1oU0RZZUFMWHZqSWhzYU5aVmg?oc=5",
+     "data": "2026-11-19T20:50:45Z"
     }
    ]
   },
@@ -68,8 +68,8 @@
    "tipo": "acao",
    "preco": 4.48,
    "var_dia": -6.28,
-   "var_semana": -15.95,
-   "var_mes": -41.44,
+   "var_semana": -12.67,
+   "var_mes": -41.28,
    "min_52s": 4.44,
    "max_52s": 11.15,
    "dist_min_52s": 0.9,
@@ -82,11 +82,11 @@
     },
     {
      "id": "queda_semana",
-     "texto": "Caiu 15,9% em 5 pregões"
+     "texto": "Caiu 12,7% em 5 pregões"
     },
     {
      "id": "queda_mes",
-     "texto": "Caiu 41,4% em 21 pregões"
+     "texto": "Caiu 41,3% em 21 pregões"
     },
     {
      "id": "perto_minima_52s",
@@ -94,29 +94,29 @@
     },
     {
      "id": "abaixo_da_media",
-     "texto": "33,1% abaixo da média de 50 pregões"
+     "texto": "32,2% abaixo da média de 50 pregões"
     }
    ],
    "pontos": 5,
    "desde": "2026-11-19",
    "noticias": [
     {
-     "titulo": "Natura (NATU3) cai na bolsa após números do 3º tri",
-     "fonte": "Valor Investe",
-     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxORlYyOTdZSjYzSmhjS0xJVFQxWV94bnlVMEFRMFcyVUF6MjFYYzk0VFhZdUhwOXpIU3dkT1YwZ2pkc2ZSN2J2VXhENUhQUm43YzJpdjM3SGI2UEI5MUllaEloQjFCenBjQWt1ZWwtUVFCTDFVb3EweEhSNVMxZlp1QWhvbUFwT2QxazhVTThYd3NtNFRqYTBwN0NsRURUblZpNDZtWm9zREM0Vkx5aERHdVIxX2VrTE5DMFdHbWhRNWhybFF3Z2hENlJHdU9hcHd4cl800gHiAUFVX3lxTE05X1JreG5rdTFRRHhSckdhRDRWUzJ0M3o1YS1OckxMd1VwQzBjb3M0bnRiWnlGQ0xEbmFLQ0hCLUxkVzNDWERDVXN4RlpyRzh6TXlPT2FmX2RFUDc5QTkzdVR5UGdXOFVpN0lqMmxCZXJqa2E2TU5VMC0tR21JbERsN2hqWnVtdTMya2tucmpaTXlZWTBDb3hRbkdXbERURWwwQVVKaHF0dEJnc1psZVpOWFVoeWJ0aGhXWE5mdWF2a1B3UTUyTVZfWHhBRHNIOWUzQnJaT1FDYm56eTJmN2tLUFE?oc=5",
-     "data": "2026-11-13T13:37:11Z"
+     "titulo": "Minerva (BEEF3) ganha fôlego com alta do dólar, e Natura (NATU3) fica na lanterna; veja o que rolou no Ibovespa",
+     "fonte": "Money Times",
+     "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQYk1ZbDR4NHdpV0hYNkFpeVJlMjFvZE5qVjVHMGlmM19Sc2dJYTdOdzU4T2MyRDJpcEdrckE0Q2JYNklKMTk5YjlmLXVSOGFxRkRvTWZ2M0VpRzBIaTVNOFN6UFhIWnBvRFFKTFkySkY3a1lIMmRFMWdYa2loTk1GVWRyczMtWGQyLW1ZUFZobFRDWUFPNVdaLWc5VEN4YV94U0I2aGQyWkpwaXRJZF9acXNDR3lLYVdNR1B1cHZjSXp2SUVTZVNWU25lRTFCbThmdlJzdVBycU0?oc=5",
+     "data": "2026-11-20T13:30:00Z"
     },
     {
-     "titulo": "Natura (NATU3) cai 3,75% mesmo após voltar ao lucro; veja o que preocupa analistas",
-     "fonte": "InfoMoney",
-     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcVVadHUzWGg1THZDV1R3eG1hcGJ2aWJjUFhCTGxPXzFUNGxRejg1bXFPYjdHSFU1eFVyM2psamxaVTRSX0NoVW5JVFBJemZhVmZlQzNRbUwwUnNCcnE5Sld4RGZHTzJTWnRGSTNRcGVrOU83bGJCSUMwdEtib3NqX0I1bmNXRV9BbjRoeTFvcXZpWU1NN0xpR2lER2g5b24zZ212WDlhYnpQSjFEYnJ3MjRqZEs?oc=5",
-     "data": "2026-11-13T21:22:14Z"
+     "titulo": "Natura (NATU3) volta ao azul, mas queda de 9% nas vendas no Brasil preocupa",
+     "fonte": "Acionista.com.br",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5BSk5IaDZRYlkxQndISUFEWkZwZElMbzU2dU5IdHZ1TzVKUVVxejZoNDlqRmV5cXhrbWpaVHQ4OHBnTUw5Q1drMGxOZm1mLWc1NGJLMTUtQTB0akU?oc=5",
+     "data": "2026-11-19T06:00:35Z"
     },
     {
-     "titulo": "Natura (NATU3) ainda tem gargalos a resolver e novo CEO destaca as prioridades; ações caem após 3T26",
-     "fonte": "Seu Dinheiro",
-     "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPcHdyVFM1M3JTWTkwV1BLRGthdlJRRE1Pb3RtUGxlNmhpOVNsZk9rZ09VWExRYXRac0oyUlB3TnAyODZFcTVPQ0lscTVzUWxTRXByQmh4UlRDZERqd19EeGlkZUoxbGJLS1RvVDJkMTFFUE8tWENkT1JxLVdlbVVyMUVxWkN6elZ6OW85bUc5TXgta090Q3JLbk44blg0S0ZOMi1fSy05LWZpYkF4dHh6SGk1QllUNEwwRjJwM2VnaVVSVnUyS3d0TFl5aVZZX3dHbEdOLXQ2VG9kcEJZMEE?oc=5",
-     "data": "2026-11-13T19:03:13Z"
+     "titulo": "Ibovespa fecha em leve alta, longe das máximas",
+     "fonte": "SBT News",
+     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZ20wVVZ0X2diOGJoMERKenJpdE1BMGxMUnVlQzU1MDZoSk4tQ3owSXdkTUxEQVZxdm1zcGI3V1RCZFY2MmJnWUpZc29MTFRsRE05aURfbVVtVGZlbFRGZHhJZ0wwNXJMeV9ZdzRDa25LdjRnbUtCTjlMYzFIRE85LUxxWV9XQUhRQ3ZValZwc2dFQQ?oc=5",
+     "data": "2026-11-17T21:55:37Z"
     }
    ]
   },
@@ -126,8 +126,8 @@
    "tipo": "acao",
    "preco": 3.43,
    "var_dia": -6.03,
-   "var_semana": -18.91,
-   "var_mes": -42.93,
+   "var_semana": -7.8,
+   "var_mes": -39.93,
    "min_52s": 3.43,
    "max_52s": 11.32,
    "dist_min_52s": 0.0,
@@ -139,12 +139,8 @@
      "texto": "Caiu 6,0% no dia"
     },
     {
-     "id": "queda_semana",
-     "texto": "Caiu 18,9% em 5 pregões"
-    },
-    {
      "id": "queda_mes",
-     "texto": "Caiu 42,9% em 21 pregões"
+     "texto": "Caiu 39,9% em 21 pregões"
     },
     {
      "id": "perto_minima_52s",
@@ -152,29 +148,29 @@
     },
     {
      "id": "abaixo_da_media",
-     "texto": "36,9% abaixo da média de 50 pregões"
+     "texto": "36,1% abaixo da média de 50 pregões"
     }
    ],
-   "pontos": 5,
+   "pontos": 4,
    "desde": "2026-11-19",
    "noticias": [
     {
-     "titulo": "CSN (CSNA3) reverte lucro e tem prejuízo de R$ 1,25 bi no 3º tri",
-     "fonte": "InfoMoney",
-     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbU1ONk11YldSZHFEaHo1WElOZEdvdVMydjloZjVVQnQ0VmFnNm14QlBFOElOM0hKb1pBZEwzZFJmWlFjME1EVUJsZFR3Tnd2NWRtQ0FqRDU3NzllU1lBekhxdEdpaUctbUlIRW1jVTRPN2JrbmRtQ2FNM3VFajJ1LVJiUURJei1rc0pr0gGQAUFVX3lxTE1zY29JOGt0cUZqZnh1ZV8wLUljeFZpMzdaR3pYaVZFMDYzeEFpM1ZOTDNZQV83SjM5emF2ZTVLV0JFLXQxRVd5OWF4TDdWUDJ4bERUVkZXTGdGd0lTY0h0U1FLUjVVS001Mi1jOFI0R1VyUTZ3SWQydVlIMlRHdEJMTmVJMHpvMks1YzBNb0xITg?oc=5",
-     "data": "2026-11-13T09:24:59Z"
-    },
-    {
-     "titulo": "CSN (CSNA3) registra prejuízo de R$ 1,2 bi no 3T26",
-     "fonte": "Visno Invest",
-     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMGEzb0w5UVljamxFYzAtWmhTdFZmRHdXTGtQUmFzY29rQWwxRmpiX21HeFVPQzlKZklKSEpkVEI2ZndVd3NtN1hkRjlOcTlyRDEtOTg3bnlpbkxlTnVpN1lsLWNWUFBER3I2eHJyaUNBV043LUlqVGw3cFRSbkZrNTg0RVh6aHc4SmhSSA?oc=5",
-     "data": "2026-11-13T03:02:11Z"
-    },
-    {
-     "titulo": "CSN (CSNA3) tomba após prejuízo de R$ 1,24 bilhão",
+     "titulo": "Anthropic (ANT), CSN (CSNA3), Priner (PRNR3), Toky (TOKY3) e mais: Veja os destaques das empresas",
      "fonte": "Valor Investe",
-     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPZWVkblJiSWtZeFVGNXppTWlRMElsSmRGc1JndlVReXp1UmFvbXYtQktVOVFLcU9sRk9fT1k1ZFJzSFF0T3FTdGFGX1FJYVEyckZjTDlDOWs0V3IwcXNhaVluRXJPSFVMOGdXQnJHTmQyUnpxNmFrZlFyTHZiNEZhX0RqNHdBcDJpODZFOEFvNGtSenQ0Zi0zUFFiRG9UZnV4MVhCRGVGYVlVN0tacUFNWmxLLThfNVBaTnFwRHRXQkpUZkFLUENKcEhlR0lGNFnSAd4BQVVfeXFMT0RNV0lHSFRrdVFJTUNRaWtYVGx0Q2FYM0FCZGFwREZMNkpWVGpGMEhmNFY4VnpjRlJDLTlFRGNiMVJ5WDBkZGoyTjU2WkJ0OTk0Z3pDUjdCVmVZdVN3WHI2b1N4cndnS1R4Nmxvc0ZIQTYxUmhXQTI0Yk4xRExrcWVERG9jWmZRUmc3dkdoSVNoMGVRX1pET2ZEeEZSM2NmNnRPQWstSjB3OUNqZWlpQVhtSGcteVFzeWprSG5DcGxGR2VyVzNEdll3a0QxelZaWjBKQ21VQUgwVjFLRGRn?oc=5",
-     "data": "2026-11-13T15:30:36Z"
+     "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPVk5SRDB6YTNDZWRzU1A4UFZ6ZDBQY2R4Y2s3VkFDS0pWTDFpZHY2clE2aVNGYzFxQ3JpdWN4RUZqY0pzSFF4RnhvNFNMSm5KejAtVmJubnk3ZFRGNUxQcnJuSVJuWl9EQVdteGhLQ0VhNUhuVmZvWmhta214ZlJLY0pJRWtXSnIxLXlnOEtIS2RzWWs5djdESng1NTBQclRxVDF2M2lsZnJNdERVeXlMVktMWGM3aE5wRHBRenNtQkhWTlZzWUhlUmpWaGFrWVZuemhnaXNjYnYxbko3TjdzYXlVcEVxUFlPQnNWYm93OGkxUDVmSG9GTjd1OTNmTGNfN3RQU9IBkwJBVV95cUxQcjZabHRkQmM2ekUwT3ZoUkw0V0JqTEtOa3FlNjlOaUVNVUkzV05yWGdXbU1kUVdSc3ZYQWFXaFVSdmx3UmQxVVBaN05yZnJMZFVjUGVjalI5d25hZ1ExSkMybVhNN0hYdDhKck5zSmRVNExSN0N2bmdQS3BVNjlabm1DWFJDWmVRYjlDZ2xwQnFoSEtFRE8xR1FmT2doLW5vN05PYVl4dEJ4RDBIeXl4aGhqbFZtNktyVXJwLWNuQi10TGhvMm9vbnk5WnIxV0EwVkxPYVZ5UHJYRTlkWUFTSWZfMWRYV1UxY1BiRFhPUTNxZ0NTZHZvbUJyZXNoSU1mckg1WkROR1hVRkRlYUp6dWx6bw?oc=5",
+     "data": "2026-11-19T11:12:31Z"
+    },
+    {
+     "titulo": "Sexta-feira 13 não assusta Ibovespa, mas CSN (CSNA3) despenca 12%",
+     "fonte": "Suno - Investimentos Inteligentes",
+     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMnV0LUhuQVN6UkctenpMTzd2TkZKOHg3SmVHYWpFQVN4NGJpNE90ZV8xMjlSQVVzVXQ4aHo0MGpabkRURmt5TW5mVjFFU0xGeTlkc3pMN3JKcTFVb08wT21JSnNvNzJrYlg0QzJ4cHd1RENuWTdfRmc4NS1JZnZBbdIBqwFBVV95cUxNSF9vUHZlaUdnQjFHbTRTS2JsY3Zsd2gwT2R2SzZyT1l6V0Z1ZmpwX3J0bGJ4SEp5ejJGMm1VdlVxQ3F1UXVqOGdnNW5zbkdnWTZoMGR5clk0ZFBiUUp0Nlh5RThlajBGVWx4OUJGUk9OZ1ZBTjZhU1RuWjZ3MFBwOF9KZU1LZnJDVXI4Y0lBNklsTEVHeG42WFpCNjZHTEp3dnNSczFhUlhfUVk?oc=5",
+     "data": "2026-11-13T22:43:33Z"
+    },
+    {
+     "titulo": "CSN (CSNA3) elege Alexandre D’Ambrosio como novo diretor executivo",
+     "fonte": "InfoMoney",
+     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVGRGNDMyN0s3OXJ0YzRkSkdHNkFKUjVxb2pCN185anpuTlVpN0V6T3lPek1TOXBQbGFYek1GeHRNVmVLUWc2NjdaV1VNNzhSSEljaTJqejV2cFJnaDdyd2p6X19oVHFyMWZlSG5vYkhlZmUydU0tT2FrVjZPQTV5YkxzTUFqb1RyV253a0NROWZ4R3p2OGdrdF94RkhVbmV4c0VPetIBqgFBVV95cUxQams2S2FMQmFhR1pmb2s5Q0wtVmt6WTU0ZmlxM01WcFNKVjRuWVJBUExLV2picmZxWFExeW1LQnV6NmN3RnJ5UXNBcmpiVG9Hc0Y4bmNSWkx5MTNWOW9FV1hNaG4tWFNiZEgyRXBGSVIzOEJBVHlqWEtWWXJTSDVfWjZ0SExCcXdScG43dzJSaHBtZUpFWGt4Y3oySFZnd3FTV3ZmVDNra0dwUQ?oc=5",
+     "data": "2026-11-19T10:32:23Z"
     }
    ]
   },
@@ -184,8 +180,8 @@
    "tipo": "acao",
    "preco": 7.5,
    "var_dia": -4.82,
-   "var_semana": -5.66,
-   "var_mes": -47.44,
+   "var_semana": -7.86,
+   "var_mes": -45.85,
    "min_52s": 6.31,
    "max_52s": 18.74,
    "dist_min_52s": 18.9,
@@ -198,11 +194,11 @@
     },
     {
      "id": "queda_mes",
-     "texto": "Caiu 47,4% em 21 pregões"
+     "texto": "Caiu 45,8% em 21 pregões"
     },
     {
      "id": "abaixo_da_media",
-     "texto": "23,0% abaixo da média de 50 pregões"
+     "texto": "22,8% abaixo da média de 50 pregões"
     }
    ],
    "pontos": 3,
@@ -234,8 +230,8 @@
    "tipo": "fii",
    "preco": 81.99,
    "var_dia": -4.44,
-   "var_semana": -7.56,
-   "var_mes": -21.94,
+   "var_semana": -10.06,
+   "var_mes": -21.15,
    "min_52s": 81.42,
    "max_52s": 112.2,
    "dist_min_52s": 0.7,
@@ -248,11 +244,11 @@
     },
     {
      "id": "queda_semana",
-     "texto": "Caiu 7,6% em 5 pregões"
+     "texto": "Caiu 10,1% em 5 pregões"
     },
     {
      "id": "queda_mes",
-     "texto": "Caiu 21,9% em 21 pregões"
+     "texto": "Caiu 21,1% em 21 pregões"
     },
     {
      "id": "perto_minima_52s",
@@ -264,7 +260,7 @@
     },
     {
      "id": "abaixo_da_media",
-     "texto": "16,2% abaixo da média de 50 pregões"
+     "texto": "15,9% abaixo da média de 50 pregões"
     }
    ],
    "pontos": 6,
@@ -283,10 +279,10 @@
      "data": "2026-11-18T12:41:42Z"
     },
     {
-     "titulo": "FII XPML11 prepara corte de até 20% nos dividendos após pagamentos \"turbinados”, e gestor abre o jogo sobre os motivos",
-     "fonte": "Seu Dinheiro",
-     "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNeVNkTWR6WVFXcWZJNmlpOEhMRFh5SWw1ckVZZmFxdHNnQ3hsLTJfYnhnZ3NVanF3STFsTU9pU1FLb2d1TUViWl9WdVhVODlfeHNQS2xvVVJyRWM2VVR4SWc3M2FSTUZRaG5vTDY0Y0hOMWZ4Vmp5N3JrTDBteFhvTHVtSjVCbUk5OHliYXFwUHBXWDdPWjRueUFXVUFWejM0MUpKLUVLRFk5Tlp3cENSWHZMaHNBV1ZzWkZ0ZnJITVR3a1NkZmdsZURidXBQaks4djNGVVRrNjlPaktqZEZlaDZ4VUVFWkhTRVBSd1dUc25VYlZNd3ZCbUNpTVEyZy0yVmc?oc=5",
-     "data": "2026-11-13T09:05:00Z"
+     "titulo": "XPML11 reduz dividendo mensal ao menor nível desde 2023; entenda",
+     "fonte": "Suno - Investimentos Inteligentes",
+     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE03YUh1VjJJYndEbEJLVVd0WjRCeUxrbTZNZVQzTGk1TXRFTlI4elRGLXpEdk1JeE54cllkLWVYcnpPb19xTWZKSkhPekUwVnJtS1AxYTNWNDAxSjZBNFduOTlHT3ROMEdKVXN2RE14MS1fc3fSAXhBVV95cUxOcV9seXdCOUhYVUNrRmR5SXlkdGczWUp5TlRnNGNTSGpZdUxuZXFELUpTUjlhR3RqY3VQVU9TTzJwaGxoZHlqOWtmM2VCRFBpamQ1UFZzN0ZjMWJ6emtpU1dkOWc4Y1prOUFHZ2Vud0xSeTVfMHVwOUM?oc=5",
+     "data": "2026-11-20T13:00:29Z"
     }
    ]
   },
@@ -296,8 +292,8 @@
    "tipo": "acao",
    "preco": 5.64,
    "var_dia": -4.41,
-   "var_semana": -6.0,
-   "var_mes": -71.74,
+   "var_semana": -7.69,
+   "var_mes": -70.19,
    "min_52s": 5.34,
    "max_52s": 20.48,
    "dist_min_52s": 5.6,
@@ -310,11 +306,11 @@
     },
     {
      "id": "queda_mes",
-     "texto": "Caiu 71,7% em 21 pregões"
+     "texto": "Caiu 70,2% em 21 pregões"
     },
     {
      "id": "abaixo_da_media",
-     "texto": "44,4% abaixo da média de 50 pregões"
+     "texto": "44,2% abaixo da média de 50 pregões"
     }
    ],
    "pontos": 3,
@@ -329,14 +325,14 @@
     {
      "titulo": "Localiza e Movida: UBS BB recomenda venda das ações e alerta para riscos no setor",
      "fonte": "Estadão",
-     "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPWjd2MzNacUstY1hyQkd0MUxjWV9vbU5qcnNXV09PZ3N0UHdZUl9MdmF3NEhKOTJDNjhXVjJnSzVpcWJkRFFxanZjNUlpQWdnVGx6MlQyTUZhMWhsVnZPU0dYZzliSFczRlVhUjBfUmstNWNFYnRGWkxZLWRGNkozMl9CbmZ0VmpFWDhWZnlTTnZUdUpoOTdYTjFtajNDalBxelRyMVVVbV91R0c0TThJRXFlSnhjTWZIc0NFbmN0X2xfcW0yNWhldUg2ZU96QXEzUC1Tb3VFSmV0ME3SAdsBQVVfeXFMT1o3djMzWnFLLWNYckJHdDFMY1lfb21OanJzV1dPT2dzdFB3WVJfTHZhdzRISjkyQzY4V1YyZ0s1aXFiZERRcWp2YzVJaUFnZ1RsejJUMk1GYTFobFZ2T1NHWGc5YkhXM0ZVYVIwX1JrLTVjRWJ0RlpMWS1kRjZKMzJfQm5mdFZqRVg4VmZ5U052VHVKaDk3WE4xbWozQ2pQcXpUcjFVVW1fdUdHNE04SUVxZUp4Y01mSHNDRW5jdF9sX3FtMjVoZXVINmVPekFxM1AtU291RUpldDBN?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZmU2Z3dCLUExWmVNemNpZk5ydGFiZWp1aWFtYjY3bFFncGhuSm1yMkFJbWc1OHdtT1VNUzRpVUVNTjJFSklLU0ljNkZfdXV4WG9mREZNM2NSOUlhbDZLaFV3QzVodE4yT0VZU1lHdzd5OTFSNmdkcW1ENTZkRGhDTThyeGlvWi0wN3ZsdG1LQWVKZEV0NVFza3FVbmNiakZPdG5CY0ZaWlpGRHBSRFVtMmpNS1VaN1FYTWg4bWFnNmhmT0RabkhHellPcjhtcnRmc0xLdTVn0gHbAUFVX3lxTE9aN3YzM1pxSy1jWHJCR3QxTGNZX29tTmpyc1dXT09nc3RQd1lSX0x2YXc0SEo5MkM2OFdWMmdLNWlxYmREUXFqdmM1SWlBZ2dUbHoyVDJNRmExaGxWdk9TR1hnOWJIVzNGVWFSMF9Say01Y0VidEZaTFktZEY2SjMyX0JuZnRWakVYOFZmeVNOdlR1Smg5N1hOMW1qM0NqUHF6VHIxVVVtX3VHRzRNOElFcWVKeGNNZkhzQ0VuY3RfbF9xbTI1aGV1SDZlT3pBcTNQLVNvdUVKZXQwTQ?oc=5",
      "data": "2026-11-16T16:17:40Z"
     },
     {
      "titulo": "MOVI3 ganha força, mas o consenso divide opiniões",
      "fonte": "Acionista.com.br",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBVYnZTWWZpdXpOMjliZm5GVzduX0wxOG1hVFJBTk1BMDZGWHVMS3VFRXlnWEdVcFlKY0NFMVVNdWZEWjVkQ045UGctWFBfcWZ2VU1PdkthWlcxcXZqbkV3UEVxS3BKV1EtMjYwU1dyd29EZ09BSDRvZkFGTmlMSTQ?oc=5",
-     "data": "2026-11-15T09:48:36Z"
+     "data": "2026-11-19T11:36:20Z"
     }
    ]
   },
@@ -346,8 +342,8 @@
    "tipo": "acao",
    "preco": 3.62,
    "var_dia": -4.23,
-   "var_semana": -2.69,
-   "var_mes": -26.87,
+   "var_semana": -3.47,
+   "var_mes": -22.65,
    "min_52s": 3.36,
    "max_52s": 7.14,
    "dist_min_52s": 7.7,
@@ -360,22 +356,16 @@
     },
     {
      "id": "queda_mes",
-     "texto": "Caiu 26,9% em 21 pregões"
+     "texto": "Caiu 22,6% em 21 pregões"
     },
     {
      "id": "abaixo_da_media",
-     "texto": "14,4% abaixo da média de 50 pregões"
+     "texto": "14,1% abaixo da média de 50 pregões"
     }
    ],
    "pontos": 3,
    "desde": "2026-11-19",
    "noticias": [
-    {
-     "titulo": "Marcopolo (POMO4) tem lucro de R$ 341,7 mi no 4T25, alta de 7%; veja detalhes",
-     "fonte": "Nord Investimentos",
-     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1UWm12WWtJdU52NS1RQWxpQW5wdDIxTlMwcXNnRGxqM1lZeTdBSFdvaUFPbE9pbk5JYklpdUZXQk9kM1BhVlg1M0RnUmVHWmtOQXBreDByM0ZWU0FadzU1b01yYmZTUnlkMUpkZkRndVdSU0lJMEVJZjA0RS12QdIBgwFBVV95cUxQaExNWWw0YVZ1Vlo5bG51ZFdtZlNWaFVfTzRsclJKR2pHY1pJWFlqcmNlb3BYQU5FbzBKank0UFl3UF95R1g4MUpxYzRoUGxIZ1RkSkpCMkM3VVhGWFk2U0RVSExGbDJMeE1tQ0pJMU03NkpsTHJ0TUM2NzZYUHVja29wQQ?oc=5",
-     "data": "2026-11-18T16:16:14Z"
-    },
     {
      "titulo": "Marcopolo (POMO4) fecha acordo para PDV e suspensão temporária de contratos; ação cai",
      "fonte": "InfoMoney",
@@ -387,6 +377,12 @@
      "fonte": "Money Times",
      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQ0tmSWcyZi03OXN1Xy1xTDdlQm1QcWxqR3JRSUJZa1c0RmtXVXd3SHRwaER6ZVRXajVnMWVyMExObGFEX1pnX0ptM2dCdm1JQXJmUjZ2c29YSjB2SDNxS2FGM2tuVVNaTmxZYmNKSUU4Qkx3dEhseXlRWUVrenlENnZkSDBRUW5BUkFRdklYUWFNT0IxdDFpSElWYkJhWllUQlBiR1htYTFzZmVRVkJQTm5PYi1DMVowY2tuMTZUZkVnMDZqc1VvVDg0U20?oc=5",
      "data": "2026-11-19T18:06:00Z"
+    },
+    {
+     "titulo": "Marcopolo (POMO4) fala em PDV e suspensão de contratos após queda no lucro",
+     "fonte": "Investidor10",
+     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObHlVeWU0aGpieHFrenJ4WkM0M2ZDRGxxSE5ZbWgyWUVmRG1aakFrSzQ1M1d1Vm1weVVrZDJtXzV3TUZybG1YLVFQeGo3N3djaHRrYTNHT0lXMWZZaEIwWlhmZlRnU0tXb3pWd2tUTHk0MFFOVS01RDQ4UWt0bFlIYms0aDJwcUZPLUZENDJqclVNN0VKMmJ2b3ZKY3JNVTVLUXBiaVo1OUVkcXpPM1hzMW9JZTBCMHk3U24wTThn0gG-AUFVX3lxTE5seVV5ZTRoamJ4cWt6cnhaQzQzZkNEbHFITlltaDJZRWZEbVpqQWtLNDUzV3VWbXB5VWtkMm1fNXdNRnJsbVgtUVB4ajc3d2NodGthM0dPSVcxZlloQjBaWGZmVGdTS1dvelZ3a1RMeTQwUU5VLTVENDhRa3RsWUhiazRoMnBxRk8tRkQ0MmpyVU03RUoyYnZvdkpjck1VNUtRcGJpWjU5RWRxek8zWHMxb0llMEIweTdTbjBNOGc?oc=5",
+     "data": "2026-11-19T17:21:12Z"
     }
    ]
   },
@@ -396,8 +392,8 @@
    "tipo": "acao",
    "preco": 9.1,
    "var_dia": -3.91,
-   "var_semana": -3.19,
-   "var_mes": -39.05,
+   "var_semana": -6.38,
+   "var_mes": -38.31,
    "min_52s": 8.66,
    "max_52s": 16.25,
    "dist_min_52s": 5.1,
@@ -406,11 +402,11 @@
    "regras": [
     {
      "id": "queda_mes",
-     "texto": "Caiu 39,0% em 21 pregões"
+     "texto": "Caiu 38,3% em 21 pregões"
     },
     {
      "id": "abaixo_da_media",
-     "texto": "20,2% abaixo da média de 50 pregões"
+     "texto": "19,9% abaixo da média de 50 pregões"
     }
    ],
    "pontos": 2,
@@ -423,10 +419,10 @@
      "data": "2026-11-16T08:00:00Z"
     },
     {
-     "titulo": "Como as maiores varejistas do país se preparam para o fim da escala 6×1? Entenda",
-     "fonte": "InfoMoney",
-     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVGVCeTMtTThpbkFlM19vT3UyYjNEQ3ZuOGZoVFFfaDB4ZTdMOXd0Sml3QW4tN1FkMF9hRjdrSTdnZ2NSb0FKNVhBZE5EclB1eWpHLXJ1THllSkJGd3lxVUZLMnhlSDdST2swTzVkbVotSlZncDJ6ekF5ckFPUzk1eDdSRWJObTFDNFlCeGU1WXpnRVZlMWpYb2ZkZDNHRlg0cGtMNHAzVGZCb3JzUTM4Vl94OUxqMmpqTUHSAb8BQVVfeXFMUE5ySmIwcHZWbE91OUlFMUZaTTRXRzR4RnlBek1mUDJISjhYMjZHY3hSNUkxYmdoYU1OUk5qRXZsMUU0ajRPSFFNdXltMmJYb0FpUmNPUGRJRjNQSDNzcy0wZkpVeGhWNnZrVmtBUkNRNjJjNWxYWFgzNWdkVWNhblJBS1BGWE5qQXdrMEF3SGppMTdic19DeUpGb0VqNTkxNUI4RFpSWnZCd0NJRmJKZ3JHenhRb0dwNEF6TlRyRms?oc=5",
-     "data": "2026-11-13T13:00:00Z"
+     "titulo": "Ibovespa, dólar hoje, POMO4, WEGE3, BBAS3, LREN3, SUZB3 e mais: Giro de Gráficos",
+     "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeXpKaGF1cnBhMlVTUjNxVlZXNDQ1VGhndTRjTjRXUERnR3lLUzFOa3pHT2c2VVJkdDBMVjJOX0F4QXNBdlhYVGZRTzVBcUVCSzg2cDNCekdWZ291RVI4SElISGdIMERwR1lRV2U2TEFJWUlhcXZPMWcwRFZodG1ManUwTHFVNzlWdlBfNVliVGVQeFZGNFkzY3lFa3RiWnFLdUZLN0owcDk4Zm5nWU43Z05tVUZqakw2?oc=5",
+     "data": "2026-11-20T10:20:00Z"
     },
     {
      "titulo": "Estudo do Ibovespa, Petr4, Vale3, Itub4, Cxse3, Lren3, Axia3 e de Rani3",
@@ -442,8 +438,8 @@
    "tipo": "acao",
    "preco": 2.49,
    "var_dia": -3.86,
-   "var_semana": -4.96,
-   "var_mes": -62.5,
+   "var_semana": -6.04,
+   "var_mes": -61.09,
    "min_52s": 2.19,
    "max_52s": 6.97,
    "dist_min_52s": 13.7,
@@ -452,21 +448,21 @@
    "regras": [
     {
      "id": "queda_mes",
-     "texto": "Caiu 62,5% em 21 pregões"
+     "texto": "Caiu 61,1% em 21 pregões"
     },
     {
      "id": "abaixo_da_media",
-     "texto": "37,8% abaixo da média de 50 pregões"
+     "texto": "37,5% abaixo da média de 50 pregões"
     }
    ],
    "pontos": 2,
    "desde": "2026-11-19",
    "noticias": [
     {
-     "titulo": "Vamos (VAMO3) tem lucro líquido de R$ 87 milhões no 1T26, queda anual de -20%",
+     "titulo": "Lucro da Vamos (VAMO3) soma R$ 78 milhões no 4T25, queda de 53%",
      "fonte": "Nord Investimentos",
-     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBDMW9wUFdva1lTV2EtX2RxR3psSHJ6bzBaVzdlcVkxcUoyaUxzUmdNbnU3RmlHNUhPQnJhU21nRl9WVnY4NzZ4YU5tWXBwcTFQV0pDVHFDOURkS1JjXzdPUmhQZkJLb1BWc3NVNXdJS3hfWjRGbDRRNWh30gF_QVVfeXFMTUpwSG5TcTFEQ3pXQkVWRE14UmVNN0dHMmNsSWo5THgtaTBCSWR2aDEyOWd0MEZ5T0F0WlJrX0szZmIxR1hTekw2dlh1aTROSlF1VU5CVW9acjc2akEtTE9wdktFU3k0bVBUTl94REhxTkN4QldqejcxSlpQTl9OZw?oc=5",
-     "data": "2026-11-18T18:51:29Z"
+     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5kMWloYnJSVGFBUTRkOUVlamR6WXJYd1BOY3BRcXpaaG9fZUdldFJuZzJSdGo5VnNjN0Etc3MtSnNzWlZBY2hKdGpyNlFMVXZFdHZ6TVpOLU5HWHZXUVZhVVpmNWZxOTY1RjM1Z0djNWRFU1QwdFJjY1Rn0gF_QVVfeXFMTVVyc00zRHBCYjRFWVBWdzdZYlNWbjBaU0JwckdPenRvSENMWThsMXpwZEU0U3pIbXdkR0M1Y0lQMVdkVnRDV0tISnU0NUtoZ05IcXQ0amctZllFYmstTE80RTVCOWUzdXdMemlNNVh1UkRnbzhILUYyWGVpdVh1VQ?oc=5",
+     "data": "2026-11-19T08:32:50Z"
     },
     {
      "titulo": "Top 5 Recomendações da Semana: oportunidades em ações",
@@ -475,10 +471,10 @@
      "data": "2026-11-16T16:23:41Z"
     },
     {
-     "titulo": "VAMOS (VAMO3) registra recorde de receita e ocupação de frota no 2T26",
-     "fonte": "www.ativovirtual.com.br",
-     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSzNXMUhiOERlSVBHcURuM3BCeEFzQXlXQ2xFeGpkejlnM3dwazduSW5Ha2gxT1llaTA0aDFMbFJMYW9adUEyUmVzRGNkV21EYW8xN05wS04tcFlCb1BzZnJNTGphVjl4MGUwUkNmV2xvdEhoaWtLeFVabkZPQTJWTnF4NGxrWjdPZkJRTUMzeDFpeE1lUW5IU2hnRG4tekl4bnFNYTEwNE41a2tSbXF6M3ZsbUU?oc=5",
-     "data": "2026-11-16T08:00:00Z"
+     "titulo": "Vamos (VAMO3) tem lucro líquido de R$ 87 milhões no 1T26, queda anual de -20%",
+     "fonte": "Nord Investimentos",
+     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBDMW9wUFdva1lTV2EtX2RxR3psSHJ6bzBaVzdlcVkxcUoyaUxzUmdNbnU3RmlHNUhPQnJhU21nRl9WVnY4NzZ4YU5tWXBwcTFQV0pDVHFDOURkS1JjXzdPUmhQZkJLb1BWc3NVNXdJS3hfWjRGbDRRNWh30gF_QVVfeXFMTUpwSG5TcTFEQ3pXQkVWRE14UmVNN0dHMmNsSWo5THgtaTBCSWR2aDEyOWd0MEZ5T0F0WlJrX0szZmIxR1hTekw2dlh1aTROSlF1VU5CVW9acjc2akEtTE9wdktFU3k0bVBUTl94REhxTkN4QldqejcxSlpQTl9OZw?oc=5",
+     "data": "2026-11-18T18:51:29Z"
     }
    ]
   },
@@ -488,8 +484,8 @@
    "tipo": "acao",
    "preco": 4.59,
    "var_dia": -3.77,
-   "var_semana": -3.77,
-   "var_mes": -45.03,
+   "var_semana": -8.93,
+   "var_mes": -44.23,
    "min_52s": 3.85,
    "max_52s": 10.53,
    "dist_min_52s": 19.2,
@@ -497,15 +493,19 @@
    "pl": null,
    "regras": [
     {
+     "id": "queda_semana",
+     "texto": "Caiu 8,9% em 5 pregões"
+    },
+    {
      "id": "queda_mes",
-     "texto": "Caiu 45,0% em 21 pregões"
+     "texto": "Caiu 44,2% em 21 pregões"
     },
     {
      "id": "abaixo_da_media",
-     "texto": "18,9% abaixo da média de 50 pregões"
+     "texto": "18,6% abaixo da média de 50 pregões"
     }
    ],
-   "pontos": 2,
+   "pontos": 3,
    "desde": "2026-11-19",
    "noticias": [
     {
@@ -534,8 +534,8 @@
    "tipo": "acao",
    "preco": 18.43,
    "var_dia": -3.51,
-   "var_semana": -3.0,
-   "var_mes": -46.44,
+   "var_semana": -6.64,
+   "var_mes": -46.41,
    "min_52s": 16.26,
    "max_52s": 35.91,
    "dist_min_52s": 13.3,
@@ -548,29 +548,29 @@
     },
     {
      "id": "abaixo_da_media",
-     "texto": "28,3% abaixo da média de 50 pregões"
+     "texto": "27,9% abaixo da média de 50 pregões"
     }
    ],
    "pontos": 2,
    "desde": "2026-11-19",
    "noticias": [
     {
-     "titulo": "Cyrela (CYRE3) cancela 32 milhões de ações; o que muda para quem investe?",
-     "fonte": "Suno - Investimentos Inteligentes",
-     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9Ma29HOFFGQlcxelJ2LW5Hckdxam16X3ZRSVp3S0FrbkVneHV4ZHNDdXV2LVdobldBb040Z1FkQmRjYlNjaGxLYW5fb2dYa0xWVFlkcXdiaWZoeno5SU9QV3NUTndLamJVMTN6NWdIZVo3T1HSAXhBVV95cUxNQ2w1X3E4OEJ3ZFFBM2dVT0hpMGFMbGdqZlotajJKYTZXcGo1cUQ2Vy1kTFAtdktOenEySW5zT2x4VkZlRVl4UXFTVEFvYXFNQTcwWXJtNF9wUXZoWFU4eXpRNXU4OW8zYjI0eHNwQm9vMFltV2pPbDY?oc=5",
-     "data": "2026-11-13T18:19:34Z"
+     "titulo": "Cyrela pode enfrentar uma recessão sem perder o fôlego? Citi faz teste e mantém aposta",
+     "fonte": "Estadão",
+     "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOcjBsNmljazMtV1hyeEh2Qnc2TVJPc0tVek5aYU9uUmdPYWhrMm9Bem5DUVU5M2F5eGxNZzNnc2pRZHd0S0QxTk5PanRDTXhKMVN3UnBmV3dGd3BMVXRpbzlNeVJsSHJsMnpiMHJOYXB3VktkUzBranlfUmo1R0wxUU10el9laGwxRWRtd0phMElHaU9GTDFlTVdGUmkwVi1CUHFiUDJ4N3ZoeWFOeDFEaEZfLXB1cl9jS2I0VW5MTzJ2bGQtTVJoOEhKemtRVUFsOUVzdTNTZHhnNXfSAdsBQVVfeXFMTnIwbDZpY2szLVdYcnhIdkJ3Nk1ST3NLVXpOWmFPblJnT2FoazJvQXpuQ1FVOTNheXhsTWczZ3NqUWR3dEtEMU5OT2p0Q014SjFTd1JwZld3RndwTFV0aW85TXlSbEhybDJ6YjByTmFwd1ZLZFMwa2p5X1JqNUdMMVFNdHpfZWhsMUVkbXdKYTBJR2lPRkwxZU1XRlJpMFYtQlBxYlAyeDd2aHlhTngxRGhGXy1wdXJfY0tiNFVuTE8ydmxkLU1SaDhISnprUVVBbDlFc3UzU2R4ZzV3?oc=5",
+     "data": "2026-11-19T12:45:06Z"
     },
     {
-     "titulo": "Cyrela (CYRE3): ações registram ganhos de quase 4% após resultados do 3º tri",
-     "fonte": "InfoMoney",
-     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSWhlaFJfcy10cGhQVHhYaHdHMUR2bjItcVFWZUxtbFV2SGJQcTUzR3l4UnYyN3ZXUXBGQzJJajQ0dU5GVkREc0s0LTIwUGxBc1FPYUdtWnNjYXJNQ2VOeE03aEpwTWd3MHU3cjVCRHVhQVpfeXpNaFhEM2FTNDBpZ3ZqRGZCalJRbVliVEl3T0ZGeEY3VGZKS2t4T0FqdTZiT2fSAacBQVVfeXFMTTB1MGZaSHNYZm5HT2pwUkl6UU4weHlIWGRJUWw1dEotdXNERTFHRVlqdExNVXJLanZ3N1ZsTGRTaVA2a0I3Ym5qcVJFa25OQnMzeVJsdXFJQXNUaDFTX0xPZGFlTXhrdl9FZjBDaUJkUFdwZHJLeHZCLS1XR1d5d015SWdEY0llV3ZQcVdDVlVENXFrSVJzdVl5NXMwQzdNQWdLNXhGMFU?oc=5",
-     "data": "2026-11-13T21:20:33Z"
+     "titulo": "CURY3 e CYRE3 mostram uma virada discreta",
+     "fonte": "Acionista.com.br",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0zZFBvLTh5R2Eta1FhbEp3THFlSHZUY0N1czBvR1JrakFQR2cwRGt1WWpyOEdVM1JsWGJVU0k2akd1amlyVzJzUVlRNjZFakZreWgwVklCek51UERGb0htY1NCN09qSExpMHEzM042clg2elFWamc?oc=5",
+     "data": "2026-11-15T21:24:31Z"
     },
     {
-     "titulo": "Cyrela (CYRE3): forte geração de caixa e evolução das margens são destaques do 3T26; ações valem a pena?",
-     "fonte": "Empiricus",
-     "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNalh1d1htcFVpS2Q3ZjFhV2V4QmdrR3hsOXotT1lUOUJya0Q5UkFnRFdUY3l4YS03Q2JsZVZjZlZDazd0aUxvTEQ5NmkzeHFjR05pTTNkaEx3bTlOMDRldUR3b3BYQXJQNHdCbGx5WERwVENYTW5tVC1iVFRCb2ZrMXRpV1VmbzJReHVtelV2MXRUeEhsaEVST1RXb0d5OFpMOWlHMk13WkFjZS1xbTNyVFhlMkh2djh4VVFzQ1lHX2lHUncxTnBvd2FJckppUkhDelBpejFlblNBMmRxRkE4RzNDTzItY283NUdMbA?oc=5",
-     "data": "2026-11-13T13:07:00Z"
+     "titulo": "Lucro da Cyrela (CYRE3) cai 21% no 3T26, a R$ 481 milhões, mesmo com receita 12% maior",
+     "fonte": "melhorinvestimento.net",
+     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1MeFJtblVNUm1RdU02N0tQNm5RdURYSm5iQzZOeXN2NHQ2bU1pdnRfaU1KbUk3NGdBX2NPcGJpR2VzUEptMEtWSDctclY1azdXTnhSYTdQRUwyU0tGdEd1VXk2b3lBeFVFOVY3ekZuRmx0S1E0?oc=5",
+     "data": "2026-11-14T20:03:29Z"
     }
    ]
   },
@@ -580,8 +580,8 @@
    "tipo": "acao",
    "preco": 2.29,
    "var_dia": -3.38,
-   "var_semana": -4.98,
-   "var_mes": -59.82,
+   "var_semana": -4.18,
+   "var_mes": -59.11,
    "min_52s": 2.22,
    "max_52s": 7.62,
    "dist_min_52s": 3.2,
@@ -590,7 +590,7 @@
    "regras": [
     {
      "id": "queda_mes",
-     "texto": "Caiu 59,8% em 21 pregões"
+     "texto": "Caiu 59,1% em 21 pregões"
     },
     {
      "id": "perto_minima_52s",
@@ -598,7 +598,7 @@
     },
     {
      "id": "abaixo_da_media",
-     "texto": "37,8% abaixo da média de 50 pregões"
+     "texto": "37,3% abaixo da média de 50 pregões"
     }
    ],
    "pontos": 3,
@@ -630,8 +630,8 @@
    "tipo": "acao",
    "preco": 6.16,
    "var_dia": -3.14,
-   "var_semana": 15.79,
-   "var_mes": -35.5,
+   "var_semana": 8.45,
+   "var_mes": -29.52,
    "min_52s": 3.95,
    "max_52s": 17.8,
    "dist_min_52s": 55.9,
@@ -640,7 +640,7 @@
    "regras": [
     {
      "id": "queda_mes",
-     "texto": "Caiu 35,5% em 21 pregões"
+     "texto": "Caiu 29,5% em 21 pregões"
     }
    ],
    "pontos": 1,
@@ -659,10 +659,10 @@
      "data": "2026-11-18T14:55:23Z"
     },
     {
-     "titulo": "HAPV3 recua 8,1% e Ibovespa cai 1,38% hoje; JHSF3 sobe 2,7%",
-     "fonte": "Visno Invest",
-     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVFBESXJ3REdVLWxIZUlDU3ZrMlJXeDlQajY5cTAtcGhUQWRmTk92RDlJMzFTbmpOY3l3RUJSbnFlQTFwSjFYRU5iaVg1dVh1UThmUFpFbFBGU09qSEJZZE1rdXg1NFg4QUV5ckQwdm5DbXRzZEpUN1E1V0JlWTk3ZF9zbG55S1E4S0ZCWXFqaFZXRXNJ?oc=5",
-     "data": "2026-11-16T15:25:47Z"
+     "titulo": "Ibovespa sobe mais de 1% de olho no pacote fiscal",
+     "fonte": "Investidor10",
+     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQOEYyVTdiVVNIN1piRVQ2RWFjYmtmWXdDeG94cXViNDdqYlNKeXdFVGNEd1N4dFU2RGtxTFhpQjM5OVAyaUpOcTNpekxqNEFLT2xCQW96eEFVVGZwVnFOQUlwNnNvMDVyYzNBd0dkVlZ0UmFVc0piTmZQalk4MGRhaWRBcmFMbXRvNnhlVUZqRXhEbVI4dUxDTNIBngFBVV95cUxOaTRUVE50VXdOSTZubW1oenBCWnJzVmFERl9XUWxiajdDTElqak1XRUVMS0l4UlNfTE9pQ2IyWlFaQmtCNDEwaW45WG5OVUVUaElsaUZoU0lnQVJERWdsZ3ptY3hjcERGUXhGbnRnZjNuQUQ2WklQT2dPdUM5SklyckNXWDNDU0VpNEVVbERtdmNVd3U5UzdTWktyTkQxdw?oc=5",
+     "data": "2026-11-17T15:14:08Z"
     }
    ]
   },
@@ -672,8 +672,8 @@
    "tipo": "acao",
    "preco": 10.27,
    "var_dia": -2.93,
-   "var_semana": -3.2,
-   "var_mes": -37.15,
+   "var_semana": -4.02,
+   "var_mes": -36.33,
    "min_52s": 10.12,
    "max_52s": 19.65,
    "dist_min_52s": 1.5,
@@ -682,7 +682,7 @@
    "regras": [
     {
      "id": "queda_mes",
-     "texto": "Caiu 37,1% em 21 pregões"
+     "texto": "Caiu 36,3% em 21 pregões"
     },
     {
      "id": "perto_minima_52s",
@@ -690,29 +690,23 @@
     },
     {
      "id": "abaixo_da_media",
-     "texto": "21,0% abaixo da média de 50 pregões"
+     "texto": "20,7% abaixo da média de 50 pregões"
     }
    ],
    "pontos": 3,
    "desde": "2026-11-19",
    "noticias": [
     {
-     "titulo": "GPS (GGPS3) lucrou R$ 162,5 milhões no terceiro trimestre de 2026 com alta de 3,4%",
-     "fonte": "TradeMap",
-     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE40ckVoS3gyOHNmOTU5VHBzbDJuN1pCWDJCQjdwVTZNSjRwWnMzNTJTMUFTT0xnN3k2dEVSRVhQWkJZLWJrcXRQS1UwSVh0XzRGNUQ4UkRsbDM?oc=5",
-     "data": "2026-11-13T20:30:00Z"
+     "titulo": "GPS Participações conclui aquisição da Qualidados e amplia atuação em serviços de engenharia",
+     "fonte": "ADVFN",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9qRW96ekJpUG5YN0gtYzBCdGFDWTY1QW9fNDVzaldfQWdBdjhwMG5wQnFDcmtEV1RZN2lMY1A4U0RQTWZTM1JieXdRaXRZLUlHVFREdzY5bUdOYy1YRThkbThjTFBpNmFUNEE?oc=5",
+     "data": "2026-11-19T12:31:29Z"
     },
     {
-     "titulo": "Grupo GPS (GGPS3) tem lucro ajustado de R$ 193 mi no 3º trimestre, alta de 3%",
-     "fonte": "Money Times",
-     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPblN0NUwzWE5Sd182bnBDV3EwcEpRaUg0NlNhN0pyMzVZMndkb1pOMjNHU1VRQ201Snc4cWk3Y1hOaERCVkZQd0pHcHJ2UU9UcTBEMTRlR3JZUFFBRnRPYWFEaTRfcTA4TDB0bzM5bTNKQjFxZ2h5Y2lBcHZlZkh2NncySWQ4RFgySk1oY0VyUGVvdVByU2NKT3FPRWdpdzk5Zm5ock9PT0JackRV?oc=5",
-     "data": "2026-11-13T09:37:00Z"
-    },
-    {
-     "titulo": "Grupo GPS (GGPS3) conclui compra de 80% da Qualidados",
-     "fonte": "Visno Invest",
-     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOODBGVjJvVnBjVWFMSFAxR2x4Y3VIUVV3VG5GZVBtczlRYzBmT2pvcmdKMEQwdENpN3BHQVAzeUFFZ3MxanZ1a0d0X2JhdEV2aTFGcjZwbEctR0Fpa3hVLVpUdzc4UFhTaDlNenE1LThRejhReGhOWVZudDhEQjNYYnVUMEdISWxqQTlvOG5PaDRlUQ?oc=5",
-     "data": "2026-11-18T21:33:18Z"
+     "titulo": "GPS conclui aquisição da Qualidados",
+     "fonte": "Finance News",
+     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9oYm82UnRMUzFjWDJyR2F1enhTdEhqUlhHRnFERzM3MWlxUkdDbEhDRTNPbmgwdGlXZjVLOVJIVWJKc210QTBZLUM2Z1plVzJQSUJfV1NVdEFGdmN6Q0x3aTZQZjlBamMwejlwRUt3d21zWWxRS3EySnhTcw?oc=5",
+     "data": "2026-11-19T00:07:39Z"
     }
    ]
   },
@@ -722,8 +716,8 @@
    "tipo": "acao",
    "preco": 4,
    "var_dia": -2.91,
-   "var_semana": -16.32,
-   "var_mes": -66.16,
+   "var_semana": -17.53,
+   "var_mes": -65.22,
    "min_52s": 3.94,
    "max_52s": 16,
    "dist_min_52s": 1.5,
@@ -732,11 +726,11 @@
    "regras": [
     {
      "id": "queda_semana",
-     "texto": "Caiu 16,3% em 5 pregões"
+     "texto": "Caiu 17,5% em 5 pregões"
     },
     {
      "id": "queda_mes",
-     "texto": "Caiu 66,2% em 21 pregões"
+     "texto": "Caiu 65,2% em 21 pregões"
     },
     {
      "id": "perto_minima_52s",
@@ -748,7 +742,7 @@
     },
     {
      "id": "abaixo_da_media",
-     "texto": "48,5% abaixo da média de 50 pregões"
+     "texto": "47,8% abaixo da média de 50 pregões"
     }
    ],
    "pontos": 5,
@@ -769,7 +763,7 @@
    "preco": 60.2,
    "var_dia": -2.7,
    "var_semana": -4.9,
-   "var_mes": -15.51,
+   "var_mes": -15.58,
    "min_52s": 37.11,
    "max_52s": 74.6,
    "dist_min_52s": 62.2,
@@ -778,7 +772,7 @@
    "regras": [
     {
      "id": "queda_mes",
-     "texto": "Caiu 15,5% em 21 pregões"
+     "texto": "Caiu 15,6% em 21 pregões"
     }
    ],
    "pontos": 1,
@@ -791,8 +785,8 @@
    "tipo": "acao",
    "preco": 12.83,
    "var_dia": -2.51,
-   "var_semana": -11.58,
-   "var_mes": -38.82,
+   "var_semana": -11.52,
+   "var_mes": -39.02,
    "min_52s": 12.66,
    "max_52s": 22.28,
    "dist_min_52s": 1.3,
@@ -801,11 +795,11 @@
    "regras": [
     {
      "id": "queda_semana",
-     "texto": "Caiu 11,6% em 5 pregões"
+     "texto": "Caiu 11,5% em 5 pregões"
     },
     {
      "id": "queda_mes",
-     "texto": "Caiu 38,8% em 21 pregões"
+     "texto": "Caiu 39,0% em 21 pregões"
     },
     {
      "id": "perto_minima_52s",
@@ -817,7 +811,7 @@
     },
     {
      "id": "abaixo_da_media",
-     "texto": "28,3% abaixo da média de 50 pregões"
+     "texto": "27,8% abaixo da média de 50 pregões"
     }
    ],
    "pontos": 5,
@@ -830,8 +824,8 @@
    "tipo": "acao",
    "preco": 2.37,
    "var_dia": -2.47,
-   "var_semana": -5.2,
-   "var_mes": -53.89,
+   "var_semana": -6.69,
+   "var_mes": -52.6,
    "min_52s": 1.92,
    "max_52s": 5.83,
    "dist_min_52s": 23.4,
@@ -840,11 +834,11 @@
    "regras": [
     {
      "id": "queda_mes",
-     "texto": "Caiu 53,9% em 21 pregões"
+     "texto": "Caiu 52,6% em 21 pregões"
     },
     {
      "id": "abaixo_da_media",
-     "texto": "28,8% abaixo da média de 50 pregões"
+     "texto": "28,6% abaixo da média de 50 pregões"
     }
    ],
    "pontos": 2,
@@ -857,8 +851,8 @@
    "tipo": "acao",
    "preco": 9.53,
    "var_dia": -2.36,
-   "var_semana": -3.44,
-   "var_mes": -32.36,
+   "var_semana": -2.56,
+   "var_mes": -32.74,
    "min_52s": 7.08,
    "max_52s": 14.73,
    "dist_min_52s": 34.6,
@@ -867,11 +861,11 @@
    "regras": [
     {
      "id": "queda_mes",
-     "texto": "Caiu 32,4% em 21 pregões"
+     "texto": "Caiu 32,7% em 21 pregões"
     },
     {
      "id": "abaixo_da_media",
-     "texto": "16,5% abaixo da média de 50 pregões"
+     "texto": "16,2% abaixo da média de 50 pregões"
     }
    ],
    "pontos": 2,
@@ -884,8 +878,8 @@
    "tipo": "acao",
    "preco": 32.9,
    "var_dia": -2.29,
-   "var_semana": -3.49,
-   "var_mes": -33.64,
+   "var_semana": -4.19,
+   "var_mes": -32.35,
    "min_52s": 31.35,
    "max_52s": 51.26,
    "dist_min_52s": 4.9,
@@ -894,7 +888,7 @@
    "regras": [
     {
      "id": "queda_mes",
-     "texto": "Caiu 33,6% em 21 pregões"
+     "texto": "Caiu 32,3% em 21 pregões"
     },
     {
      "id": "perto_minima_52s",
@@ -902,7 +896,7 @@
     },
     {
      "id": "abaixo_da_media",
-     "texto": "18,2% abaixo da média de 50 pregões"
+     "texto": "17,9% abaixo da média de 50 pregões"
     }
    ],
    "pontos": 3,
@@ -915,8 +909,8 @@
    "tipo": "fii",
    "preco": 16.83,
    "var_dia": -2.26,
-   "var_semana": -3.05,
-   "var_mes": -12.15,
+   "var_semana": -5.13,
+   "var_mes": -12.47,
    "min_52s": 16.7,
    "max_52s": 21.05,
    "dist_min_52s": 0.8,
@@ -928,8 +922,12 @@
      "texto": "Caiu 2,3% no dia"
     },
     {
+     "id": "queda_semana",
+     "texto": "Caiu 5,1% em 5 pregões"
+    },
+    {
      "id": "queda_mes",
-     "texto": "Caiu 12,2% em 21 pregões"
+     "texto": "Caiu 12,5% em 21 pregões"
     },
     {
      "id": "perto_minima_52s",
@@ -937,10 +935,10 @@
     },
     {
      "id": "abaixo_da_media",
-     "texto": "7,5% abaixo da média de 50 pregões"
+     "texto": "7,4% abaixo da média de 50 pregões"
     }
    ],
-   "pontos": 4,
+   "pontos": 5,
    "desde": "2026-11-19",
    "noticias": []
   },
@@ -950,8 +948,8 @@
    "tipo": "fii",
    "preco": 6.08,
    "var_dia": -2.25,
-   "var_semana": -5.15,
-   "var_mes": -19.42,
+   "var_semana": -8.39,
+   "var_mes": -19.53,
    "min_52s": 6.06,
    "max_52s": 8.9,
    "dist_min_52s": 0.3,
@@ -964,11 +962,11 @@
     },
     {
      "id": "queda_semana",
-     "texto": "Caiu 5,1% em 5 pregões"
+     "texto": "Caiu 8,4% em 5 pregões"
     },
     {
      "id": "queda_mes",
-     "texto": "Caiu 19,4% em 21 pregões"
+     "texto": "Caiu 19,5% em 21 pregões"
     },
     {
      "id": "perto_minima_52s",
@@ -976,7 +974,7 @@
     },
     {
      "id": "abaixo_da_media",
-     "texto": "12,7% abaixo da média de 50 pregões"
+     "texto": "12,5% abaixo da média de 50 pregões"
     }
    ],
    "pontos": 5,
@@ -989,8 +987,8 @@
    "tipo": "acao",
    "preco": 13.72,
    "var_dia": -2.21,
-   "var_semana": -3.79,
-   "var_mes": -36.51,
+   "var_semana": -3.99,
+   "var_mes": -35.04,
    "min_52s": 13.49,
    "max_52s": 27.42,
    "dist_min_52s": 1.7,
@@ -999,7 +997,7 @@
    "regras": [
     {
      "id": "queda_mes",
-     "texto": "Caiu 36,5% em 21 pregões"
+     "texto": "Caiu 35,0% em 21 pregões"
     },
     {
      "id": "perto_minima_52s",
@@ -1011,7 +1009,7 @@
     },
     {
      "id": "abaixo_da_media",
-     "texto": "24,3% abaixo da média de 50 pregões"
+     "texto": "23,8% abaixo da média de 50 pregões"
     }
    ],
    "pontos": 4,
@@ -1024,8 +1022,8 @@
    "tipo": "acao",
    "preco": 8.74,
    "var_dia": -2.13,
-   "var_semana": -5.51,
-   "var_mes": -23.47,
+   "var_semana": -8.29,
+   "var_mes": -23.73,
    "min_52s": 7.79,
    "max_52s": 19.04,
    "dist_min_52s": 12.2,
@@ -1033,15 +1031,19 @@
    "pl": 5.6,
    "regras": [
     {
+     "id": "queda_semana",
+     "texto": "Caiu 8,3% em 5 pregões"
+    },
+    {
      "id": "queda_mes",
-     "texto": "Caiu 23,5% em 21 pregões"
+     "texto": "Caiu 23,7% em 21 pregões"
     },
     {
      "id": "abaixo_da_media",
-     "texto": "13,0% abaixo da média de 50 pregões"
+     "texto": "12,6% abaixo da média de 50 pregões"
     }
    ],
-   "pontos": 2,
+   "pontos": 3,
    "desde": "2026-11-19",
    "noticias": []
   },
@@ -1051,8 +1053,8 @@
    "tipo": "acao",
    "preco": 3.34,
    "var_dia": -2.05,
-   "var_semana": -4.84,
-   "var_mes": -9.49,
+   "var_semana": -3.47,
+   "var_mes": -7.73,
    "min_52s": 3.24,
    "max_52s": 4.21,
    "dist_min_52s": 3.1,
@@ -1074,8 +1076,8 @@
    "tipo": "acao",
    "preco": 28.86,
    "var_dia": -2,
-   "var_semana": -2.43,
-   "var_mes": -45.4,
+   "var_semana": -4.02,
+   "var_mes": -45.07,
    "min_52s": 26.21,
    "max_52s": 54.87,
    "dist_min_52s": 10.1,
@@ -1084,11 +1086,11 @@
    "regras": [
     {
      "id": "queda_mes",
-     "texto": "Caiu 45,4% em 21 pregões"
+     "texto": "Caiu 45,1% em 21 pregões"
     },
     {
      "id": "abaixo_da_media",
-     "texto": "25,0% abaixo da média de 50 pregões"
+     "texto": "24,8% abaixo da média de 50 pregões"
     }
    ],
    "pontos": 2,
@@ -1101,8 +1103,8 @@
    "tipo": "acao",
    "preco": 1.57,
    "var_dia": -1.88,
-   "var_semana": -0.63,
-   "var_mes": -51.69,
+   "var_semana": 0.0,
+   "var_mes": -48.01,
    "min_52s": 1.37,
    "max_52s": 4.75,
    "dist_min_52s": 14.6,
@@ -1111,11 +1113,11 @@
    "regras": [
     {
      "id": "queda_mes",
-     "texto": "Caiu 51,7% em 21 pregões"
+     "texto": "Caiu 48,0% em 21 pregões"
     },
     {
      "id": "abaixo_da_media",
-     "texto": "29,7% abaixo da média de 50 pregões"
+     "texto": "29,2% abaixo da média de 50 pregões"
     }
    ],
    "pontos": 2,
@@ -1128,8 +1130,8 @@
    "tipo": "fii",
    "preco": 5.4,
    "var_dia": -1.82,
-   "var_semana": -3.74,
-   "var_mes": -18.74,
+   "var_semana": -5.1,
+   "var_mes": -18.98,
    "min_52s": 5.35,
    "max_52s": 7.11,
    "dist_min_52s": 0.9,
@@ -1137,8 +1139,12 @@
    "pl": null,
    "regras": [
     {
+     "id": "queda_semana",
+     "texto": "Caiu 5,1% em 5 pregões"
+    },
+    {
      "id": "queda_mes",
-     "texto": "Caiu 18,7% em 21 pregões"
+     "texto": "Caiu 19,0% em 21 pregões"
     },
     {
      "id": "perto_minima_52s",
@@ -1150,10 +1156,10 @@
     },
     {
      "id": "abaixo_da_media",
-     "texto": "12,2% abaixo da média de 50 pregões"
+     "texto": "12,0% abaixo da média de 50 pregões"
     }
    ],
-   "pontos": 4,
+   "pontos": 5,
    "desde": "2026-11-19",
    "noticias": []
   },
@@ -1163,8 +1169,8 @@
    "tipo": "acao",
    "preco": 13.83,
    "var_dia": -1.78,
-   "var_semana": -3.42,
-   "var_mes": -33.05,
+   "var_semana": -4.75,
+   "var_mes": -32.95,
    "min_52s": 13.44,
    "max_52s": 23,
    "dist_min_52s": 2.9,
@@ -1173,7 +1179,7 @@
    "regras": [
     {
      "id": "queda_mes",
-     "texto": "Caiu 33,0% em 21 pregões"
+     "texto": "Caiu 32,9% em 21 pregões"
     },
     {
      "id": "perto_minima_52s",
@@ -1181,7 +1187,7 @@
     },
     {
      "id": "abaixo_da_media",
-     "texto": "20,9% abaixo da média de 50 pregões"
+     "texto": "20,6% abaixo da média de 50 pregões"
     }
    ],
    "pontos": 3,
@@ -1194,21 +1200,21 @@
    "tipo": "acao",
    "preco": 25.75,
    "var_dia": -1.76,
-   "var_semana": -3.56,
-   "var_mes": -27.26,
+   "var_semana": -3.71,
+   "var_mes": -25.51,
    "min_52s": 22.99,
    "max_52s": 36.26,
    "dist_min_52s": 12.0,
-   "rsi14": 39.5,
+   "rsi14": 41.5,
    "pl": 11.8,
    "regras": [
     {
      "id": "queda_mes",
-     "texto": "Caiu 27,3% em 21 pregões"
+     "texto": "Caiu 25,5% em 21 pregões"
     },
     {
      "id": "abaixo_da_media",
-     "texto": "12,0% abaixo da média de 50 pregões"
+     "texto": "10,8% abaixo da média de 50 pregões"
     }
    ],
    "pontos": 2,
@@ -1223,8 +1229,8 @@
    "tipo": "acao",
    "preco": 14.63,
    "var_dia": -7.29,
-   "var_semana": -13.43,
-   "var_mes": -46.15
+   "var_semana": -8.05,
+   "var_mes": -43.29
   },
   {
    "ticker": "NATU3",
@@ -1232,8 +1238,8 @@
    "tipo": "acao",
    "preco": 4.48,
    "var_dia": -6.28,
-   "var_semana": -15.95,
-   "var_mes": -41.44
+   "var_semana": -12.67,
+   "var_mes": -41.28
   },
   {
    "ticker": "CSNA3",
@@ -1241,8 +1247,8 @@
    "tipo": "acao",
    "preco": 3.43,
    "var_dia": -6.03,
-   "var_semana": -18.91,
-   "var_mes": -42.93
+   "var_semana": -7.8,
+   "var_mes": -39.93
   },
   {
    "ticker": "CEAB3",
@@ -1250,8 +1256,8 @@
    "tipo": "acao",
    "preco": 7.5,
    "var_dia": -4.82,
-   "var_semana": -5.66,
-   "var_mes": -47.44
+   "var_semana": -7.86,
+   "var_mes": -45.85
   },
   {
    "ticker": "XPML11",
@@ -1259,8 +1265,8 @@
    "tipo": "fii",
    "preco": 81.99,
    "var_dia": -4.44,
-   "var_semana": -7.56,
-   "var_mes": -21.94
+   "var_semana": -10.06,
+   "var_mes": -21.15
   },
   {
    "ticker": "MOVI3",
@@ -1268,8 +1274,8 @@
    "tipo": "acao",
    "preco": 5.64,
    "var_dia": -4.41,
-   "var_semana": -6.0,
-   "var_mes": -71.74
+   "var_semana": -7.69,
+   "var_mes": -70.19
   },
   {
    "ticker": "POMO4",
@@ -1277,8 +1283,8 @@
    "tipo": "acao",
    "preco": 3.62,
    "var_dia": -4.23,
-   "var_semana": -2.69,
-   "var_mes": -26.87
+   "var_semana": -3.47,
+   "var_mes": -22.65
   },
   {
    "ticker": "LREN3",
@@ -1286,8 +1292,8 @@
    "tipo": "acao",
    "preco": 9.1,
    "var_dia": -3.91,
-   "var_semana": -3.19,
-   "var_mes": -39.05
+   "var_semana": -6.38,
+   "var_mes": -38.31
   },
   {
    "ticker": "VAMO3",
@@ -1295,8 +1301,8 @@
    "tipo": "acao",
    "preco": 2.49,
    "var_dia": -3.86,
-   "var_semana": -4.96,
-   "var_mes": -62.5
+   "var_semana": -6.04,
+   "var_mes": -61.09
   },
   {
    "ticker": "MRVE3",
@@ -1304,8 +1310,8 @@
    "tipo": "acao",
    "preco": 4.59,
    "var_dia": -3.77,
-   "var_semana": -3.77,
-   "var_mes": -45.03
+   "var_semana": -8.93,
+   "var_mes": -44.23
   },
   {
    "ticker": "CYRE3",
@@ -1313,8 +1319,8 @@
    "tipo": "acao",
    "preco": 18.43,
    "var_dia": -3.51,
-   "var_semana": -3.0,
-   "var_mes": -46.44
+   "var_semana": -6.64,
+   "var_mes": -46.41
   },
   {
    "ticker": "PGMN3",
@@ -1322,8 +1328,8 @@
    "tipo": "acao",
    "preco": 2.29,
    "var_dia": -3.38,
-   "var_semana": -4.98,
-   "var_mes": -59.82
+   "var_semana": -4.18,
+   "var_mes": -59.11
   },
   {
    "ticker": "HAPV3",
@@ -1331,8 +1337,8 @@
    "tipo": "acao",
    "preco": 6.16,
    "var_dia": -3.14,
-   "var_semana": 15.79,
-   "var_mes": -35.5
+   "var_semana": 8.45,
+   "var_mes": -29.52
   },
   {
    "ticker": "GGPS3",
@@ -1340,8 +1346,8 @@
    "tipo": "acao",
    "preco": 10.27,
    "var_dia": -2.93,
-   "var_semana": -3.2,
-   "var_mes": -37.15
+   "var_semana": -4.02,
+   "var_mes": -36.33
   },
   {
    "ticker": "SBFG3",
@@ -1349,8 +1355,8 @@
    "tipo": "acao",
    "preco": 4,
    "var_dia": -2.91,
-   "var_semana": -16.32,
-   "var_mes": -66.16
+   "var_semana": -17.53,
+   "var_mes": -65.22
   },
   {
    "ticker": "PRIO3",
@@ -1359,7 +1365,7 @@
    "preco": 60.2,
    "var_dia": -2.7,
    "var_semana": -4.9,
-   "var_mes": -15.51
+   "var_mes": -15.58
   },
   {
    "ticker": "BRAV3",
@@ -1367,8 +1373,8 @@
    "tipo": "acao",
    "preco": 12.83,
    "var_dia": -2.51,
-   "var_semana": -11.58,
-   "var_mes": -38.82
+   "var_semana": -11.52,
+   "var_mes": -39.02
   },
   {
    "ticker": "ANIM3",
@@ -1376,8 +1382,8 @@
    "tipo": "acao",
    "preco": 2.37,
    "var_dia": -2.47,
-   "var_semana": -5.2,
-   "var_mes": -53.89
+   "var_semana": -6.69,
+   "var_mes": -52.6
   },
   {
    "ticker": "JHSF3",
@@ -1385,8 +1391,8 @@
    "tipo": "acao",
    "preco": 9.53,
    "var_dia": -2.36,
-   "var_semana": -3.44,
-   "var_mes": -32.36
+   "var_semana": -2.56,
+   "var_mes": -32.74
   },
   {
    "ticker": "EQTL3",
@@ -1394,8 +1400,8 @@
    "tipo": "acao",
    "preco": 32.9,
    "var_dia": -2.29,
-   "var_semana": -3.49,
-   "var_mes": -33.64
+   "var_semana": -4.19,
+   "var_mes": -32.35
   },
   {
    "ticker": "HGBS11",
@@ -1403,8 +1409,8 @@
    "tipo": "fii",
    "preco": 16.83,
    "var_dia": -2.26,
-   "var_semana": -3.05,
-   "var_mes": -12.15
+   "var_semana": -5.13,
+   "var_mes": -12.47
   },
   {
    "ticker": "RBRX11",
@@ -1412,8 +1418,8 @@
    "tipo": "fii",
    "preco": 6.08,
    "var_dia": -2.25,
-   "var_semana": -5.15,
-   "var_mes": -19.42
+   "var_semana": -8.39,
+   "var_mes": -19.53
   },
   {
    "ticker": "RADL3",
@@ -1421,8 +1427,8 @@
    "tipo": "acao",
    "preco": 13.72,
    "var_dia": -2.21,
-   "var_semana": -3.79,
-   "var_mes": -36.51
+   "var_semana": -3.99,
+   "var_mes": -35.04
   },
   {
    "ticker": "DIRR3",
@@ -1430,8 +1436,8 @@
    "tipo": "acao",
    "preco": 8.74,
    "var_dia": -2.13,
-   "var_semana": -5.51,
-   "var_mes": -23.47
+   "var_semana": -8.29,
+   "var_mes": -23.73
   },
   {
    "ticker": "KLBN4",
@@ -1439,8 +1445,8 @@
    "tipo": "acao",
    "preco": 3.34,
    "var_dia": -2.05,
-   "var_semana": -4.84,
-   "var_mes": -9.49
+   "var_semana": -3.47,
+   "var_mes": -7.73
   },
   {
    "ticker": "RENT3",
@@ -1448,8 +1454,8 @@
    "tipo": "acao",
    "preco": 28.86,
    "var_dia": -2,
-   "var_semana": -2.43,
-   "var_mes": -45.4
+   "var_semana": -4.02,
+   "var_mes": -45.07
   },
   {
    "ticker": "SAUD3",
@@ -1457,8 +1463,8 @@
    "tipo": "acao",
    "preco": 15.54,
    "var_dia": -1.89,
-   "var_semana": -4.6,
-   "var_mes": 1.57
+   "var_semana": -5.42,
+   "var_mes": 3.28
   },
   {
    "ticker": "COGN3",
@@ -1466,8 +1472,8 @@
    "tipo": "acao",
    "preco": 1.57,
    "var_dia": -1.88,
-   "var_semana": -0.63,
-   "var_mes": -51.69
+   "var_semana": 0.0,
+   "var_mes": -48.01
   },
   {
    "ticker": "HFOF11",
@@ -1475,8 +1481,8 @@
    "tipo": "fii",
    "preco": 5.4,
    "var_dia": -1.82,
-   "var_semana": -3.74,
-   "var_mes": -18.74
+   "var_semana": -5.1,
+   "var_mes": -18.98
   },
   {
    "ticker": "BBDC4",
@@ -1484,8 +1490,8 @@
    "tipo": "acao",
    "preco": 13.83,
    "var_dia": -1.78,
-   "var_semana": -3.42,
-   "var_mes": -33.05
+   "var_semana": -4.75,
+   "var_mes": -32.95
   },
   {
    "ticker": "ALOS3",
@@ -1493,17 +1499,8 @@
    "tipo": "acao",
    "preco": 25.75,
    "var_dia": -1.76,
-   "var_semana": -3.56,
-   "var_mes": -27.26
-  },
-  {
-   "ticker": "BTLG11",
-   "nome": "BTG PACTUAL LOGÍSTICA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
-   "tipo": "fii",
-   "preco": 94.8,
-   "var_dia": -1.68,
-   "var_semana": -2.37,
-   "var_mes": -8.79
+   "var_semana": -3.71,
+   "var_mes": -25.51
   },
   {
    "ticker": "MCRE11",
@@ -1511,7 +1508,7 @@
    "tipo": "fii",
    "preco": 6.55,
    "var_dia": -1.65,
-   "var_semana": -2.96,
+   "var_semana": -6.38,
    "var_mes": -22.71
   },
   {
@@ -1520,8 +1517,8 @@
    "tipo": "acao",
    "preco": 18.39,
    "var_dia": -1.61,
-   "var_semana": 1.43,
-   "var_mes": -0.81
+   "var_semana": 0.77,
+   "var_mes": -2.23
   },
   {
    "ticker": "CSAN3",
@@ -1529,8 +1526,8 @@
    "tipo": "acao",
    "preco": 3.08,
    "var_dia": -1.6,
-   "var_semana": 8.07,
-   "var_mes": -41.56
+   "var_semana": -0.65,
+   "var_mes": -39.49
   },
   {
    "ticker": "BTCI11",
@@ -1538,7 +1535,7 @@
    "tipo": "fii",
    "preco": 8,
    "var_dia": -1.48,
-   "var_semana": -2.56,
+   "var_semana": -1.96,
    "var_mes": -11.36
   },
   {
@@ -1547,8 +1544,8 @@
    "tipo": "acao",
    "preco": 8.2,
    "var_dia": -1.44,
-   "var_semana": 15.98,
-   "var_mes": -39.62
+   "var_semana": 4.99,
+   "var_mes": -37.12
   },
   {
    "ticker": "PETR3",
@@ -1556,8 +1553,8 @@
    "tipo": "acao",
    "preco": 48.63,
    "var_dia": -1.36,
-   "var_semana": -4.74,
-   "var_mes": -25.01
+   "var_semana": -6.25,
+   "var_mes": -24.9
   },
   {
    "ticker": "BBDC3",
@@ -1565,8 +1562,8 @@
    "tipo": "acao",
    "preco": 12.74,
    "var_dia": -1.24,
-   "var_semana": -4.14,
-   "var_mes": -30.03
+   "var_semana": -5.21,
+   "var_mes": -30.19
   },
   {
    "ticker": "PETR4",
@@ -1574,8 +1571,8 @@
    "tipo": "acao",
    "preco": 42.67,
    "var_dia": -1.16,
-   "var_semana": -4.54,
-   "var_mes": -26.7
+   "var_semana": -5.81,
+   "var_mes": -26.11
   },
   {
    "ticker": "KLBN11",
@@ -1583,8 +1580,8 @@
    "tipo": "acao",
    "preco": 16.94,
    "var_dia": -1.11,
-   "var_semana": -3.97,
-   "var_mes": -8.03
+   "var_semana": -2.59,
+   "var_mes": -6.92
   },
   {
    "ticker": "RDOR3",
@@ -1592,8 +1589,8 @@
    "tipo": "acao",
    "preco": 35.91,
    "var_dia": -1.1,
-   "var_semana": 4.88,
-   "var_mes": -18.55
+   "var_semana": 2.28,
+   "var_mes": -17.84
   },
   {
    "ticker": "MULT3",
@@ -1601,8 +1598,8 @@
    "tipo": "acao",
    "preco": 26.4,
    "var_dia": -1.01,
-   "var_semana": -3.37,
-   "var_mes": -30.45
+   "var_semana": -3.44,
+   "var_mes": -29.13
   },
   {
    "ticker": "CMIN3",
@@ -1610,8 +1607,8 @@
    "tipo": "acao",
    "preco": 5.02,
    "var_dia": -0.99,
-   "var_semana": 4.15,
-   "var_mes": 0.4
+   "var_semana": 8.19,
+   "var_mes": 1.21
   },
   {
    "ticker": "VIVT3",
@@ -1619,8 +1616,8 @@
    "tipo": "acao",
    "preco": 35.22,
    "var_dia": -0.96,
-   "var_semana": 4.76,
-   "var_mes": 9.83
+   "var_semana": 3.47,
+   "var_mes": 8.31
   },
   {
    "ticker": "ASAI3",
@@ -1628,8 +1625,8 @@
    "tipo": "acao",
    "preco": 9.38,
    "var_dia": -0.95,
-   "var_semana": -0.95,
-   "var_mes": -32.9
+   "var_semana": -3.1,
+   "var_mes": -32.23
   },
   {
    "ticker": "AUAU3",
@@ -1637,8 +1634,8 @@
    "tipo": "acao",
    "preco": 4.23,
    "var_dia": -0.94,
-   "var_semana": 3.42,
-   "var_mes": -19.58
+   "var_semana": 0.48,
+   "var_mes": -20.34
   },
   {
    "ticker": "TIMS3",
@@ -1646,8 +1643,8 @@
    "tipo": "acao",
    "preco": 22,
    "var_dia": -0.9,
-   "var_semana": 2.37,
-   "var_mes": 15.55
+   "var_semana": 2.09,
+   "var_mes": 13.58
   },
   {
    "ticker": "VALE3",
@@ -1655,8 +1652,8 @@
    "tipo": "acao",
    "preco": 58.48,
    "var_dia": -0.88,
-   "var_semana": -8.55,
-   "var_mes": -10.64
+   "var_semana": -7.91,
+   "var_mes": -8.67
   },
   {
    "ticker": "TRPL11",
@@ -1673,8 +1670,8 @@
    "tipo": "acao",
    "preco": 9.24,
    "var_dia": -0.86,
-   "var_semana": -3.21,
-   "var_mes": -51.0
+   "var_semana": -6.38,
+   "var_mes": -51.48
   },
   {
    "ticker": "GGRC11",
@@ -1682,8 +1679,8 @@
    "tipo": "fii",
    "preco": 8.09,
    "var_dia": -0.86,
-   "var_semana": -1.94,
-   "var_mes": -11.47
+   "var_semana": -3.11,
+   "var_mes": -11.08
   },
   {
    "ticker": "VBBR3",
@@ -1691,8 +1688,8 @@
    "tipo": "acao",
    "preco": 30.13,
    "var_dia": -0.86,
-   "var_semana": 0.7,
-   "var_mes": -17.86
+   "var_semana": -1.44,
+   "var_mes": -18.19
   },
   {
    "ticker": "BPAC11",
@@ -1700,8 +1697,8 @@
    "tipo": "acao",
    "preco": 49.69,
    "var_dia": -0.84,
-   "var_semana": -8.22,
-   "var_mes": -39.19
+   "var_semana": -7.98,
+   "var_mes": -38.32
   },
   {
    "ticker": "KNSC11",
@@ -1709,8 +1706,8 @@
    "tipo": "fii",
    "preco": 8.26,
    "var_dia": -0.84,
-   "var_semana": -1.67,
-   "var_mes": -8.99
+   "var_semana": -3.62,
+   "var_mes": -8.29
   },
   {
    "ticker": "ENGI11",
@@ -1718,8 +1715,8 @@
    "tipo": "acao",
    "preco": 48.44,
    "var_dia": -0.78,
-   "var_semana": 2.22,
-   "var_mes": -28.23
+   "var_semana": 0.19,
+   "var_mes": -26.61
   },
   {
    "ticker": "CPTS11",
@@ -1727,7 +1724,7 @@
    "tipo": "fii",
    "preco": 6.54,
    "var_dia": -0.76,
-   "var_semana": -2.38,
+   "var_semana": -3.66,
    "var_mes": -14.7
   },
   {
@@ -1736,8 +1733,8 @@
    "tipo": "acao",
    "preco": 31.36,
    "var_dia": -0.76,
-   "var_semana": -1.13,
-   "var_mes": -21.15
+   "var_semana": -4.3,
+   "var_mes": -21.66
   },
   {
    "ticker": "GARE11",
@@ -1745,8 +1742,8 @@
    "tipo": "fii",
    "preco": 7.91,
    "var_dia": -0.75,
-   "var_semana": -2.47,
-   "var_mes": -8.88
+   "var_semana": -3.77,
+   "var_mes": -8.57
   },
   {
    "ticker": "MXRF11",
@@ -1754,8 +1751,8 @@
    "tipo": "fii",
    "preco": 8.5,
    "var_dia": -0.7,
-   "var_semana": -2.3,
-   "var_mes": -9.18
+   "var_semana": -2.86,
+   "var_mes": -8.98
   },
   {
    "ticker": "ECOR3",
@@ -1763,8 +1760,8 @@
    "tipo": "acao",
    "preco": 5.87,
    "var_dia": -0.68,
-   "var_semana": 4.08,
-   "var_mes": -57.31
+   "var_semana": -1.34,
+   "var_mes": -55.96
   },
   {
    "ticker": "RBVA11",
@@ -1772,7 +1769,7 @@
    "tipo": "fii",
    "preco": 7.42,
    "var_dia": -0.67,
-   "var_semana": -5.96,
+   "var_semana": -7.83,
    "var_mes": -17.28
   },
   {
@@ -1781,8 +1778,8 @@
    "tipo": "acao",
    "preco": 46,
    "var_dia": -0.65,
-   "var_semana": -3.16,
-   "var_mes": -22.36
+   "var_semana": -4.96,
+   "var_mes": -21.47
   },
   {
    "ticker": "CPLE3",
@@ -1790,8 +1787,8 @@
    "tipo": "acao",
    "preco": 15.19,
    "var_dia": -0.59,
-   "var_semana": 0.26,
-   "var_mes": -13.94
+   "var_semana": -1.24,
+   "var_mes": -12.5
   },
   {
    "ticker": "VGHF11",
@@ -1799,8 +1796,8 @@
    "tipo": "fii",
    "preco": 3.87,
    "var_dia": -0.51,
-   "var_semana": -1.02,
-   "var_mes": -31.03
+   "var_semana": -3.49,
+   "var_mes": -31.75
   },
   {
    "ticker": "BTHF11",
@@ -1808,8 +1805,8 @@
    "tipo": "fii",
    "preco": 7.96,
    "var_dia": -0.5,
-   "var_semana": -2.33,
-   "var_mes": -9.65
+   "var_semana": -2.81,
+   "var_mes": -9.34
   },
   {
    "ticker": "SUZB3",
@@ -1817,8 +1814,8 @@
    "tipo": "acao",
    "preco": 55.32,
    "var_dia": -0.5,
-   "var_semana": -1.28,
-   "var_mes": 30.47
+   "var_semana": 1.0,
+   "var_mes": 29.74
   },
   {
    "ticker": "WEGE3",
@@ -1826,8 +1823,8 @@
    "tipo": "acao",
    "preco": 51.13,
    "var_dia": -0.49,
-   "var_semana": -1.01,
-   "var_mes": 4.8
+   "var_semana": -0.35,
+   "var_mes": 13.09
   },
   {
    "ticker": "ALZR11",
@@ -1835,8 +1832,8 @@
    "tipo": "fii",
    "preco": 9.4,
    "var_dia": -0.42,
-   "var_semana": -1.21,
-   "var_mes": -8.72
+   "var_semana": -2.33,
+   "var_mes": -8.89
   },
   {
    "ticker": "SMFT3",
@@ -1844,8 +1841,8 @@
    "tipo": "acao",
    "preco": 17.69,
    "var_dia": -0.34,
-   "var_semana": -0.9,
-   "var_mes": -31.03
+   "var_semana": -0.11,
+   "var_mes": -29.94
   },
   {
    "ticker": "JSAF11",
@@ -1853,8 +1850,8 @@
    "tipo": "fii",
    "preco": 6.41,
    "var_dia": -0.31,
-   "var_semana": -0.16,
-   "var_mes": -14.08
+   "var_semana": -1.54,
+   "var_mes": -15.21
   },
   {
    "ticker": "ITUB4",
@@ -1862,8 +1859,8 @@
    "tipo": "acao",
    "preco": 40.07,
    "var_dia": -0.3,
-   "var_semana": -3.86,
-   "var_mes": -17.86
+   "var_semana": -5.2,
+   "var_mes": -18.03
   },
   {
    "ticker": "SBSP3",
@@ -1871,8 +1868,8 @@
    "tipo": "acao",
    "preco": 27.35,
    "var_dia": -0.29,
-   "var_semana": 1.56,
-   "var_mes": -14.01
+   "var_semana": 0.48,
+   "var_mes": -12.64
   },
   {
    "ticker": "KNCR11",
@@ -1880,8 +1877,8 @@
    "tipo": "fii",
    "preco": 102.85,
    "var_dia": -0.16,
-   "var_semana": -0.58,
-   "var_mes": -1.94
+   "var_semana": -1.92,
+   "var_mes": -1.87
   },
   {
    "ticker": "B3SA3",
@@ -1889,8 +1886,8 @@
    "tipo": "acao",
    "preco": 14.28,
    "var_dia": -0.14,
-   "var_semana": -3.25,
-   "var_mes": -39.77
+   "var_semana": -4.1,
+   "var_mes": -39.26
   },
   {
    "ticker": "IGTI11",
@@ -1898,8 +1895,8 @@
    "tipo": "acao",
    "preco": 21.85,
    "var_dia": -0.05,
-   "var_semana": -2.89,
-   "var_mes": -32.56
+   "var_semana": -2.98,
+   "var_mes": -31.65
   },
   {
    "ticker": "MIDW11",
@@ -1907,7 +1904,7 @@
    "tipo": "fii",
    "preco": 11,
    "var_dia": 0,
-   "var_semana": 0.92,
+   "var_semana": 1.01,
    "var_mes": 2.47
   },
   {
@@ -1916,8 +1913,8 @@
    "tipo": "acao",
    "preco": 16.08,
    "var_dia": 0.06,
-   "var_semana": 2.1,
-   "var_mes": -4.57
+   "var_semana": 1.84,
+   "var_mes": -3.65
   },
   {
    "ticker": "CMIG4",
@@ -1925,8 +1922,8 @@
    "tipo": "acao",
    "preco": 10.94,
    "var_dia": 0.09,
-   "var_semana": 3.01,
-   "var_mes": -7.52
+   "var_semana": -0.82,
+   "var_mes": -6.5
   },
   {
    "ticker": "MOTV3",
@@ -1934,7 +1931,7 @@
    "tipo": "acao",
    "preco": 15.82,
    "var_dia": 0.13,
-   "var_semana": 2.39,
+   "var_semana": 0.06,
    "var_mes": -22.45
   },
   {
@@ -1943,8 +1940,8 @@
    "tipo": "fii",
    "preco": 54,
    "var_dia": 0.13,
-   "var_semana": -0.74,
-   "var_mes": -23.72
+   "var_semana": -3.21,
+   "var_mes": -23.94
   },
   {
    "ticker": "ITSA4",
@@ -1952,8 +1949,8 @@
    "tipo": "acao",
    "preco": 13.17,
    "var_dia": 0.15,
-   "var_semana": -2.95,
-   "var_mes": -16.65
+   "var_semana": -3.52,
+   "var_mes": -16.17
   },
   {
    "ticker": "YDUQ3",
@@ -1961,8 +1958,8 @@
    "tipo": "acao",
    "preco": 9.54,
    "var_dia": 0.21,
-   "var_semana": 1.71,
-   "var_mes": -34.12
+   "var_semana": 0.85,
+   "var_mes": -31.86
   },
   {
    "ticker": "AURE3",
@@ -1970,8 +1967,8 @@
    "tipo": "acao",
    "preco": 11.91,
    "var_dia": 0.25,
-   "var_semana": 0.93,
-   "var_mes": -21.64
+   "var_semana": -1.24,
+   "var_mes": -21.8
   },
   {
    "ticker": "EMBJ3",
@@ -1979,8 +1976,8 @@
    "tipo": "acao",
    "preco": 110.15,
    "var_dia": 0.33,
-   "var_semana": -2.74,
-   "var_mes": 21.28
+   "var_semana": -1.7,
+   "var_mes": 19.95
   },
   {
    "ticker": "ENEV3",
@@ -1988,8 +1985,8 @@
    "tipo": "acao",
    "preco": 26.22,
    "var_dia": 0.34,
-   "var_semana": -2.89,
-   "var_mes": -18.06
+   "var_semana": -2.2,
+   "var_mes": -18.5
   },
   {
    "ticker": "RAIL3",
@@ -1997,8 +1994,8 @@
    "tipo": "acao",
    "preco": 16.8,
    "var_dia": 0.36,
-   "var_semana": 7.97,
-   "var_mes": -12.95
+   "var_semana": 3.32,
+   "var_mes": -11.39
   },
   {
    "ticker": "BEEF3",
@@ -2006,8 +2003,8 @@
    "tipo": "acao",
    "preco": 3.73,
    "var_dia": 0.54,
-   "var_semana": 17.3,
-   "var_mes": -13.86
+   "var_semana": 9.38,
+   "var_mes": -13.05
   },
   {
    "ticker": "PASS3",
@@ -2015,8 +2012,8 @@
    "tipo": "acao",
    "preco": 22.1,
    "var_dia": 0.68,
-   "var_semana": 11.94,
-   "var_mes": -19.02
+   "var_semana": 1.92,
+   "var_mes": -17.32
   },
   {
    "ticker": "XPSF11",
@@ -2024,7 +2021,7 @@
    "tipo": "fii",
    "preco": 5.73,
    "var_dia": 0.88,
-   "var_semana": -1.21,
+   "var_semana": -0.87,
    "var_mes": -12.04
   },
   {
@@ -2034,7 +2031,7 @@
    "preco": 9.08,
    "var_dia": 0.89,
    "var_semana": -1.09,
-   "var_mes": -5.47
+   "var_mes": -5.08
   },
   {
    "ticker": "BBSE3",
@@ -2042,8 +2039,8 @@
    "tipo": "acao",
    "preco": 36.99,
    "var_dia": 0.9,
-   "var_semana": -1.83,
-   "var_mes": -12.57
+   "var_semana": -0.91,
+   "var_mes": -12.88
   },
   {
    "ticker": "CSMG3",
@@ -2051,8 +2048,8 @@
    "tipo": "acao",
    "preco": 56.09,
    "var_dia": 1.06,
-   "var_semana": 2.39,
-   "var_mes": -11.74
+   "var_semana": 1.7,
+   "var_mes": -10.97
   },
   {
    "ticker": "GGBR4",
@@ -2060,8 +2057,8 @@
    "tipo": "acao",
    "preco": 25.86,
    "var_dia": 1.06,
-   "var_semana": 3.56,
-   "var_mes": -0.17
+   "var_semana": 4.57,
+   "var_mes": -1.19
   },
   {
    "ticker": "TEND3",
@@ -2069,7 +2066,7 @@
    "tipo": "acao",
    "preco": 15.23,
    "var_dia": 1.13,
-   "var_semana": -10.41,
+   "var_semana": -11.61,
    "var_mes": -46.75
   },
   {
@@ -2078,8 +2075,8 @@
    "tipo": "acao",
    "preco": 14.3,
    "var_dia": 1.27,
-   "var_semana": -7.62,
-   "var_mes": -40.91
+   "var_semana": -5.3,
+   "var_mes": -40.66
   },
   {
    "ticker": "SNEL11",
@@ -2087,8 +2084,17 @@
    "tipo": "fii",
    "preco": 6.93,
    "var_dia": 2.06,
-   "var_semana": -2.97,
-   "var_mes": -12.07
+   "var_semana": -4.81,
+   "var_mes": -11.63
+  },
+  {
+   "ticker": "AIEC11",
+   "nome": "ARCH EDIFÍCIOS CORPORATIVOS FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA",
+   "tipo": "fii",
+   "preco": 71.99,
+   "var_dia": 2.11,
+   "var_semana": 2.26,
+   "var_mes": -1.12
   },
   {
    "ticker": "GOAU4",
@@ -2096,8 +2102,8 @@
    "tipo": "acao",
    "preco": 11.5,
    "var_dia": 2.22,
-   "var_semana": 3.88,
-   "var_mes": -2.23
+   "var_semana": 5.12,
+   "var_mes": -2.4
   },
   {
    "ticker": "FLRY3",
@@ -2105,8 +2111,8 @@
    "tipo": "acao",
    "preco": 21.51,
    "var_dia": 2.53,
-   "var_semana": 2.19,
-   "var_mes": -23.72
+   "var_semana": 1.46,
+   "var_mes": -23.51
   },
   {
    "ticker": "USIM5",
@@ -2114,8 +2120,8 @@
    "tipo": "acao",
    "preco": 5.14,
    "var_dia": 2.59,
-   "var_semana": 8.21,
-   "var_mes": -24.19
+   "var_semana": 7.53,
+   "var_mes": -22.71
   },
   {
    "ticker": "GMAT3",
@@ -2123,8 +2129,8 @@
    "tipo": "acao",
    "preco": 4.18,
    "var_dia": 3.21,
-   "var_semana": 8.85,
-   "var_mes": -25.89
+   "var_semana": -1.65,
+   "var_mes": -22.88
   },
   {
    "ticker": "VGIR11",
@@ -2132,8 +2138,8 @@
    "tipo": "fii",
    "preco": 8.13,
    "var_dia": 3.96,
-   "var_semana": -5.03,
-   "var_mes": -14.31
+   "var_semana": -4.35,
+   "var_mes": -13.78
   },
   {
    "ticker": "QUAL3",
@@ -2141,8 +2147,8 @@
    "tipo": "acao",
    "preco": 1.84,
    "var_dia": 4.55,
-   "var_semana": 17.2,
-   "var_mes": -16.36
+   "var_semana": 13.58,
+   "var_mes": -13.62
   },
   {
    "ticker": "LIGT3",
@@ -2150,8 +2156,8 @@
    "tipo": "acao",
    "preco": 3.06,
    "var_dia": 6.99,
-   "var_semana": 9.68,
-   "var_mes": -19.05
+   "var_semana": 12.09,
+   "var_mes": -16.85
   },
   {
    "ticker": "PCAR3",
@@ -2159,11 +2165,9 @@
    "tipo": "acao",
    "preco": 3.23,
    "var_dia": 8.03,
-   "var_semana": 35.15,
-   "var_mes": 3.53
+   "var_semana": 26.17,
+   "var_mes": 6.25
   }
  ],
- "erros": [
-  "MRFX11: HTTP 404: {\"error\":true,\"message\":\"Nenhum resultado encontrado para os símbolos informados\",\"code\":\"NOT_FOUND\"}"
- ]
+ "erros": []
 }
