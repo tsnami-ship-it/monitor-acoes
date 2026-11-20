@@ -1,11 +1,11 @@
 {
  "versao": 1,
- "gerado_em": "2026-11-20T00:17:44Z",
+ "gerado_em": "2026-11-20T00:27:03Z",
  "pregao": "2026-11-19",
  "resumo": {
-  "monitorados": 105,
+  "monitorados": 106,
   "com_sinal": 30,
-  "erros": 0
+  "erros": 1
  },
  "sinais": [
   {
@@ -336,7 +336,7 @@
      "titulo": "MOVI3 ganha força, mas o consenso divide opiniões",
      "fonte": "Acionista.com.br",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBVYnZTWWZpdXpOMjliZm5GVzduX0wxOG1hVFJBTk1BMDZGWHVMS3VFRXlnWEdVcFlKY0NFMVVNdWZEWjVkQ045UGctWFBfcWZ2VU1PdkthWlcxcXZqbkV3UEVxS3BKV1EtMjYwU1dyd29EZ09BSDRvZkFGTmlMSTQ?oc=5",
-     "data": "2026-11-19T11:36:20Z"
+     "data": "2026-11-15T09:48:36Z"
     }
    ]
   },
@@ -463,10 +463,10 @@
    "desde": "2026-11-19",
    "noticias": [
     {
-     "titulo": "Lucro da Vamos (VAMO3) soma R$ 78 milhões no 4T25, queda de 53%",
+     "titulo": "Vamos (VAMO3) tem lucro líquido de R$ 87 milhões no 1T26, queda anual de -20%",
      "fonte": "Nord Investimentos",
-     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5kMWloYnJSVGFBUTRkOUVlamR6WXJYd1BOY3BRcXpaaG9fZUdldFJuZzJSdGo5VnNjN0Etc3MtSnNzWlZBY2hKdGpyNlFMVXZFdHZ6TVpOLU5HWHZXUVZhVVpmNWZxOTY1RjM1Z0djNWRFU1QwdFJjY1Rn0gF_QVVfeXFMTVVyc00zRHBCYjRFWVBWdzdZYlNWbjBaU0JwckdPenRvSENMWThsMXpwZEU0U3pIbXdkR0M1Y0lQMVdkVnRDV0tISnU0NUtoZ05IcXQ0amctZllFYmstTE80RTVCOWUzdXdMemlNNVh1UkRnbzhILUYyWGVpdVh1VQ?oc=5",
-     "data": "2026-11-19T08:32:50Z"
+     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBDMW9wUFdva1lTV2EtX2RxR3psSHJ6bzBaVzdlcVkxcUoyaUxzUmdNbnU3RmlHNUhPQnJhU21nRl9WVnY4NzZ4YU5tWXBwcTFQV0pDVHFDOURkS1JjXzdPUmhQZkJLb1BWc3NVNXdJS3hfWjRGbDRRNWh30gF_QVVfeXFMTUpwSG5TcTFEQ3pXQkVWRE14UmVNN0dHMmNsSWo5THgtaTBCSWR2aDEyOWd0MEZ5T0F0WlJrX0szZmIxR1hTekw2dlh1aTROSlF1VU5CVW9acjc2akEtTE9wdktFU3k0bVBUTl94REhxTkN4QldqejcxSlpQTl9OZw?oc=5",
+     "data": "2026-11-18T18:51:29Z"
     },
     {
      "titulo": "Top 5 Recomendações da Semana: oportunidades em ações",
@@ -2163,5 +2163,7 @@
    "var_mes": 3.53
   }
  ],
- "erros": []
+ "erros": [
+  "MRFX11: HTTP 404: {\"error\":true,\"message\":\"Nenhum resultado encontrado para os símbolos informados\",\"code\":\"NOT_FOUND\"}"
+ ]
 }
