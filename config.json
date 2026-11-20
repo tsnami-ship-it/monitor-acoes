@@ -1,0 +1,37 @@
+{
+  "universo": {
+    "acoes_top": 80,
+    "fiis_top": 25,
+    "preco_minimo": 1.0,
+    "extras_acoes": [],
+    "extras_fiis": [],
+    "ignorar": []
+  },
+  "regras": {
+    "acao": {
+      "queda_dia": {"ativa": true, "limite_pct": -4},
+      "queda_semana": {"ativa": true, "pregoes": 5, "limite_pct": -8},
+      "queda_mes": {"ativa": true, "pregoes": 21, "limite_pct": -15},
+      "perto_minima_52s": {"ativa": true, "margem_pct": 5},
+      "rsi_baixo": {"ativa": true, "periodo": 14, "limite": 30},
+      "abaixo_da_media": {"ativa": true, "pregoes": 50, "desconto_pct": 10}
+    },
+    "fii": {
+      "queda_dia": {"ativa": true, "limite_pct": -2},
+      "queda_semana": {"ativa": true, "pregoes": 5, "limite_pct": -4},
+      "queda_mes": {"ativa": true, "pregoes": 21, "limite_pct": -7},
+      "perto_minima_52s": {"ativa": true, "margem_pct": 3},
+      "rsi_baixo": {"ativa": true, "periodo": 14, "limite": 30},
+      "abaixo_da_media": {"ativa": true, "pregoes": 50, "desconto_pct": 5}
+    }
+  },
+  "pontos_minimos": 1,
+  "max_sinais": 30,
+  "noticias": {
+    "ativa": true,
+    "max_ativos": 15,
+    "por_ativo": 3,
+    "dias": 7
+  },
+  "pausa_entre_chamadas_s": 0.3
+}
