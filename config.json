@@ -4,7 +4,7 @@
     "fiis_top": 25,
     "preco_minimo": 1.0,
     "extras_acoes": [],
-    "extras_fiis": ["MRFX11"],
+    "extras_fiis": ["MXRF11"],
     "ignorar": []
   },
   "regras": {
