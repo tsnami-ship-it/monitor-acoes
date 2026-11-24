@@ -1,6 +1,6 @@
 {
  "versao": 1,
- "gerado_em": "2026-11-24T01:48:03Z",
+ "gerado_em": "2026-11-24T03:13:55Z",
  "pregao": "2026-11-23",
  "resumo": {
   "monitorados": 105,
@@ -406,6 +406,12 @@
    "desde": "2026-11-19",
    "noticias": [
     {
+     "titulo": "Centauro (SBFG3)",
+     "fonte": "trademap.com.br",
+     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5WVENfZGcybENYd1RKekpiRHh1eUNqUWZtS3dIUWoxT3JCWjQxRmk1dWNvNXpTQmtJUTlTelhDdkphNVpDOVBnQ2VjZGpKTVJoVFVmeFFHc1A?oc=5",
+     "data": "2026-11-19T22:28:51Z"
+    },
+    {
      "titulo": "Cotação Grupo SBF - Centauro (SBFG3) hoje: veja preços, gráficos e notícias em Tempo Real",
      "fonte": "Money Times",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5QVTlRS0Y3V3ZXWlN6aTRMdGs2cGdiWTZqYmlIc3U0NGpvcHVTOW0yVHlGVkxZNTJMNXZRT1F1MXBCS0xDMXpwVkx3S19iYnMzdGhKSi1BVQ?oc=5",
@@ -416,12 +422,6 @@
      "fonte": "Acionista.com.br",
      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9ZeUlCMU5pdWhHSGYyS0VOR01IVi1JV202VHFXSnlmSWdCWmVvS1JIQTRrakdxZ3ZCMTJDM08zRG9HZ1U2WnUwOXJwWDJabjdTR29hVGVNdUZTbEdUaGxpZWZlN055ZkR0VnRqUGZINjhxbFdUdjF5b3o3Y04?oc=5",
      "data": "2026-11-23T13:12:15Z"
-    },
-    {
-     "titulo": "Maiores baixas da semana: PMAM3 cai 25,9%; HBRE3 recua 16,4% após venda",
-     "fonte": "Visno Invest",
-     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWFhCX2pWaHdTaGVRR3FPWWllc0FpNzhVSXZnd1ljSFBxZUdhWGY2aXpYeTV2a1NZUDlUa3JwM2NlLTVrNjEzdkk1TTdkRjhZT0RoRjFOZThyWU5YU09raDlJdzJwR0tMOTY2RUZ5LXc4MEhmd25COEV4VExUaG1fdWQwYnpuUDcybjNzcmtiY3d6c3VvZVQ3TzVqcWRpN1ZWQVdTUHNR?oc=5",
-     "data": "2026-11-21T18:00:15Z"
     }
    ]
   },
@@ -466,16 +466,16 @@
      "data": "2026-11-23T17:17:00Z"
     },
     {
-     "titulo": "Petrobras (PETR4) aprova R$ 15,6 bi em dividendos extras; veja data",
-     "fonte": "Valor Investe",
-     "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOYU9UUHRhN1RsSFpUcTcwWXdPc3VFcXBuRE03bGRpSHBEeFZhQmFOM3I3TW9uTjhFQjZmYTZISjlOMDMyQ2hMaXBTMnhrZFpHNVlFVHdtLThwd3ZTaTE0Q3R4LTVBUnhGd0g3OTIzWXU4ZlptaGlicWpMbnVFbzE0VUtnWld6ZWpkaEdISFQ4R1ZXWkRaeTE4NTFEX2ktM2xDYnRfcnRqek5nb3FnaTQ5YkJuNVVWa2JiTjhWdXk3U0FxU29ISHlpRE52Vkt3U2tmV0FDTUw3ZGhXa3RrekNKaWJ0MjNpQdIB9AFBVV95cUxNSDF1dzlQZ3JmM2tJSEZzR25wZlJKNHlXeGZtRXN4Y1ljRGZXOWJyb2N0TkQtYzBNNHNRQ3pJNVJDUWdyRURVXzNnNmVib3R3dGVtc1J5WGhFM0o3Y1VxQjBuS0ZtVEY4c0hZSnpQOU9PU3BwakdENy0zUk1nYWh6R0pGS3Jnc3pOWURmYmlVV25NRkI5a0FGaHVMOTlVR0dUUXBtVk1QQWJCVzlwcTU5d2QzU19wRWMwSURHVEp5OEJkNGhONmdKSVhXN0lKOUNZMWl2TXpBZ2taV1pITmNBUHVjVnEydHJFTHV1RFJTNm5oelZK?oc=5",
-     "data": "2026-11-23T22:26:12Z"
-    },
-    {
      "titulo": "Petrobras (PETR4) pagará R$ 1,21 por ação em proventos extras ainda em 2026",
      "fonte": "Investidor10",
      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTUdkSFRtWmo4N2dSX1h6U3J6aUVBTjl0ZEwzOEVoV1lBS2c4b1YwUWY2WW5icG55RzNxSFBVb0VGTlcwQzVXRy05LTVWOEhab01xdVVhN2xYQ2VZTjFSeGdiVkNFeGoyMlAzdUlUQlFHVXFNWlIzQldhUlUwRlJhYTBILW02RnFkQ25YdGpXQnlEVXFBMHBJTHdFVG85ZFUxRk1JeW9xazlQSDdyWFp5MVZPQWEtcnk5U0JXZVpR0gG-AUFVX3lxTE5NR2RIVG1aajg3Z1JfWHpTcnppRUFOOXRkTDM4RWhXWUFLZzhvVjBRZjZZbmJwbnlHM3FIUFVvRUZOVzBDNVdHLTktNVY4SFpvTXF1VWE3bFhDZVlOMVJ4Z2JWQ0V4ajIyUDN1SVRCUUdVcU1aUjNCV2FSVTBGUmFhMEgtbTZGcWRDblh0aldCeURVcUEwcElMd0VUbzlkVTFGTUl5b3FrOVBIN3JYWnkxVk9BYS1yeTlTQldlWlE?oc=5",
      "data": "2026-11-23T23:09:00Z"
+    },
+    {
+     "titulo": "Petrobras (PETR4) aprova R$ 15,6 bi em dividendos extras; veja data",
+     "fonte": "Valor Investe",
+     "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOYU9UUHRhN1RsSFpUcTcwWXdPc3VFcXBuRE03bGRpSHBEeFZhQmFOM3I3TW9uTjhFQjZmYTZISjlOMDMyQ2hMaXBTMnhrZFpHNVlFVHdtLThwd3ZTaTE0Q3R4LTVBUnhGd0g3OTIzWXU4ZlptaGlicWpMbnVFbzE0VUtnWld6ZWpkaEdISFQ4R1ZXWkRaeTE4NTFEX2ktM2xDYnRfcnRqek5nb3FnaTQ5YkJuNVVWa2JiTjhWdXk3U0FxU29ISHlpRE52Vkt3U2tmV0FDTUw3ZGhXa3RrekNKaWJ0MjNpQdIB9AFBVV95cUxNSDF1dzlQZ3JmM2tJSEZzR25wZlJKNHlXeGZtRXN4Y1ljRGZXOWJyb2N0TkQtYzBNNHNRQ3pJNVJDUWdyRURVXzNnNmVib3R3dGVtc1J5WGhFM0o3Y1VxQjBuS0ZtVEY4c0hZSnpQOU9PU3BwakdENy0zUk1nYWh6R0pGS3Jnc3pOWURmYmlVV25NRkI5a0FGaHVMOTlVR0dUUXBtVk1QQWJCVzlwcTU5d2QzU19wRWMwSURHVEp5OEJkNGhONmdKSVhXN0lKOUNZMWl2TXpBZ2taV1pITmNBUHVjVnEydHJFTHV1RFJTNm5oelZK?oc=5",
+     "data": "2026-11-23T22:26:12Z"
     }
    ]
   },
