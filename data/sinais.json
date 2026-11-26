@@ -1,7 +1,7 @@
 {
  "versao": 1,
- "gerado_em": "2026-11-26T04:11:14Z",
- "pregao": "2026-11-25",
+ "gerado_em": "2026-11-26T23:11:22Z",
+ "pregao": "2026-11-26",
  "resumo": {
   "monitorados": 105,
   "com_sinal": 30,
@@ -9,38 +9,78 @@
  },
  "sinais": [
   {
-   "ticker": "BRKM5",
-   "nome": "BRASKEM S.A.",
+   "ticker": "LIGT3",
+   "nome": "LIGHT S.A.",
    "tipo": "acao",
-   "preco": 2.24,
-   "var_dia": -10.4,
-   "var_semana": -18.55,
-   "var_mes": -46.15,
-   "min_52s": 2.23,
-   "max_52s": 13.78,
-   "dist_min_52s": 0.4,
-   "rsi14": 30.8,
-   "pl": null,
+   "preco": 2.78,
+   "var_dia": -13.13,
+   "var_semana": -2.8,
+   "var_mes": 2.21,
+   "min_52s": 2.3,
+   "max_52s": 5.9,
+   "dist_min_52s": 20.9,
+   "rsi14": 43.3,
+   "pl": 0.4,
    "regras": [
     {
      "id": "queda_dia",
-     "texto": "Caiu 10,4% no dia"
-    },
-    {
-     "id": "queda_semana",
-     "texto": "Caiu 18,5% em 5 pregões"
-    },
-    {
-     "id": "queda_mes",
-     "texto": "Caiu 46,2% em 21 pregões"
-    },
-    {
-     "id": "perto_minima_52s",
-     "texto": "A 0,4% da mínima de 52 semanas (R$ 2,23)"
+     "texto": "Caiu 13,1% no dia"
     },
     {
      "id": "abaixo_da_media",
-     "texto": "39,7% abaixo da média de 50 pregões"
+     "texto": "15,2% abaixo da média de 50 pregões"
+    }
+   ],
+   "pontos": 2,
+   "desde": "2026-11-26",
+   "noticias": [
+    {
+     "titulo": "Top 5 Recomendações da Semana: oportunidades em ações",
+     "fonte": "Safra",
+     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9FZzJTVERzM1RlV1JVMEsydTN0a3BWWGJvTWxTQk5WcF9mYTcwZ0g1QkpiSTU2M0tvNWdNWDQ3QjdYeG84Vk9RRm9RejFKTlNEdHJhaFRqVV9ob1ZQQ201a2hIWk01ZU1NVXdjNkQybTZVQk0?oc=5",
+     "data": "2026-11-23T16:21:56Z"
+    },
+    {
+     "titulo": "Maiores altas da semana: PCAR3 sobe 26,2%; AZEV3 e BEEF3 têm notícias",
+     "fonte": "Visno Invest",
+     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPc0VVV3k0VFpEWVd3dUlPS2V3RU5rYlltcW0wM3JGanBDUUduT1NCUldaaWU1Y0JrUFpDWGIzbDZ2U0M5RzVycmJKbmNKZjZ4TmpXSTk3a1FrM29ISGVyeWdjcHZobzliSEpyUzRYeWs4b3pHeElINl8yLWJEVlFtQ0djSUFseEhYTy1JbTZfc1FBY0YyTlBqWVZUSHlWYjFGSDJiX1Vn?oc=5",
+     "data": "2026-11-21T14:00:12Z"
+    }
+   ]
+  },
+  {
+   "ticker": "BRKM5",
+   "nome": "BRASKEM S.A.",
+   "tipo": "acao",
+   "preco": 2.17,
+   "var_dia": -3.13,
+   "var_semana": -17.49,
+   "var_mes": -31.76,
+   "min_52s": 2.1,
+   "max_52s": 13.78,
+   "dist_min_52s": 3.3,
+   "rsi14": 29.9,
+   "pl": null,
+   "regras": [
+    {
+     "id": "queda_semana",
+     "texto": "Caiu 17,5% em 5 pregões"
+    },
+    {
+     "id": "queda_mes",
+     "texto": "Caiu 31,8% em 21 pregões"
+    },
+    {
+     "id": "perto_minima_52s",
+     "texto": "A 3,3% da mínima de 52 semanas (R$ 2,10)"
+    },
+    {
+     "id": "rsi_baixo",
+     "texto": "RSI 14 em 29,9"
+    },
+    {
+     "id": "abaixo_da_media",
+     "texto": "40,7% abaixo da média de 50 pregões"
     }
    ],
    "pontos": 5,
@@ -67,128 +107,337 @@
    ]
   },
   {
-   "ticker": "SAUD3",
-   "nome": "BRADSAUDE S.A.",
-   "tipo": "acao",
-   "preco": 15.53,
-   "var_dia": -5.48,
-   "var_semana": -4.31,
-   "var_mes": -3.83,
-   "min_52s": 10.39,
-   "max_52s": 16.69,
-   "dist_min_52s": 49.5,
-   "rsi14": 50.8,
-   "pl": 15.8,
+   "ticker": "TRXF11",
+   "nome": "TRX REAL ESTATE FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+   "tipo": "fii",
+   "preco": 54.36,
+   "var_dia": -3.08,
+   "var_semana": 0.8,
+   "var_mes": -20.91,
+   "min_52s": 52.54,
+   "max_52s": 101.66,
+   "dist_min_52s": 3.5,
+   "rsi14": 31.9,
+   "pl": null,
    "regras": [
     {
      "id": "queda_dia",
-     "texto": "Caiu 5,5% no dia"
+     "texto": "Caiu 3,1% no dia"
+    },
+    {
+     "id": "queda_mes",
+     "texto": "Caiu 20,9% em 21 pregões"
+    },
+    {
+     "id": "abaixo_da_media",
+     "texto": "17,3% abaixo da média de 50 pregões"
     }
    ],
-   "pontos": 1,
-   "desde": "2026-11-25",
+   "pontos": 3,
+   "desde": "2026-11-26",
    "noticias": [
     {
-     "titulo": "BradSaúde (SAUD3) desacelera crescimento e acende alerta sobre receita no 3º trimestre",
-     "fonte": "Guia do Investidor",
-     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZEVMUUFGbll1Y0RFZGpvLXN0SWFKemprTk1KcTR4WE9FT2hnMnQxMzllN0M3aXRYT29ZZ19CUHNCMFo3UVhfS1N3dEJKbzZQNTlZNjJ2azZGd21KdV95WUViUUhyRzc1U1pQd05DZWItOGpiZFZZMGxUNmd1N0RjLXIyX0c2aF90THJSZ21ZelpsU29CTV92ckJfcV8xVENZa0ZpRklPZkYzaU1CYlVMdV9zd1pWREUtaGhveVZnR3FrYkE?oc=5",
-     "data": "2026-11-19T14:36:05Z"
-    },
-    {
-     "titulo": "NATU3 sobe 9,4% e BRKM5 cai 10,4% na B3 hoje; Ibovespa avança 1,6%",
-     "fonte": "Visno Invest",
-     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZWVuMDl4MVc4dWhhUXEtYWM2ZHNoNTMtNDVkNDM0Mk00WGpMRG1Bcl9ZdHk4Y1AxbEtvTjRKd1liOURzdFhzOEYwWFo3TUhSekZWWk43Q0FXZEp2SFhGcGk0dGdsbDBEazJDLVZlWHVZTzNUNmtqSXp4UDM2azBmb1VVN1B3dld1b2daZnFqdnBJNWpkTnlqSnVJbGxMQQ?oc=5",
-     "data": "2026-11-25T20:40:45Z"
-    },
-    {
-     "titulo": "5 melhores ações para investir em 2027",
+     "titulo": "TRXF11 vale a pena? Por que a cota caiu e o que acompanhar",
      "fonte": "Nord Investimentos",
-     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE53WmxmWXFuUmVZN1hTVUdncFZXYmdrRHRGNG1WMlpHakpsamIxcjZEV3A2cjNjMC1MS05ycTFKeElIMkdrR0xGaHBiS2Z2bWh6VVVOWWhzOTR0SjFsWGQ1T3FWSVNDVWIwZ1diUURqTlRKTS1VMGJuV0pSd9IBgAFBVV95cUxQcmQzdG5KUkF1R28yOUNacVFBSmtXbnh4eEEzWWVUMnNkU3c3QmNoenByMGRxdDlFUmJHdS1CQkR2RjAyWVhYSWdMOU0ySk5INktQMk5HenVzQmJPbHlfc3NKV2x0dzNwTmxzMkc0anpMR2pFQlBHR3d4MGYxbjNabw?oc=5",
-     "data": "2026-11-25T17:14:30Z"
-    }
-   ]
-  },
-  {
-   "ticker": "EMBJ3",
-   "nome": "EMBRAER S.A.",
-   "tipo": "acao",
-   "preco": 103.2,
-   "var_dia": -4,
-   "var_semana": -6.16,
-   "var_mes": 16.81,
-   "min_52s": 68.08,
-   "max_52s": 116.78,
-   "dist_min_52s": 51.6,
-   "rsi14": 48.3,
-   "pl": 35.6,
-   "regras": [
-    {
-     "id": "queda_dia",
-     "texto": "Caiu 4,0% no dia"
-    }
-   ],
-   "pontos": 1,
-   "desde": "2026-11-25",
-   "noticias": [
-    {
-     "titulo": "Embraer: ação ameniza, mas ainda cai 4% com possível tarifa: mercado exagerou?",
-     "fonte": "InfoMoney",
-     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdUJsTkNMWnVJc0FRZkdtcFRKNFpUYlQ4STlNb3VvSGc1SVU2M0FnRkpuNXBIemV3YnpaeEhaeTBmbkFNaWdoLUdaUHE5Y3U4M0l4VzlwcEQyMFQzTXB2YUJhaVV1VXkzSmxYenJwZFFycGxpeU1FZUZYZzNsaU5SNFV2dWR4SWFrbmVHbmNzaC0tNkVITEZrNFZLQWc5UE5vWUY0MmZNYS13alJCYzVmLURxc2YtSVVYZ3lfNWt30gHDAUFVX3lxTE56MVdsb180dkZwMkEyZGNaa3M4NnN3ZVQ0UEF3b0ZXX1Q2cVQ1SzNuRDJ4QkUxZkdFbzBxTHlxam9lWklvS2d3SXBCMmRoMHY1dU5FeEREUy1xYzZCUUV3bEMzdnlzNkJFbU93eEp6cU15Y1hfWjdFR1FWXzgxVVFxanBFOV9XNHJJVS1qM0MzYjBKNGtIR2NMTURpRHRVRmxlb2Z2RlJ1SUkta29lcFB4VVRXRFI2bXQtRjBUWFhYaUhIMA?oc=5",
-     "data": "2026-11-25T21:22:27Z"
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9QYWtzSF93dzBQeHFQcWRwSG05U1l3eV82cnpldDdWZVJFaloxcTQ2WkhaYnY0TWpmdUxRRHJFOGhUdDhiSWZRX2ZtOWtYWk5TVEtXenFvVmhxUXpCNEphSzJnX2luVmJIWkxkVGxB0gFzQVVfeXFMTzNncnBqUE1OS0RNQm5uV3FXZFpRMVY1RUFrYmtBSEpRZmFjcjBhQ2lxRzY3VFo1ME1BWFhyRk8xLV8xVDRzRV9VZmREV2toN1VUeWtwc1NIYUNBWXp2NzNRZUtFSFlKeE1ORUNDZjM3N0hFVQ?oc=5",
+     "data": "2026-11-23T20:40:00Z"
     },
     {
-     "titulo": "Ações da Embraer (EMBJ3) tombam com nova tarifa de Trump",
-     "fonte": "Valor Investe",
-     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQ0hyR2FaX2ROWFJKOFBnTkpWYzA4c2Vrb21GMkFLOTBFeU9sWmNkV1NnbmZBRnJwRmxES2tqeS1lV1AxaFh0cFBZSnFIcW84aG5rcFZpYzhFbUhOLWVFbkNQZ3ZSWm02aG1DRFNMSjRqN2VlYVVyRjVVMWZRZXQ2Y3dNT0RnUkZaRWdMd3FMX1E2Uy0zTHhPR0poTzdzdDlCV0loX3pVcGFJcVJLRWhsR1I3UlZjcUlMZmUxclVhMzU2cjhW0gHTAUFVX3lxTE1mZjIyZjY3WG4wZ1NBb3I5OXByUEN3X0s1RmlLT0tueFVJT2w1R0o2aVNWaTVYUlV3REU2bzNUcWw4U0NYQ2ZjVzBsNVFRUl9KWnE4TGY0OTRfcWdzc0Y3X1FIaWlRTzFMNzJkTXVvQ0Rjd1NhQ2VLa2NHcjdCRjRBN01HdjItMDNiYzFCeFk4aEg5Y3lTeXFWb3pCYTVWSXNUR2gtbTdMUUoya0o1cGFsVG9vOFJQZ1BpYlk5YmQyWEo3TnFoV1Z1Y2NSbHRCdXZyZFE?oc=5",
-     "data": "2026-11-25T13:37:33Z"
+     "titulo": "TRXF11 nega “garantia infinita” de preço em compra de shoppings da Iguatemi e gestor afirma: \"contrato tem limite\"",
+     "fonte": "SiiLA",
+     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZ2pucXFPdDhPekI1dzR4ZmN5dmdrX2xKTG1raDdEY0NDTW8zYUZnS0FCNzk3LWw0c25HNHlldThXLURLcE9lZ2l5dUkxeW5JN195ZWptTGt0NG9jZFNOeXNLcFBRNzdQNXhMODVEYjVCak5Rci1aajgyeWRvbWVFaUE5QQ?oc=5",
+     "data": "2026-11-23T10:00:00Z"
     },
     {
-     "titulo": "Embraer (EMBJ3) cai 5% após EUA proporem tarifa sobre aviões brasileiros",
+     "titulo": "TRXF11 ou HGRU11: o que mostram os indicadores dos FIIs",
      "fonte": "Suno - Investimentos Inteligentes",
-     "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPNmx0eWxMUzJ3MlVJajV4WGstS2FOTzlOUWloazlfaGNkaVBQVS1lV3dBeDZZajBtOW4wSDZETU9hdU9VZVA4TDhjcjRUbHJzOUprUXZCemtoLW1kLU1nX0xscXN5UlJRWVBGa1FrWnI3TnF0S0k3eDBLZkNZd0pxWXFR0gGHAUFVX3lxTE96TXJ1a3FjbVhTd1VCcll3dGRHczZ2NDlmYkdwQlc0NWtzSC0yODhXQk1GRFEydzVVNE5wZk9obHR0Mk9TZ2xPRzNnbFFWRnpmbUNaSWxhb1pPT0JNb3hMWHQySHNfYU10UE9Ob0JWUWdWNFlUQnBXNXB3ZU03WXQwbTV4Q0dHRQ?oc=5",
-     "data": "2026-11-25T16:25:38Z"
+     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONDFGaTRVX09IbjZZbHgzcUFPQ25qY2I2V3NXelFLd3l4dlBfTWpXWnlfdEhOWnFNM1V4TlpZRmRsVzNaeTBUN09XeHlJSDI0MDduMzNHQWtVUHJiMWg0REpCdS1EVnVzSjVWc1NCSjJDUVdObnptQ2Y0UUluclZXb0JlU1HSAYoBQVVfeXFMTXhMSkE0MkxUcEs1bS03ejNfMDJlSlQwREZzaGZJNF9rR0JYVmZzVURwNEpKdzVsNmxiSFROVVBkcDZ4THZiNE9RNXNKMXFpQkxBbUlrbVNBZjlYR192UnNsWXJ1cG9CYm9rLTRfWFdlczNzNmN5Zm5ST09NZ3dHZnd2VTFBRzFER0RB?oc=5",
+     "data": "2026-11-24T20:25:02Z"
     }
    ]
   },
   {
-   "ticker": "FLRY3",
-   "nome": "FLEURY S.A.",
-   "tipo": "acao",
-   "preco": 22.45,
-   "var_dia": -0.27,
-   "var_semana": 7.31,
-   "var_mes": -19.45,
-   "min_52s": 13.9,
-   "max_52s": 28.65,
-   "dist_min_52s": 61.5,
-   "rsi14": 53.0,
-   "pl": 15.6,
+   "ticker": "XPML11",
+   "nome": "XP MALLS FUNDO DE INVESTIMENTO IMOBILIÁRIO FII",
+   "tipo": "fii",
+   "preco": 85.5,
+   "var_dia": -1.69,
+   "var_semana": -0.35,
+   "var_mes": -13.89,
+   "min_52s": 80.33,
+   "max_52s": 112.2,
+   "dist_min_52s": 6.4,
+   "rsi14": 36.3,
+   "pl": null,
    "regras": [
     {
      "id": "queda_mes",
-     "texto": "Caiu 19,4% em 21 pregões"
+     "texto": "Caiu 13,9% em 21 pregões"
+    },
+    {
+     "id": "abaixo_da_media",
+     "texto": "11,5% abaixo da média de 50 pregões"
     }
    ],
-   "pontos": 1,
+   "pontos": 2,
+   "desde": "2026-11-26",
+   "noticias": [
+    {
+     "titulo": "XPML11 reduz dividendo mensal ao menor nível desde 2023; entenda",
+     "fonte": "Suno - Investimentos Inteligentes",
+     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE03YUh1VjJJYndEbEJLVVd0WjRCeUxrbTZNZVQzTGk1TXRFTlI4elRGLXpEdk1JeE54cllkLWVYcnpPb19xTWZKSkhPekUwVnJtS1AxYTNWNDAxSjZBNFduOTlHT3ROMEdKVXN2RE14MS1fc3fSAXhBVV95cUxOcV9seXdCOUhYVUNrRmR5SXlkdGczWUp5TlRnNGNTSGpZdUxuZXFELUpTUjlhR3RqY3VQVU9TTzJwaGxoZHlqOWtmM2VCRFBpamQ1UFZzN0ZjMWJ6emtpU1dkOWc4Y1prOUFHZ2Vud0xSeTVfMHVwOUM?oc=5",
+     "data": "2026-11-20T13:00:29Z"
+    },
+    {
+     "titulo": "XPML11 reduz dividendos em 13% após 29 meses de pagamentos",
+     "fonte": "ADVFN",
+     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMG4zbHFLbTVjek5za2NSc1AzT0ZfZFFWdkJGU3UxeFdYZGJ0emR0TzBUZDl3RVdWQXJtZW5JYlBCc3ZXWHRfTG1VQWl2dnpqOUxIb09udzVNeUs4X2tBNUpZYVlESFJGRWFIc0wzRW0tSlp1LTAxTUdKV1U3TjFnVzVQT2VxLWEzc2ZyRl91aHE0MWtnTmIzVg?oc=5",
+     "data": "2026-11-24T13:36:56Z"
+    },
+    {
+     "titulo": "FIIs ALZR11, SNEL11 e XPML11 pagam dividendos hoje; veja valores e yields",
+     "fonte": "InfoMoney",
+     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQb1JsdFUwUGt1Tm5YNW5SOWdNUEUzTGVacEpWM016aHhPMFc3aXdqQm1mamIwdHhZeGJHYW03ekNRR19nVUM1S2lkcEQzWm80MUpHMFJNd0RHVGRfNjIxQXM4NWZkUmFycmNhWm1fdlZRSVBmUlNXY0xZdnJzbnZ4U1RMeV9tOG9KWTVYTW8zelA0OC1GckgxWkRUUU5MR1lwdzdwbXdMVFFIX3Z5enpPU3hZa19SQdIBuwFBVV95cUxNMWlEQjFSdDJGOHhRcEtlUUN1VGJrNDRXRWhJd21SaWdKVk9VVFp1dXRWVGt5QmxvNFZkTkVaN0dIdWtLQmpTbUtBOG9mUTgtVHlqRnBZN241ejdqLXpfX21pR1JfbWU3b2xoSnRGai1LUGFDTk9wZmJONjhDSU42S1BzWGdBckZ2VTM1VGlmREkxZDZvT055MlJQQ0RCeXFKbnFXTS13dmNSMmlGMTdERDdCOS1xVlkxQ29v?oc=5",
+     "data": "2026-11-25T16:27:10Z"
+    }
+   ]
+  },
+  {
+   "ticker": "ARRI11",
+   "nome": "OPEN K ATIVOS E RECEBIVEIS IMOBILIARIOS - FUNDO DE INVESTIMENTO IMOBILIARIO",
+   "tipo": "fii",
+   "preco": 2.9,
+   "var_dia": -1.36,
+   "var_semana": -2.03,
+   "var_mes": -30.76,
+   "min_52s": 2.74,
+   "max_52s": 7.07,
+   "dist_min_52s": 5.8,
+   "rsi14": 19.6,
+   "pl": null,
+   "regras": [
+    {
+     "id": "queda_mes",
+     "texto": "Caiu 30,8% em 21 pregões"
+    },
+    {
+     "id": "rsi_baixo",
+     "texto": "RSI 14 em 19,6"
+    },
+    {
+     "id": "abaixo_da_media",
+     "texto": "29,7% abaixo da média de 50 pregões"
+    }
+   ],
+   "pontos": 3,
+   "desde": "2026-11-26",
+   "noticias": []
+  },
+  {
+   "ticker": "HGBS11",
+   "nome": "HEDGE BRASIL SHOPPING FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA",
+   "tipo": "fii",
+   "preco": 16.85,
+   "var_dia": 1.02,
+   "var_semana": -2.15,
+   "var_mes": -8.5,
+   "min_52s": 16.26,
+   "max_52s": 21.05,
+   "dist_min_52s": 3.6,
+   "rsi14": 38.1,
+   "pl": null,
+   "regras": [
+    {
+     "id": "queda_mes",
+     "texto": "Caiu 8,5% em 21 pregões"
+    },
+    {
+     "id": "abaixo_da_media",
+     "texto": "6,7% abaixo da média de 50 pregões"
+    }
+   ],
+   "pontos": 2,
    "desde": "2026-11-25",
    "noticias": [
     {
-     "titulo": "Exame de R$ 6.990 reforça medicina premium do Fleury antes de sociedade com Bradsaúde",
-     "fonte": "Bloomberg Línea Brasil",
-     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQaWlOV1dKY1ZabjhURFJ2WU1yQ2FjS1VrVG9pUUhrZ0JqVWhCTDdhZVhpOEh1RjZGUm9LMHdmdnR5N1dNT3h5SmNuMF82MjZmcTlsYXlPT2Q2S3lQUTVpY2piRWpQZy13cWxIeVF6cThNMUdOUHk5YjJhcjhoSHlqMnVXNy04eVBxRlVrLUEyX1BSNlZrMmo2MTRaX3NYeDU3MXZ2RFlCb0pxakpXa2FoYXUxRGF4VDZnLXR4OU5XeWdXNVFNcHfSAdoBQVVfeXFMUG82UHlMdlR4ZE5OV19UdDY1aU1DMmtYUk80U2ZUZWI3YWdjRWFzUW56aU1FQTVyME9pemlvdHJEQWtuZkhSUHVkY1EyZjRTY21fVnBRXzFNdjZYZWV3OGNfT3RfOF9LYURuTF9KNEx6TWZHZDNFLWJlVWVrUTJ1blBZTERiS183aDZIb0xXbk5FX1FSXzN0SzVyZkpxb09qM1ljNzZ5T0drcXFvLXpoOE04aEs1MW5EbzF5QV90em9aRHdKQ2d5d3cxSWRYT1ZKdGFna1FjLVRwcnc?oc=5",
-     "data": "2026-11-22T09:00:01Z"
+     "titulo": "HGBS11 lucra R$ 17,9 milhões e compra participação em shopping por R$ 216 milhões",
+     "fonte": "Fiis",
+     "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE92QmMtZUJ0MEpMRi0ycF8xVm9LZjNPYmpFV29lRnpxd3RDQ3JSRkRCbHlaVTViNG1QYzFZazAzaHRpbVNmWGhwdmdmbzEwUFA0ekRjMHNoV0ZKMjNpazdnaURuTzRhazRHanJiMUFiUTlINUpKSFhfenJULWE?oc=5",
+     "data": "2026-11-20T13:28:00Z"
     },
     {
-     "titulo": "Fechamento (19/11) | Ibovespa cai 0,69%; IPO da Anthropic não sustenta Wall Street, que cede em bloco",
+     "titulo": "FIIs de shopping ampliam resultados mesmo com varejo em queda",
+     "fonte": "Clube FII News",
+     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSmNmRkJ6T3YzbTJOUUlya3lNSmltaU1QRlNObkpRcHFLVnJabE0zYXBhV1RaZ0g2ckp4WllqSkdrWDRTalk3UEpvb1ZkTkhOcDlnaldHYmNzeGVKU0JRdHNlMzF4QWJfS3M5MHZzeDBXU0w2Z2lGRnRPUmdONFlZdEFlQ05aTGpBb2Rsem1oeFp3X29rSXVHWVQtS3RVa0trUUtHTC1qdXZ2Nk16MjZZ?oc=5",
+     "data": "2026-11-26T11:42:33Z"
+    }
+   ]
+  },
+  {
+   "ticker": "VGHF11",
+   "nome": "VALORA HEDGE FUND FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA",
+   "tipo": "fii",
+   "preco": 3.99,
+   "var_dia": 1.27,
+   "var_semana": 2.57,
+   "var_mes": -20.63,
+   "min_52s": 3.69,
+   "max_52s": 7.37,
+   "dist_min_52s": 8.1,
+   "rsi14": 38.3,
+   "pl": null,
+   "regras": [
+    {
+     "id": "queda_mes",
+     "texto": "Caiu 20,6% em 21 pregões"
+    },
+    {
+     "id": "abaixo_da_media",
+     "texto": "16,5% abaixo da média de 50 pregões"
+    }
+   ],
+   "pontos": 2,
+   "desde": "2026-11-25",
+   "noticias": [
+    {
+     "titulo": "VGHF11: lucro sobe 14,6% mesmo com queda no patrimônio líquido",
+     "fonte": "Suno - Investimentos Inteligentes",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1BREduaEROUFFHR241YTY3UzRmT0o2VnhtVUpXQlVoc3ZPZ3N4c3ZLeWRId29PQ3NTQ3d6WmhfYkdRV1JMUHVRcFY0LUJCeWlLWWM2TFpYdU5HdmxVTmlLcnVlaUY1M2VudS1KMkpKamxVZXV1dTkwbUhmSUdOMGvSAYQBQVVfeXFMUDEwLWFnYVZGSVBXc05XM3JBTXJMVW5MQXpqQ25namtCNHdKamtLaE0xSWozSHRjamR4MVQwOGF5SC1OQU1hLTFFOXJhd0Q2ZTJVRHp4enR0M3NLaGtjVlhfUGZvNi1hZkZtUkxRSmdEZUNsai1kaWd2R3JtNE1rTmF0cGJF?oc=5",
+     "data": "2026-11-23T18:39:20Z"
+    },
+    {
+     "titulo": "VGHF11: patrimônio recua R$ 42,5M; FII divulga balanço",
+     "fonte": "Fiis",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZXRJbnVBeWVRcHlYVjBzTDQtYndRc2pudk4yZzFRR3BxWVJscWFjUDJjTkk0a2tudUJUSjc4YzAyY1N4UEN4Q2hMdjl0T0dESE5IYXlNQTJSQmIzZmNJa2NqNDZBWFc0dTBvenN5NEFFMGVjSmMyUzZ6VHMyV1VYUW0wWVdSRXJ1?oc=5",
+     "data": "2026-11-23T18:55:54Z"
+    },
+    {
+     "titulo": "VGHF11: lucro sobe 14,6% e patrimônio recua 3%",
+     "fonte": "ativovirtual.com.br",
+     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVGFoUWVFRWFMaEpOVmdBNW9DbkdBbFZ2Z3FfSC1xMHVibk9Fd1VxYTZfQXNsRUt0RXdJV2VTNHRyVUdmWlpuZkhudUFJZFRPS1BYT09wbVlhN0NKTGRhTTNsX1g2aXdERDhHeXRkUVhyZDNLN3p6RVBrbVhuLWJDRk5TeTBHM3ZpNUJFTUJjNWZ6V3c?oc=5",
+     "data": "2026-11-23T18:53:37Z"
+    }
+   ]
+  },
+  {
+   "ticker": "CPTS11",
+   "nome": "CAPITÂNIA SECURITIES II FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+   "tipo": "fii",
+   "preco": 6.77,
+   "var_dia": 1.8,
+   "var_semana": 2.73,
+   "var_mes": -6.52,
+   "min_52s": 6.35,
+   "max_52s": 8.2,
+   "dist_min_52s": 6.6,
+   "rsi14": 44.6,
+   "pl": null,
+   "regras": [
+    {
+     "id": "abaixo_da_media",
+     "texto": "5,5% abaixo da média de 50 pregões"
+    }
+   ],
+   "pontos": 1,
+   "desde": "2026-11-26",
+   "noticias": [
+    {
+     "titulo": "CPTS11, RZAK11 e mais 20 FIIs pagam dividendos hoje; veja quanto",
+     "fonte": "Fiis",
+     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE01UVViUF9oNjV4dmVNSzNpRGhJMVQyc0pBa01wVXpPNkxkRlV6RlR4ZElTb1FITkpvRGZHRmN1cU9vZkwyNmhpVWh6bk9RSV95OXFFZkF5dGRLMUhvN3ZxWnpCUkJUTmh3VVVnTHczOA?oc=5",
+     "data": "2026-11-24T11:40:33Z"
+    },
+    {
+     "titulo": "CPTS11 destaca lucro e dividendos pomposos pela frente",
+     "fonte": "Acionista.com.br",
+     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWkwwTzBTNDJENy1GdmkySFpjTGhXamVXdEU0dFF5aHE4ckw3WVBHOEtqQUFTZkJDMUVFdkpYUlo1LUFLNnU4bnhURzc3dEZ0Rm1BRllVcFpYbnZBWHJxN25OVjJRTGF3c3Y0d0lDRDFWZEYxQlV3d0RnQk8zX1VJSk1CSE5pYzQ?oc=5",
+     "data": "2026-11-20T08:00:00Z"
+    },
+    {
+     "titulo": "IFIX cai 1,29% e fecha segunda-feira em 3.440,08 pontos",
+     "fonte": "Fiis",
+     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9XSUxiTWUtN0FHRWNmTDdYUHRWZjYxTjh2dS05RE05WXJHZ0xSZ285aENfZ1NWTkZnMDQtbmRVaXdGVUFpR0ZaY005OTdDbzlUVHpKQXFNNXAxOEZhbjR2ZGdOWVhvdmMzcVltLXBRWVFCVlRob2dCRWdn?oc=5",
+     "data": "2026-11-23T21:33:58Z"
+    }
+   ]
+  },
+  {
+   "ticker": "VGIR11",
+   "nome": "VALORA CRI CDI FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII RESPONSABILIDADE LIMITADA",
+   "tipo": "fii",
+   "preco": 8.37,
+   "var_dia": 1.95,
+   "var_semana": 7.03,
+   "var_mes": -10.58,
+   "min_52s": 7.8,
+   "max_52s": 9.98,
+   "dist_min_52s": 7.3,
+   "rsi14": 44.8,
+   "pl": null,
+   "regras": [
+    {
+     "id": "queda_mes",
+     "texto": "Caiu 10,6% em 21 pregões"
+    },
+    {
+     "id": "abaixo_da_media",
+     "texto": "7,2% abaixo da média de 50 pregões"
+    }
+   ],
+   "pontos": 2,
+   "desde": "2026-11-25",
+   "noticias": [
+    {
+     "titulo": "VGIR11 lucra R$ 17 milhões e dividendos rendem 1,34%",
+     "fonte": "Suno - Investimentos Inteligentes",
+     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNkFjcnk5WU5vTTF6Rjk2ZFVoVWNPd1BWSjZsM1pDNkFPT2xFV0tlMUVsQVBaQjMwZE13MEdlVmFMQmY0cHViZzByeEFsZWhIMHYzQlBKYmtGZTViY0VZeGZWMEVMbGg5WjJGOWRDN0RZX1V2UzRmLXBhMTZ2OTVaMnBtWFVvdjjSAYwBQVVfeXFMUERWTmEtV2VEaUFZNHlPZldLcWNNUVgxWUtoNlJ1RGdPNFRrMjhOcXpKNHR5bm8zbDFQWjJ4Z2hPX2dBSkxXNmZFRTFIR21CWndYUXQ3VWt1ZjRQV29KbW9GNkZzNzFIalNRNTMtcnAyMnZ4aTZKdGc1ZG5zS2pIUUJJM1doU0R6d2EwQ3Q?oc=5",
+     "data": "2026-11-25T13:31:03Z"
+    },
+    {
+     "titulo": "VGIR11 paga dividendos de 1,34% e amplia investimento em CRI",
+     "fonte": "Fiis",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBLY2RZZlNfQllINW91Xy1aQjhwZ1FHN2ZLZUpMemt4c1EwLVV1VHVoMmZXbkxkUE5lc3hjbmpmWHJCU25pLUpMZzUxdXMtLTNkZDJNa1c3bWJRaHJXak5nWUt1RkRjMkRaVkpuS0I3NFJPQW01R24wNzZBblVwUnM?oc=5",
+     "data": "2026-11-24T17:22:51Z"
+    },
+    {
+     "titulo": "HGLG11, VGIR11, CCME1 1 e VVMR11 são destaques do Bom Dia FIIs (25/11)",
+     "fonte": "Fiis",
+     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBIQUtyazJ1Y25pSDBPaHA2dGRPTmFvcTNvMjZlZlhmdTdPcnEtTUVZSXpISjlETVVOY0tFaVB2SkxLY2EtN2dvODkwdTJkYndNLTZLelFRYkVISFdRREE?oc=5",
+     "data": "2026-11-25T10:33:22Z"
+    }
+   ]
+  },
+  {
+   "ticker": "RBRX11",
+   "nome": "PATRIA PLUS MULTIESTRATÉGIA REAL ESTATE FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+   "tipo": "fii",
+   "preco": 6.52,
+   "var_dia": 2.35,
+   "var_semana": 4.82,
+   "var_mes": -7.67,
+   "min_52s": 6,
+   "max_52s": 8.9,
+   "dist_min_52s": 8.7,
+   "rsi14": 48.0,
+   "pl": null,
+   "regras": [
+    {
+     "id": "queda_mes",
+     "texto": "Caiu 7,7% em 21 pregões"
+    },
+    {
+     "id": "abaixo_da_media",
+     "texto": "5,7% abaixo da média de 50 pregões"
+    }
+   ],
+   "pontos": 2,
+   "desde": "2026-11-25",
+   "noticias": [
+    {
+     "titulo": "Guia de FIIs (23/11/2026): vendas e renovações no TVRI11 e prazos para envio do preço médio em integralizações de FIIs",
      "fonte": "InvesTalk",
-     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5yVVZyNGp2TzhReHlwU3NfZE5fT3NJR2VWREVxeGE2UlAySnMwQzVGOTB5NFFiN3lNbXl1Tzd5QkItZlRLUXh4ZGRxSEY3TkZabEdSQXhsYUxWYmNuOWMtUHlHUjM5T0lFVUt4Vkk2MGs2Vldtc3c?oc=5",
-     "data": "2026-11-19T21:48:00Z"
-    },
-    {
-     "titulo": "Black Friday? As 10 ações com maior queda de um dos múltiplos mais usados no mercado",
-     "fonte": "InfoMoney",
-     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZ2FON2ZfV0t6bGhBbUJvNWh4OVk5QS0tUmZTRnNMVldVb0tOdUpaekEzUEhxNzdMUUZaT2ZfTEtIcFRrVnBqZV84RnBpTFY3OGxTaHJ3MlQ3dXR4LW12aUQybm1semIwczl2bXpqYmZTVVlIT25zMnhqWDNJUExaRWY5R1pOQktXZjhrZ1hkQVk1MEVkUmwzSWhGY1BSUk15QjRTTXUtUdIBrAFBVV95cUxOb1JsZTZxTUxDMnotVTByTjEweVBObVlENlNhdTRnNGZoYWIzVEtScWd0bUxPMENHcmdmdjlZaVBUNlZFcDQyeHRLaWo0cDhzZHBsUXdGMUFvLXdFRE12ZXVmWjZ6bjQza3lYWFAtSkc0WncySU9tWGt5WEFfSTFYTi1FU2o4X2NOVUYwajBlQ3ljQ2NYY00xZnoyRk04UDBTVFUxekEtNC1JYTEz?oc=5",
-     "data": "2026-11-21T08:00:00Z"
+     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBMMUx4Q2dqUUZDQ0RFU3JHNlRjOG4wV3l1UmUyWU1LWjBlYVVoR3lRbVpBNE1oelh3eWFWaTRGbzFPOXQxM01XWFFVRTg5dlRnQ09nTHo2ZzV2V2JvYzN3d1RjdzJMZnBCaFNkUE1zYUE?oc=5",
+     "data": "2026-11-24T08:43:52Z"
     }
    ]
   },
@@ -196,38 +445,26 @@
    "ticker": "PSSA3",
    "nome": "PORTO SEGURO S.A.",
    "tipo": "acao",
-   "preco": 41.88,
-   "var_dia": -0.12,
-   "var_semana": -8.8,
-   "var_mes": -18.81,
+   "preco": 43.06,
+   "var_dia": 2.82,
+   "var_semana": -3.58,
+   "var_mes": -10.63,
    "min_52s": 41.35,
    "max_52s": 55.72,
-   "dist_min_52s": 1.3,
-   "rsi14": 29.0,
-   "pl": 7.3,
+   "dist_min_52s": 4.1,
+   "rsi14": 36.7,
+   "pl": 7.5,
    "regras": [
     {
-     "id": "queda_semana",
-     "texto": "Caiu 8,8% em 5 pregões"
-    },
-    {
-     "id": "queda_mes",
-     "texto": "Caiu 18,8% em 21 pregões"
-    },
-    {
      "id": "perto_minima_52s",
-     "texto": "A 1,3% da mínima de 52 semanas (R$ 41,35)"
-    },
-    {
-     "id": "rsi_baixo",
-     "texto": "RSI 14 em 29,0"
+     "texto": "A 4,1% da mínima de 52 semanas (R$ 41,35)"
     },
     {
      "id": "abaixo_da_media",
-     "texto": "13,0% abaixo da média de 50 pregões"
+     "texto": "10,3% abaixo da média de 50 pregões"
     }
    ],
-   "pontos": 5,
+   "pontos": 2,
    "desde": "2026-11-24",
    "noticias": [
     {
@@ -251,555 +488,233 @@
    ]
   },
   {
-   "ticker": "COGN3",
-   "nome": "COGNA EDUCAÇÃO S.A.",
+   "ticker": "VALE3",
+   "nome": "VALE S.A.",
    "tipo": "acao",
-   "preco": 1.65,
-   "var_dia": 0,
-   "var_semana": 1.85,
-   "var_mes": -46.77,
-   "min_52s": 1.37,
-   "max_52s": 4.75,
-   "dist_min_52s": 20.4,
-   "rsi14": 40.7,
-   "pl": 6.9,
+   "preco": 58.73,
+   "var_dia": 3.22,
+   "var_semana": -0.46,
+   "var_mes": -8.78,
+   "min_52s": 54.61,
+   "max_52s": 91.62,
+   "dist_min_52s": 7.5,
+   "rsi14": 39.8,
+   "pl": 115.2,
    "regras": [
-    {
-     "id": "queda_mes",
-     "texto": "Caiu 46,8% em 21 pregões"
-    },
     {
      "id": "abaixo_da_media",
-     "texto": "24,6% abaixo da média de 50 pregões"
-    }
-   ],
-   "pontos": 2,
-   "desde": "2026-11-25",
-   "noticias": [
-    {
-     "titulo": "Cogna (COGN3)",
-     "fonte": "trademap.com.br",
-     "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5qaXNaRkxrS3ktVEwyWllkYmtNMTVvNGhDMjlFbXdqUDRfOGNiNWRIY0dRY19DeWIzSUdreDlmdUZ2Y1hQU1BiZ0RZR1VIbnBsaTIwWTBmZFlSU1loR21Bc1d3N0wxQ0hRUk1qNmdnOWJTc3p6bU8xbg?oc=5",
-     "data": "2026-11-19T22:36:35Z"
-    },
-    {
-     "titulo": "Cogna (COGN3) sobe 7,7% e Braskem cai 8,9% na bolsa; Ibovespa +0,3%",
-     "fonte": "Visno Invest",
-     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSkFzbUFvRVN1cDdHMktMazlfcklyNDlldDlLWmhScUlGV0dZYVRwSGIwMlQyeDNPbC1zdmE5VWhrUnVZQWVQOGk1TUp5Uk9ocXYwYU9LMkwxUDRjdFNWMFkwRzRGVEJWSFhGWUZKaDVWY0Q4LXhJOHFMQ0YzMXFhSFBwdWlCSDVEQ29WeExDNC10WWNIWERfRldsaw?oc=5",
-     "data": "2026-11-24T16:30:46Z"
-    },
-    {
-     "titulo": "Cogna (COGN3): novo desafio regulatório traz também uma oportunidade",
-     "fonte": "Acionista.com.br",
-     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNLTRWQzJHMXZYcEJkTUZvQ3dHNzV0a2hyeUszeVFYRjVoMWxlREo0dF92anJweUN1ZG15dUdNakw1N1NSNlFGVXYtV1N5S1l3SmxRZVJiWjFLSmtxZFJrM1Y5V0pXOEQ1b2hOeWF6U2FWdkpMOXR4MDVBV19oMFJwRW9wd2NTeWZkLXphWktwWF80ODloU3c?oc=5",
-     "data": "2026-11-20T08:00:00Z"
-    }
-   ]
-  },
-  {
-   "ticker": "HAPV3",
-   "nome": "HAPVIDA PARTICIPACOES E INVESTIMENTOS SA",
-   "tipo": "acao",
-   "preco": 6.1,
-   "var_dia": 0,
-   "var_semana": -0.33,
-   "var_mes": -30.92,
-   "min_52s": 3.95,
-   "max_52s": 16.68,
-   "dist_min_52s": 54.4,
-   "rsi14": 52.3,
-   "pl": null,
-   "regras": [
-    {
-     "id": "queda_mes",
-     "texto": "Caiu 30,9% em 21 pregões"
+     "texto": "10,7% abaixo da média de 50 pregões"
     }
    ],
    "pontos": 1,
-   "desde": "2026-11-25",
+   "desde": "2026-11-26",
    "noticias": [
     {
-     "titulo": "Hapvida (HAPV3) nega acordo para venda de ativos a Advent e Bain",
-     "fonte": "InfoMoney",
-     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZ2pSZ0J2OW84cldjQ3FpM3NIVXB0ZkVVYlVfN3JpSTk5SDZqN1BBaUFXSXdaU3JlWUhnenJjT0J1T0ZxSHQ5ODNjN0JtYmVDVnZEZ1R0RE96UHVWZ0FuaEFWaV9HSlA2c3FPNHkyOXNNY3p2eFNaaGlXQ0F0eFJTNkhQUTZQS0JzQWxxWnlnVllLQ294clFDV3Zua2tKYmxQMkVR0gGoAUFVX3lxTE9iY1ZWZm9uSVhLUVZvTHhpeG01Z1UzUW45clBsTE1wa3lvSm5uM2ROeXVfVkVUbVhkbk0xd21obnhxQk0xaDBubUNQNmJLWFBPR0xhdFNNTjVXaTF0RjlsR0UtQmd0QzRPcnJtMXQ2bFh5c0J5dEpVQjJFemFXV2VCR3BQekItNDE1OF9PRHJ2ZzM5RHhKYWRsUGJQWUJsRnhDX04wbFVfdQ?oc=5",
-     "data": "2026-11-23T10:36:17Z"
-    },
-    {
-     "titulo": "HAPV3: Hapvida esclarece à CVM sobre reavaliação de portfólio",
-     "fonte": "Suno - Investimentos Inteligentes",
-     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBCdVB0YUVzNEJ0cXpaN19CdjNUSnFTbDd0M2RFQjY4T2F1MzBZYkdxd3RWMl9feGhGcEUxWjJyemQ3UWtwaXlpMnNTU3JybmFVWHhlRnNzR0VJUVpGUTd6VEtmQUhEWi1pMS1aZjlGQ0hiNDk0WGZVQ2R0akRvUQ?oc=5",
-     "data": "2026-11-24T20:26:29Z"
-    },
-    {
-     "titulo": "Hapvida (HAPV3) vai vender ativos para Advent e Bain?",
-     "fonte": "Investidor10",
-     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPU09Mb21DMHdmUDFBb0RuUklFSTQ0MWk1UXJ4U1NxTk83cVJtdXE3UURUQUh6cUdFTjUzd1BfYlZva3Y5cWM1Q1p6SzJfN2xXMjFvaGtiZ29GRVVyRW81UEV4ejg5QjY0V3ZzekZCNW1EakczMjRmN3FvNU9BZ3hiaGZqbHI2dVlYbzFDZERJMjk0bnNQR2RPdVQ1Q0wxcm9f0gGgAUFVX3lxTE9TT0xvbUMwd2ZQMUFvRG5SSUVJNDQxaTVRcnhTU3FOTzdxUm11cTdRRFRBSHpxR0VONTN3UF9iVm9rdjlxYzVDWnpLMl83bFcyMW9oa2Jnb0ZFVXJFbzVQRXh6ODlCNjRXdnN6RkI1bURqRzMyNGY3cW81T0FneGJoZmpscjZ1WVhvMUNkREkyOTRuc1BHZE91VDVDTDFyb18?oc=5",
-     "data": "2026-11-23T11:28:16Z"
-    }
-   ]
-  },
-  {
-   "ticker": "RBRX11",
-   "nome": "FII RBRX PAX",
-   "tipo": "fii",
-   "preco": 6.37,
-   "var_dia": 0.47,
-   "var_semana": -0.31,
-   "var_mes": -16.45,
-   "min_52s": 6,
-   "max_52s": 8.9,
-   "dist_min_52s": 6.2,
-   "rsi14": 43.0,
-   "pl": null,
-   "regras": [
-    {
-     "id": "queda_mes",
-     "texto": "Caiu 16,5% em 21 pregões"
-    },
-    {
-     "id": "abaixo_da_media",
-     "texto": "8,0% abaixo da média de 50 pregões"
-    }
-   ],
-   "pontos": 2,
-   "desde": "2026-11-25",
-   "noticias": [
-    {
-     "titulo": "FII RBRX PAX (RBRX11)",
-     "fonte": "trademap.com.br",
-     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVWJkUXUwS0Y0eVIwRTRNWjZhOHFQZXJNMG9XS1VTSGlaTkdjQXNqLUp2U1c0azViODFHblI3S1VxTGl0bF9TZGFqenlmZVUtRkpzZV83TWJrVXdYTVdUaGM2Uk5ZYktqWklvcUE1S0ZTVXZSZm5Ec3hCY1pNdHo3TEIwSEdKR2ZSNHFVVVlMcldSeU1oVXJj?oc=5",
-     "data": "2026-11-19T21:03:00Z"
-    },
-    {
-     "titulo": "Guia de FIIs (23/11/2026): vendas e renovações no TVRI11 e prazos para envio do preço médio em integralizações de FIIs",
-     "fonte": "InvesTalk",
-     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBMMUx4Q2dqUUZDQ0RFU3JHNlRjOG4wV3l1UmUyWU1LWjBlYVVoR3lRbVpBNE1oelh3eWFWaTRGbzFPOXQxM01XWFFVRTg5dlRnQ09nTHo2ZzV2V2JvYzN3d1RjdzJMZnBCaFNkUE1zYUE?oc=5",
-     "data": "2026-11-24T08:43:52Z"
-    }
-   ]
-  },
-  {
-   "ticker": "RDOR3",
-   "nome": "REDE DOR SÃO LUIZ S.A.",
-   "tipo": "acao",
-   "preco": 36.8,
-   "var_dia": 0.57,
-   "var_semana": 1.55,
-   "var_mes": -15.85,
-   "min_52s": 30.5,
-   "max_52s": 47.86,
-   "dist_min_52s": 20.7,
-   "rsi14": 52.8,
-   "pl": 17.4,
-   "regras": [
-    {
-     "id": "queda_mes",
-     "texto": "Caiu 15,8% em 21 pregões"
-    }
-   ],
-   "pontos": 1,
-   "desde": "2026-11-25",
-   "noticias": [
-    {
-     "titulo": "Rede D’Or se desfaz de negócio milionário em acordo com a BlackRock; Citi vê ganhos estratégicos",
-     "fonte": "Estadão",
-     "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxORTM0UTNsMmhwR3lxazg5a1BrRTZydUthMmR4V1kxdU5KNExEX016bkZQNGFaeWk3T0hOSlN5clc2YzdEeE5MZmxhWk16aVRXV2ZhVlk1NFlJQi14NU5pTVR0SGdDLWpxdlZsanRKT2tBd0thNkd6dEtScVVQNmhzYjg0S3lSYXE3RHkyc0s0Q1JmVy0tWERKSDRQZ1dULVZPMDR2cDJibTdLOWpidlptMjJpQ04tanRTVy1NbmJmdEl1YnFZY0hYdG5XeThCbGFWemVjLXJLbG1TNGVfZmlhTXlB0gHnAUFVX3lxTFBRRTUyNDdwZE5VSGliS2NiLXpUV1BKT1o4RGUzdlpPaXdvQ1JJOWFhRlNwZTE0dVFKMm9QVU1aRXN4MnlGMnBGenpqaTcwek1QVUNkMEpkVDlOSi0wRWh1QlhHbkNFd1RPTWJtb0xpV2N0SC1rVWM1aHY5ZVBlc3pUUGNyLTdOdm04UzBTRTM0OWdfUFN1elBSLVpYYnJOR1JaSWRrN3docmh4Rm1JNzJ2ek9sMGFkMnpObC11cDA4ajRXemwzSnBwVXI0eHlzR21RMUFBd0F1cHZ4YXNNVGdjb1ZMazFXdw?oc=5",
-     "data": "2026-11-19T09:24:56Z"
-    },
-    {
-     "titulo": "Rede D’Or vende SAMI e amplia potencial de aquisições",
-     "fonte": "Safra",
-     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSWxORDJMRk5ndjFLMWpMUWMtXzBfZDZLYUZReGFuMWNSLWJHQ0RLQ0tRQXhYLXFRRXkxLUpiTDlVbklyNjNQZkRPWTN1aXNkQUFGTDFmR0x1azk1cVh5VmQ2RG9tNl9LODNzWkNfN1Z2V1pVd1V4UEF2S0lFTGxUN01pZw?oc=5",
-     "data": "2026-11-19T15:15:14Z"
-    },
-    {
-     "titulo": "Rede D’Or (RDOR3) sobe na Bolsa após venda de negócio por R$ 850 milhões à BlackRock",
-     "fonte": "Guia do Investidor",
-     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNHRRUkVab0JVakEza1RvYW5odEtHd1Rwc0cwRzR0ZjJtS3ZHQVl0X2E4Yy15NlVzNVV2ZlgyU24ydUpOaU1EQ183YlF5U1dpNnRFQjZwZ2VFWUlWUzcyVUxqZ2hidGw4d1JJdjVnelA2SjFGTWFHMVRZN19qMEVEQUEtc3drUXdwNGl3QXZEdVFLaGVVdHFPb1hXbDNNMEZwQmJqOHNib2NnTUZSamFEcUo5SVAtRVJoV3BqRnZB?oc=5",
-     "data": "2026-11-19T13:34:30Z"
-    }
-   ]
-  },
-  {
-   "ticker": "LREN3",
-   "nome": "LOJAS RENNER S.A.",
-   "tipo": "acao",
-   "preco": 9.26,
-   "var_dia": 0.65,
-   "var_semana": -3.34,
-   "var_mes": -36.49,
-   "min_52s": 8.66,
-   "max_52s": 16.25,
-   "dist_min_52s": 6.9,
-   "rsi14": 37.6,
-   "pl": 6.2,
-   "regras": [
-    {
-     "id": "queda_mes",
-     "texto": "Caiu 36,5% em 21 pregões"
-    },
-    {
-     "id": "abaixo_da_media",
-     "texto": "18,0% abaixo da média de 50 pregões"
-    }
-   ],
-   "pontos": 2,
-   "desde": "2026-11-25",
-   "noticias": [
-    {
-     "titulo": "Renner (LREN3)",
-     "fonte": "trademap.com.br",
-     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5NWnNGdVdLSkppdWtPZUMxTjROWm55WU14SGxjdTZSVEFnV014VEdBVFJQOERZdkdhd19IMkhxSVIyc1RfWFNjeVlHWlN2dmlpZUJGVF9fMWI?oc=5",
-     "data": "2026-11-19T22:39:38Z"
-    },
-    {
-     "titulo": "Fato relevante Lojas Renner (LREN3): o que muda nas projeções para o varejo",
-     "fonte": "ativovirtual.com.br",
-     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSlFsdzdYcDlfRnVjcGtRcEJWZUhSbzl1c09zOHM3OHRuMnd6b24zbW9HTkY3RGJDOG45N0UyRnUwaExWN2t0MElYbVkzam5PWUwxNTJacTZJRHRyQU1rYU9EVm14ZE5MNkpaRnZJejlieFpnN0c3ZXRGUnhPTUxiOWRUQ1FuanZLOW1NSVg2N0FuVWJURXdHWDlTaU5yaXVTcUdmSXRiNXcwY3piYTRwc2o3X2ZIQ2htMzk4?oc=5",
-     "data": "2026-11-21T08:00:00Z"
-    },
-    {
-     "titulo": "Ibovespa, dólar hoje, POMO4, WEGE3, BBAS3, LREN3, SUZB3 e mais: Giro de Gráficos",
-     "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeXpKaGF1cnBhMlVTUjNxVlZXNDQ1VGhndTRjTjRXUERnR3lLUzFOa3pHT2c2VVJkdDBMVjJOX0F4QXNBdlhYVGZRTzVBcUVCSzg2cDNCekdWZ291RVI4SElISGdIMERwR1lRV2U2TEFJWUlhcXZPMWcwRFZodG1ManUwTHFVNzlWdlBfNVliVGVQeFZGNFkzY3lFa3RiWnFLdUZLN0owcDk4Zm5nWU43Z05tVUZqakw2?oc=5",
-     "data": "2026-11-20T10:20:00Z"
-    }
-   ]
-  },
-  {
-   "ticker": "ITUB4",
-   "nome": "ITAU UNIBANCO HOLDING S.A.",
-   "tipo": "acao",
-   "preco": 40.01,
-   "var_dia": 0.68,
-   "var_semana": -2.15,
-   "var_mes": -17.13,
-   "min_52s": 37.35,
-   "max_52s": 50.85,
-   "dist_min_52s": 7.1,
-   "rsi14": 39.7,
-   "pl": 9.7,
-   "regras": [
-    {
-     "id": "queda_mes",
-     "texto": "Caiu 17,1% em 21 pregões"
-    }
-   ],
-   "pontos": 1,
-   "desde": "2026-11-25",
-   "noticias": [
-    {
-     "titulo": "Cotação Itaú Unibanco (ITUB4) hoje: veja preços, gráficos e notícias em Tempo Real",
-     "fonte": "Money Times",
-     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1DTV9XelFhM0xacUJQdzN0SzJlR3VjVktTVEtZdHo1RGpVMERZZExZeFVhTEtrbTRKQmVJTHdPYXpDZ2xsdjVlMTRTdkJyNVF3NERBbUNLOA?oc=5",
-     "data": "2026-11-19T08:00:00Z"
-    },
-    {
-     "titulo": "Quando Itaú (ITUB4) paga dividendos? Confira o calendário",
-     "fonte": "Suno - Investimentos Inteligentes",
-     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRVdSdTh2ZjlMdHR0ZFpfM1hnSWRxQW9tLWk1OTMwV0QyVjRXQ3F2ZzVlb25iMlZjQU9MMWRiWkpsTkI1X3Z5WDVRMXlvd0ZSNkNmUWUya2lndjV0LXRzOEdSMEVLdmR6YjMxc2VkcGlHLWFQMmZwVDdJcWstSXp2V1JkcmRIREpYQVHSAY8BQVVfeXFMUExpcm1waHdOejgxdFc5bWxHcjd5eS1VVTJ1UzZVeDlhMkViMHVHaUYzVlpqYUZ1YXJ2amc1SkpUamZ5b2ZqTDMwZGlnbXBueWFXMEFLZWd3LXN1dnNWZG00WUl4eFFzLWI3eUJhTF9xMlFFZnBQR1lBZVBoLTRFNDZoRXdWRkV1aTNVWUxQd2M?oc=5",
-     "data": "2026-11-25T18:01:06Z"
-    },
-    {
-     "titulo": "Itaú (ITUB4) e BV promovem cortes e engrossam onda de demissões no setor financeiro",
+     "titulo": "Ações da Vale (VALE3) tombam com queda do dólar e cenário negativo para minério",
      "fonte": "Valor Investe",
-     "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNQVJkSGZjRC1HRzk4dmtuRHpybWdtQW1mTW9lZ04tVnExcEpld0pUcVJKbnZXZVpPZ0p4eVJtdC1UWUpiUktrTVpFa2g1R2pQd3RMYjVhVnZjMmdSOTM2RkdpTUhOOFp6ZTRLc3gydGRhNW5sQlNBclFLbE9RZ3V2X05aWng4WTdQeERiOVV6OGZURFJ0ZzFHTjdIRkk4T1FBZG4tdldQc1VOYk9yR2hKSzZpLXZwb3BOWUNJdGZMVWFVZWNKUnVvM3ExYzlzNl9tT0hlVE5QbFRzT0VqMVZuaEhtaThPdGk1TmJFTDlZUlBsdGlfMTRQTHppSVVrQ0XSAY4CQVVfeXFMTXFZaTFTVUl3Z1FGR0tKMFlmbU1hTktZQjBOY1p3XzRNUHd0V3JzY0IxclQtRjdBMW1IcFJOQXppaXpRSHBUbVdxaFl4VmlFWm8zNDU3YnFqMHJFTm9tcTJLYlBMNHBXZ1JwMVlFek9ERldibEdnWm5LVmlwQXRrZXFRUURyMkFIQW40X1E1c3FNbWY4T2xxR25sXy03cVFuQk9zcGZVMjY0b2dwT1Y3TG1kNXM1UlNTRzNCQTNFUHRoNXFsbEdzYVNQSHVvNm9kM3Q0ZEl2eVctdWt5TmVkaG9jVUZhUTE1SENGY2RCRDlpbVlXNE1hcWdOWXFjXzBvbTA4ZGNrVF9LMkZjRWJ3?oc=5",
-     "data": "2026-11-24T19:39:03Z"
-    }
-   ]
-  },
-  {
-   "ticker": "KNCR11",
-   "nome": "FII KINEA RI",
-   "tipo": "fii",
-   "preco": 103.2,
-   "var_dia": 0.78,
-   "var_semana": -0.31,
-   "var_mes": -1.19,
-   "min_52s": 100.59,
-   "max_52s": 109.14,
-   "dist_min_52s": 2.6,
-   "rsi14": 49.7,
-   "pl": null,
-   "regras": [
-    {
-     "id": "perto_minima_52s",
-     "texto": "A 2,6% da mínima de 52 semanas (R$ 100,59)"
-    }
-   ],
-   "pontos": 1,
-   "desde": "2026-11-25",
-   "noticias": [
-    {
-     "titulo": "FII Kinea Rendimentos Imob (KNCR11)",
-     "fonte": "trademap.com.br",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1CV2Y4TFNCcDREMWROZmthbUtZdDJURlk2cmlIY1pycXVINFlRVmNIMGJVSGJnaWpUa3l5ZWJtOHhRSzloa3lIdnlqWDdITmxaT09EcEl0TURZZw?oc=5",
-     "data": "2026-11-19T22:38:44Z"
+     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNHM0dmpUeWlwM1lSVmZNYVdLVDdsVVRkR0pqZUlxb19vZGVueWY0Q3M2WTEzQWM2R3JIRmFiUE1HNm43NkdYRG12OHIxM0tMa0t1U253aHRhcjVPY2ZHWnFMckxMeWc5VkdGd09KV3NRanlPYnZKa25SWXdfMG81Y0FTWmFxVVpKMVVvakpuRWcyMU90bW1QQlFyV3dDUWtjVVVRSk1nYXdBdGdHRzJ6LXFYTUtyWFhzbE1YQ29uM3VFLVQ1a0Q4atIB1wFBVV95cUxOVGkwWlk4bWhzZzdRNWFST09lNGtMdnJFa1NtTF9pYXBlZk05VkRKckdXVEFJckxweW1oRUVHRDRiV09YdG9YWEhCZ3p5THpoZHNWTm9tYWxYTFNDYk5lT1UyamlNUFkzVDFVU0RqaVExUEthTkpEVktXUDc1NjNUVWlVaFp3RWlxbTBHM1VwN1JwZ1haMWVqbGRuV2xaUU05MXoxYlpoakpzSVFrNVJvWGx5MWtWN2gtSnYzdnFDQWJyLUpGU3NCR0FyMmpqX1FuQTY0eTVSUQ?oc=5",
+     "data": "2026-11-24T14:32:16Z"
     },
     {
-     "titulo": "Dividendos do VRTA11 chegam a 136% do CDI; entenda os números",
-     "fonte": "Fiis",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBNWC1xckFIQ3h1eVZkd3ZnUDVMUDRGRXBLbHJYT0drQlYtNTBvMklGbXJKenczbnpPMFRJaW5TSmhkc0VVN01Kd1g5YXRlTXBzVl84UGEtOTczRzY0RkpSN3JMMWtBZ3lnVGNZeDR3?oc=5",
-     "data": "2026-11-19T20:50:44Z"
+     "titulo": "Vale cai 5,51% na Bolsa e atinge menor valor de mercado em mais de um ano",
+     "fonte": "Estadão",
+     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZl9BWjFrWndLQ2lMaEQtWVlnQThuOE5aVEhSX1JwMFZmX3h6NU81dlo4aDZfNzJaNldyVWFCa1ptZ1R4bkViZzJ4dzZZSGhlTWlMaTVYeHZZeWw1MVFqc3NtZlF5MXA0bU9WWTRfRkM0aWp6QXpJaFZQc2xRUGR1RHhFV1NZeXUxOHQ2U1dNQVg3anR5X0NLeHVhOExkcXZ1UW1GTm9DN215UVZOZG9udDFwZzNDYmw4Q19TRTg5c3NSUTNkMG4wTNIBzgFBVV95cUxQUXJHb3N3YzdrY0J4T2NjWklyQmNRUEsyZ1ZhV2dtdmlhQzhRMlhMNFBKMV9oM3p2Z0oxMDg2WGxYaDJ5YWY2UDl1WW13YlR4UndoSGo1TG5JeXN4MUZZeVR1RjFZWVBRSEtZYlBPeGwtN3pRUnFERlpFQ0ZrY3ZtX1IyRW5EbkRDcGZtaFBFRDNwdXBhZGNyLXVQZjU0X3FrN3J4RjhnYTlVa0lPQjVkbHFWcXBUTWU0c0NFc0JrZmh2YVF5QUNLTW41MUlwQQ?oc=5",
+     "data": "2026-11-24T19:40:29Z"
     },
     {
-     "titulo": "TRXF11 lidera ranking de FIIs mais negociados; veja quais estão no radar",
-     "fonte": "Acionista.com.br",
-     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9CVjF6a2lDOVk2eGJPUGRuLTZKbTV5ank0ZGhNaVV0MGo0VWVrUUpFYTFuWEM4RFdBUXBlUWhraEdGQ0JubVNkZU1Eb19HVElncjRwUFFNcVZaZG54Y1JUdkVUamRvN0JxbHRlY1lmTEVQMG1j?oc=5",
-     "data": "2026-11-20T14:04:04Z"
-    }
-   ]
-  },
-  {
-   "ticker": "PETR3",
-   "nome": "PETROLEO BRASILEIRO S.A. PETROBRAS",
-   "tipo": "acao",
-   "preco": 46.69,
-   "var_dia": 0.82,
-   "var_semana": -7.05,
-   "var_mes": -28.43,
-   "min_52s": 30.99,
-   "max_52s": 66.49,
-   "dist_min_52s": 50.7,
-   "rsi14": 27.6,
-   "pl": 4.3,
-   "regras": [
-    {
-     "id": "queda_mes",
-     "texto": "Caiu 28,4% em 21 pregões"
-    },
-    {
-     "id": "rsi_baixo",
-     "texto": "RSI 14 em 27,6"
-    },
-    {
-     "id": "abaixo_da_media",
-     "texto": "16,8% abaixo da média de 50 pregões"
-    }
-   ],
-   "pontos": 3,
-   "desde": "2026-11-23",
-   "noticias": [
-    {
-     "titulo": "Petrobras (PETR4/PETR3) amplia investimentos e dividendos: como ficam as ações?",
-     "fonte": "InvesTalk",
-     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNWh1Sm1idW0tdmNaSzBUS2NaVUdidnp4ZG5zSWdkR3phS1pXOWhock9rZ05KSDlvWEItdnltUTh2NUNXeEd1Zzdma2YteXlMZTItbmxMVlRGMElUakhqUnBCMWNEdXJFbnR6RTB0RXZKY3YxSi0xd3hoS3UtY2xvVklrWl9ZVWFpWWl5dzdOZTQxTnJrMDE1RWI2TFZtbDRBV05DZTRuWU9kSk9DSjFrWnFtdUJaeUlac2tpUQ?oc=5",
-     "data": "2026-11-24T15:05:00Z"
-    },
-    {
-     "titulo": "PETR3: Petrobras aprova remuneração extraordinária de R$ 15,6 bi",
-     "fonte": "Suno - Investimentos Inteligentes",
-     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTWpYbDV4cDFpTUhYLTdydDdTaWRUMUNmYXYtc2hMaFVXdUlBa3Z3ZVMyMFBnMUFkSllaekdJMElWUXF0SFU3NUcyVEVQVlB1ampvbFNYbG10VWh0VDd3VzVuS2tQNk1MTHdXc2hSNjBxV3pORFBTY3FKeFpiajV2WFh3VDNnNVNRMkN0SndLVU_SAcsIQVVfeXFMTTh2aHBaNG5wZXRGRTV6ZDVSSVlrcDNrd0JPYUJIeEhOcXFrSDJlb1YzaENmY3A0ZDhOOVVFekhpRUdKTE95aUEwd1dEN0dDclJqNFo4WVF1NGFwOTZySHBmb1A1N3NDd055R0lvRjYzUUVEZ1dNZC1ka3pZNjg5SzdnQmdDY3g2Rm82MFJ6ajRhR1VUMi10eFhGbkx4S1hQdVp5UllWRndSUjkwVkZMWTFvcks0NDJmUWtLZXN1eURVSnVEd0J0VXJFQWJyOTZaeEZ0eDRGUTFILWtIeFdsNkRIdnlaUnYxcENSM3BsdnYtTjBZNlV5LVB4Qm5oUDFNUS1fLXB0ZHU1SDQybkVEUUxFaXB4QTR0dHY5dmItckRkNGs0V01UR2poM1hBOThxdWlRREdQeHNNcDBKekdFcUxIZFNJdGNwMFhieEpGdUtDb2t0RlVGc3dVZjlXRURMeE13bS1UNWl0amNPa0VjcGRRdno3WlJXcks2YzVTcktocF9uV3FSbXBWX29KcHZ4Vy1aV3haVHdfQUVfclIzRkFWX3VXUjcxR3dKdG1kUUlWdHJSVUlKVHdkWTdSbEQzLXFBNGpCbU5WYVgwdzB2TGtHS21vQkYtX1JsY2U3STJ5aWJQVTZJNWc4SW5wRkRQa2s4RUc2RmdSUTZKVVBCNXFnZURaWGVJTVdJMFVZVzNWNDM3aUlsTzB3eGxxdWtfbjlvQlRPYmtYaXAtUUt3YmtlZzl1X244elh1aTBVVkpXNEdqNDNWekpzbnRDejZxek1YeEtzUG96TUlnNGwzU0g0RUtWbmNTblNZd3Q3emRmYmE0dnEzd0xpVEJjclctWkl2NkhHU1BCSTZWdFVreFMyUDBZVnBPTGl4cUFYbU1iYzktdlpTS3ZROUJlMGN3QndEZUxhTFJtZUtPakcyZk9pZ3FuNkRTT1hqT2gtR0lXcHkwWlB2eThJX053MTZtQlZaU0NsYXUtQWtuaWhCVjJFTHViSEhKWThneW9uc2x2cmFYZzZJRk1ITDdrZXlqX0dtU3ljWW1PZDExeWlHSVhibm1SWVZyZ2NwSWNHUlEyZkZRN2RkN3JoUXd3NlRhQnBCdmc3aUpMNTVYSUFKT21sZWxtWmJFSElWbHVhNGNBaHdITHJuWVEyY2JIMGs2TFNUZmhZS1VvNEpWNzltQ2pjZVRiN2JUS3hSU2xQRUl6VnlVRllmQWZ5R1pNNGNCQkRzN2lpVXJLbjV6c3N3dmJBVVJMR25RQ05adlYxOS1GQlNpaFNNRGE3VFpSVS1weDR1bHBDeW05QkZITGdTdDlxNjhzdTVuenlhTmhmVERsVUlLaG1peFZhUVRhSW5JdEF3T3lJTVRFdHd3RU9mc2ZvWU9UNTRSUW9PbTFEMlBrQ3V3S3BWXzZSbERrV19vZjc3LXBjQl90NDNiRUpwUWpmRUJnYUJhMmo4MA?oc=5",
-     "data": "2026-11-25T13:00:33Z"
-    },
-    {
-     "titulo": "Petrobras (PETR3;PETR4): 3 fatores que fizeram as ações caírem mais de 3% nesta 2ª",
+     "titulo": "Por que a Vale (VALE3) caiu mais de 5% nesta terça?",
      "fonte": "InfoMoney",
-     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZDNwTkdLMkdHNnZqNFJsM1l0aHhGU1pFVUtweklpU2xKN3g3S241SEU3SDQ0c3ZkaHVmYlc2NGdwdkZHV0w0T19Odmgya05XQnlLVUxXU0wzNzlfalJCRzFDZFpCeUF3MG02QURLYlRsQ1k4aEFwM2FFRDFtRHFNWk1VUjBZbjdkeFhQSHVNS0FZUFFkX092cVoyakpPMUpONDNlcHdoNEpSTmt6UzRIVVZoSXhJUjDSAbwBQVVfeXFMTkNmOFdPdm1KYTdDaUN2VGRLV0EwU2UteUUwX19nLVREWk1IYjdnbnVCa3p2WWRnVW5GbUIzaXlYenkyeGxXLUt5aGVzdkczenRsaXIweEhlbkE5Znp1eHByU1gzV3d2UG9OWVVWX1Zsd2dKN1VSTk4zVEE3Z1lIYkQwZTdhN2NlbzZ1UmRTUlhSbnVkQ2xpVHpSa3RlRGxITUpxMzNtXzRUQkZVREs5ZDEyWmE4aS1EVkVTNHM?oc=5",
-     "data": "2026-11-23T21:39:04Z"
+     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPR2dZNGVJa190aTFNbElpUFd1aVB0TXZsbDJmaEZqRFBDcFlRQ1ByaDFJZC1MSzNZMUN6eTZkZC13eTBBZkdzMlZtTm5rTFRRTnZ1T29Ud3o3OFhqVTFwa0kyMHJDYU5WanhfeENURGxEdGpsX0RuR0gtbzRaRTBXMDVnZnhMbXFHeTFTWi1Xd9IBlAFBVV95cUxQU21qSWxwYjFBNTRzM2FOVDZQWEwxS1UzV3I1MXEyTmhEbVRqM0M1NTdBcFRQZFo4RFh2T0xjYWlIYzdzMWVTWFVqQ2huejQya0dQYUdIUk5vUjVuVnA5MXB2ZnlmT1JxazlRN05wdmhQUmcxS0prNGpUbDZ2VkFPTWo2dG9YR2FkVEZDU1R6QTN1a3Jp?oc=5",
+     "data": "2026-11-24T21:11:25Z"
     }
    ]
   },
   {
-   "ticker": "BBSE3",
-   "nome": "BB SEGURIDADE PARTICIPAÇÕES S.A.",
+   "ticker": "VIVA3",
+   "nome": "VIVARA PARTICIPAÇOES S.A",
    "tipo": "acao",
-   "preco": 36.52,
-   "var_dia": 0.83,
-   "var_semana": -2.04,
-   "var_mes": -16.39,
-   "min_52s": 33.02,
-   "max_52s": 44.34,
-   "dist_min_52s": 10.6,
-   "rsi14": 35.3,
-   "pl": 7.8,
-   "regras": [
-    {
-     "id": "queda_mes",
-     "texto": "Caiu 16,4% em 21 pregões"
-    }
-   ],
-   "pontos": 1,
-   "desde": "2026-11-24",
-   "noticias": [
-    {
-     "titulo": "BBSE3: membro do Comitê de Auditoria da BB Seguridade renuncia",
-     "fonte": "Suno - Investimentos Inteligentes",
-     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVDZFV2xZaC1QR0ZsNTJjejVJMXBvTVFtVmJId3psN3NycFdlejB5QVlnVEFVSVowSDBCcHI5bUJiTC1WRHhxSklHb0tGa2VmMHZ4N2RZTVlPcUZUUC1RY2hHalJsbXh4OGZTWmd3X3otMWMtNXIzbUplanU5TlhQVW4zX0p1T3fSAYwBQVVfeXFMT3VLS0NkLXJISlAteWRBN0JDWkRfeldMVnJzdnBMenBySXFpMmxjN0o0YUViUHNWdHNKNEZsODZ0eE1PUWxoMDd0aTJXcGpsdTJad0hMUkxZLVZGZXJBcF9BZWgtbkd0SmhXQk9Yd1JhSU1yMHRhTTJjSkloN182bFRZWXU4cERiWVp4TU4?oc=5",
-     "data": "2026-11-19T19:30:43Z"
-    },
-    {
-     "titulo": "BB Seguridade (BBSE3) cai 11% em novembro após balanço; ação pode recuar mais?",
-     "fonte": "InfoMoney",
-     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZ2lSUkFXZUVXWDJpV2lfWnpIWU5HWkdVVWlJVEFfSGlpRWc1SlJ2NGVncWNwcnBQeHBzWmlvRjk3WVBQUGxFVlAzUmxIdDhjXzRLRHQyUVFyanllYTNiM3hZd3R6Szc5d0VhUDk4YUlXd3NuLU5vam9SMEV6c3lsSXdzMkt2NktFVXp4clZkMVR5VjJ1bjNZZnlnVnpabUpxVExXd3drT1hjbWEwTENEUmZR0gG3AUFVX3lxTE9QSFF5WWhMcjNpVXdseGdSU3h1U0t5MS0ySGlVNXlzSWV5Tjd6MW96akVtX1o1eGJZM2t1dlFZQXo3Y3pxTXF1Wmw4MVhuZU0wdXZOWDI1TzhzNDBGdUZaT0szanpkVEd3NzdIMnFYb1p6SVU0cnlxWVNPa0NVTG1WYkFaR1piSHVaUXZld0p1bXNNVkM1MFVSSXJacFdWUndQenJZVjJuajlzaWJtUHFERTdHTnpwRQ?oc=5",
-     "data": "2026-11-19T12:42:00Z"
-    },
-    {
-     "titulo": "BBSE3: lucro de R$ 2,3 bi no 3T26 fica estável",
-     "fonte": "ativovirtual.com.br",
-     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOeWQ5ZFZHX1VsTGpMTVZVaXFPVDdwQ0xVYi1MUVRFV3dUbGNmTEZXeXVLVXcyOXZadFNTTC1hRVVsQjUzQUNDN3ZFX3RUcUM4aTNHeEJnVTk0NHd5aUNjMk15a1ktY1huUGRMeTd4Q1NnOGs1NjYzSmVIQk02V25EaVM5NkJETEtXTWtYZXh3NjFCWVZaNlE?oc=5",
-     "data": "2026-11-24T22:46:23Z"
-    }
-   ]
-  },
-  {
-   "ticker": "HGBS11",
-   "nome": "FII HEDGEBS",
-   "tipo": "fii",
-   "preco": 16.68,
-   "var_dia": 0.91,
-   "var_semana": -4.08,
-   "var_mes": -14.09,
-   "min_52s": 16.26,
-   "max_52s": 21.05,
-   "dist_min_52s": 2.6,
-   "rsi14": 34.1,
-   "pl": null,
-   "regras": [
-    {
-     "id": "queda_semana",
-     "texto": "Caiu 4,1% em 5 pregões"
-    },
-    {
-     "id": "queda_mes",
-     "texto": "Caiu 14,1% em 21 pregões"
-    },
-    {
-     "id": "perto_minima_52s",
-     "texto": "A 2,6% da mínima de 52 semanas (R$ 16,26)"
-    },
-    {
-     "id": "abaixo_da_media",
-     "texto": "7,8% abaixo da média de 50 pregões"
-    }
-   ],
-   "pontos": 4,
-   "desde": "2026-11-25",
-   "noticias": [
-    {
-     "titulo": "FII Cshg Brasil Shopping (HGBS11)",
-     "fonte": "trademap.com.br",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5PbGs0ZzFhbk0yZERkRGpCY0RPdkhvclRXV1dlZHRPb0szd2ctOUU4SEt4bnJxRHpnSl9fUFI4V2lTQW9YUmlKODJKYW5kai0tenpUV1Y5U3E0UQ?oc=5",
-     "data": "2026-11-19T22:25:23Z"
-    },
-    {
-     "titulo": "HGBS11 lucra R$ 17,9 milhões e compra participação em shopping por R$ 216 milhões",
-     "fonte": "Fiis",
-     "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE92QmMtZUJ0MEpMRi0ycF8xVm9LZjNPYmpFV29lRnpxd3RDQ3JSRkRCbHlaVTViNG1QYzFZazAzaHRpbVNmWGhwdmdmbzEwUFA0ekRjMHNoV0ZKMjNpazdnaURuTzRhazRHanJiMUFiUTlINUpKSFhfenJULWE?oc=5",
-     "data": "2026-11-20T13:28:00Z"
-    }
-   ]
-  },
-  {
-   "ticker": "AXIA3",
-   "nome": "AXIA ENERGIA S.A.",
-   "tipo": "acao",
-   "preco": 46.16,
-   "var_dia": 0.98,
-   "var_semana": -2.68,
-   "var_mes": -20.41,
-   "min_52s": 45.22,
-   "max_52s": 67.84,
-   "dist_min_52s": 2.1,
+   "preco": 16.54,
+   "var_dia": 4.29,
+   "var_semana": -0.06,
+   "var_mes": -15.31,
+   "min_52s": 15.63,
+   "max_52s": 36.65,
+   "dist_min_52s": 5.8,
    "rsi14": 33.8,
-   "pl": 6.4,
+   "pl": 7.5,
    "regras": [
     {
      "id": "queda_mes",
-     "texto": "Caiu 20,4% em 21 pregões"
-    },
-    {
-     "id": "perto_minima_52s",
-     "texto": "A 2,1% da mínima de 52 semanas (R$ 45,22)"
+     "texto": "Caiu 15,3% em 21 pregões"
     },
     {
      "id": "abaixo_da_media",
-     "texto": "13,2% abaixo da média de 50 pregões"
+     "texto": "24,1% abaixo da média de 50 pregões"
     }
    ],
-   "pontos": 3,
-   "desde": "2026-11-25",
-   "noticias": []
-  },
-  {
-   "ticker": "MXRF11",
-   "nome": "FII MAXI REN",
-   "tipo": "fii",
-   "preco": 8.46,
-   "var_dia": 1.08,
-   "var_semana": -2.08,
-   "var_mes": -9.41,
-   "min_52s": 8.26,
-   "max_52s": 9.99,
-   "dist_min_52s": 2.4,
-   "rsi14": 39.9,
-   "pl": null,
-   "regras": [
+   "pontos": 2,
+   "desde": "2026-11-26",
+   "noticias": [
     {
-     "id": "queda_mes",
-     "texto": "Caiu 9,4% em 21 pregões"
+     "titulo": "Vivara (VIVA3): Um 4T com margens pressionadas",
+     "fonte": "Nord Investimentos",
+     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBzQVBlSmprZGVZSjA5TFkzLXNXSXpVdTJRZ1dlRWRqSW5sM2tYb2RKd1R2aXBramZpWVNHbjlLY0JXR1Z3RWNzM0t0bktfZnZkMDJrZFBsa2RmVVNNMzBTVGk2bXh0Smw2ellSa0VRZ2tncFNiZGx2T1pla9IBgAFBVV95cUxQZnJwUm81bmZ5dlg5Nl9PdmFpckNDSGFMMHgzMTVEOENUSUx3WGhCaVlNVUF3djE4SGUtTVU3WjlMQTlrSmM5VjNCcTJDQnZlQ0RyTUlHYlA1Vnl1UHpHY1JrRkRvNUtQTVRwcExJaG9hZWtxZGhtQ040c3FNdkdRSw?oc=5",
+     "data": "2026-11-25T19:14:07Z"
     },
     {
-     "id": "perto_minima_52s",
-     "texto": "A 2,4% da mínima de 52 semanas (R$ 8,26)"
+     "titulo": "VIVA3: chegou a hora de rever Vivara após susto no 3T26?",
+     "fonte": "Acionista.com.br",
+     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNT21RYVRYY3AydmRGWGVEaFM2Vnc5ejAwWm45SFBhYkhQaExiel91TmpXb0dVcGg3Yms3U1BmM2V2ZEp6TjJmal9PVVZGRnhmWk9seWI0VlZMeWxkd1dCSEZReEJMQ1FqTGZtd1ZNVHQxeFhOWDhCUGY5R29RLVYxTUswSjhRV00?oc=5",
+     "data": "2026-11-24T08:00:00Z"
     },
     {
-     "id": "abaixo_da_media",
-     "texto": "5,1% abaixo da média de 50 pregões"
+     "titulo": "Smart Fit é a preferida do Safra em revisão de dez ações do varejo",
+     "fonte": "Safra",
+     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQOWhLXy1ZVnYtVU9OYWpINi04N05fb3ZrSWRNX1l3YVVWWFpGZTc5QnRfTUJZaGZoQ2lYdm5qTWpFbERZTE85MXBvdVBFN3JaV28yUzdEMU82YWpWX0FfOGtVZ3pkYVdmbndJUm5RWHdueVZNVmRaclFVM05MM1kzdTlwcw?oc=5",
+     "data": "2026-11-25T20:09:18Z"
     }
-   ],
-   "pontos": 3,
-   "desde": "2026-11-25",
-   "noticias": []
+   ]
   },
   {
-   "ticker": "TEPP11",
-   "nome": "FII TEL PROP",
+   "ticker": "HFOF11",
+   "nome": "HEDGE TOP FOFII 3 FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA",
    "tipo": "fii",
-   "preco": 6.63,
-   "var_dia": 1.22,
-   "var_semana": 2.31,
-   "var_mes": -14.59,
-   "min_52s": 6.28,
-   "max_52s": 9.35,
-   "dist_min_52s": 5.6,
-   "rsi14": 44.4,
+   "preco": 5.73,
+   "var_dia": 4.37,
+   "var_semana": 4.18,
+   "var_mes": -6.98,
+   "min_52s": 5.11,
+   "max_52s": 7.11,
+   "dist_min_52s": 12.1,
+   "rsi14": 47.9,
    "pl": null,
    "regras": [
-    {
-     "id": "queda_mes",
-     "texto": "Caiu 14,6% em 21 pregões"
-    },
     {
      "id": "abaixo_da_media",
      "texto": "6,0% abaixo da média de 50 pregões"
     }
    ],
+   "pontos": 1,
+   "desde": "2026-11-26",
+   "noticias": []
+  },
+  {
+   "ticker": "PETR4",
+   "nome": "PETROLEO BRASILEIRO S.A. PETROBRAS",
+   "tipo": "acao",
+   "preco": 43.19,
+   "var_dia": 4.42,
+   "var_semana": 0.05,
+   "var_mes": -19.84,
+   "min_52s": 29.53,
+   "max_52s": 59.79,
+   "dist_min_52s": 46.3,
+   "rsi14": 38.1,
+   "pl": 4.0,
+   "regras": [
+    {
+     "id": "queda_mes",
+     "texto": "Caiu 19,8% em 21 pregões"
+    },
+    {
+     "id": "abaixo_da_media",
+     "texto": "13,7% abaixo da média de 50 pregões"
+    }
+   ],
    "pontos": 2,
-   "desde": "2026-11-25",
+   "desde": "2026-11-26",
+   "noticias": [
+    {
+     "titulo": "Petrobras (PETR4) anuncia R$ 15,6 bi em dividendos extraordinários; veja datas",
+     "fonte": "Suno - Investimentos Inteligentes",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNejVPY2FUTzNwWHczUGRDdFhQUmFDMXExTEJocTcwTkZudkpjcWRIbHM1ZU5wbkRaSW1GV0R6cy15cGw4bElaTHJEMDJUYlB1cUFMU3J5bmdOMEZ3TlpVWlZJN3BsNDlMdXozNW5RSDY5RVl6M1VlRFYxbjBYekpIVkFIX0NZcVR2cWJOVjl30gGTAUFVX3lxTE0tanhPWTh5NDU5STE4cnVSXzBqemZUSThiTHVtQmVZZUpjQWpzVXd3MjN0LWxnUDlXOW55dW9xekhVYmJGSy1GM3IwLURONjNKbXYteG1QVndZSzNqMl8yd0dTdlVZNXJnR2FudC1UdHlWSzAxdTdjdURIR0wyZkxxWHhoTy1DdzJ0azVrbE5peTFTYw?oc=5",
+     "data": "2026-11-24T14:06:23Z"
+    },
+    {
+     "titulo": "Petrobras (PETR4) pagará R$ 1,21 por ação em proventos extras ainda em 2026",
+     "fonte": "Investidor10",
+     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObXIyNFNFNWZqUHQ1bjF2T2FZRV8wLTV1YmVndTJYOVVSdnlEZDJ1MEI5YnNGeS03VVNTN1ZXVEN5THVaMTFyNkVjNHQ0VWJmbXdQNExwTXBJci1tb1B1OUxhMEIzZk5VaGl0SmhGWTlLZDY0dmVFMGxYbi1zc0dOUTlLNFd3Wmw1WnYzRlFia1NjaXcxWTByV21TczhLbGZtS01feDY2QW5PNWNFRklrTTloUGpWeURw0gG-AUFVX3lxTE5NR2RIVG1aajg3Z1JfWHpTcnppRUFOOXRkTDM4RWhXWUFLZzhvVjBRZjZZbmJwbnlHM3FIUFVvRUZOVzBDNVdHLTktNVY4SFpvTXF1VWE3bFhDZVlOMVJ4Z2JWQ0V4ajIyUDN1SVRCUUdVcU1aUjNCV2FSVTBGUmFhMEgtbTZGcWRDblh0aldCeURVcUEwcElMd0VUbzlkVTFGTUl5b3FrOVBIN3JYWnkxVk9BYS1yeTlTQldlWlE?oc=5",
+     "data": "2026-11-23T23:09:00Z"
+    },
+    {
+     "titulo": "Petrobras (PETR4): Um mergulho no novo Plano de Negócios 2027-2031",
+     "fonte": "InvesTalk",
+     "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBMNVdVakNRLVN4cXR0dktLWlItM2VQQkk2V1lWRjYyUUNha1lrWmhxd2dqMmhSTTN3WkctcG9rLWdJb0JELXBwcU1qbklRZk5xWGV4ek9mSTZuYkF2UnloN2w3VGxybDNDUzdKeXBPTjkxUjhQc254dg?oc=5",
+     "data": "2026-11-24T18:28:52Z"
+    }
+   ]
+  },
+  {
+   "ticker": "MCRE11",
+   "nome": "MAUÁ CAPITAL REAL ESTATE FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+   "tipo": "fii",
+   "preco": 6.81,
+   "var_dia": 5.09,
+   "var_semana": 2.25,
+   "var_mes": -11.74,
+   "min_52s": 6.38,
+   "max_52s": 9.87,
+   "dist_min_52s": 6.7,
+   "rsi14": 44.5,
+   "pl": null,
+   "regras": [
+    {
+     "id": "queda_mes",
+     "texto": "Caiu 11,7% em 21 pregões"
+    },
+    {
+     "id": "abaixo_da_media",
+     "texto": "8,9% abaixo da média de 50 pregões"
+    }
+   ],
+   "pontos": 2,
+   "desde": "2026-11-24",
    "noticias": []
   },
   {
    "ticker": "USIM5",
    "nome": "USINAS SID DE MINAS GERAIS S.A.-USIMINAS",
    "tipo": "acao",
-   "preco": 4.9,
-   "var_dia": 1.24,
-   "var_semana": -1.41,
-   "var_mes": -26.09,
+   "preco": 5.15,
+   "var_dia": 5.1,
+   "var_semana": 2.79,
+   "var_mes": -13.01,
    "min_52s": 4.66,
    "max_52s": 12.18,
-   "dist_min_52s": 5.2,
-   "rsi14": 35.0,
+   "dist_min_52s": 10.5,
+   "rsi14": 43.3,
    "pl": null,
    "regras": [
     {
+     "id": "abaixo_da_media",
+     "texto": "16,2% abaixo da média de 50 pregões"
+    }
+   ],
+   "pontos": 1,
+   "desde": "2026-11-23",
+   "noticias": []
+  },
+  {
+   "ticker": "PETR3",
+   "nome": "PETROLEO BRASILEIRO S.A. PETROBRAS",
+   "tipo": "acao",
+   "preco": 49.09,
+   "var_dia": 5.14,
+   "var_semana": -0.43,
+   "var_mes": -19.26,
+   "min_52s": 30.99,
+   "max_52s": 66.49,
+   "dist_min_52s": 58.4,
+   "rsi14": 38.6,
+   "pl": 4.5,
+   "regras": [
+    {
      "id": "queda_mes",
-     "texto": "Caiu 26,1% em 21 pregões"
+     "texto": "Caiu 19,3% em 21 pregões"
     },
     {
      "id": "abaixo_da_media",
-     "texto": "20,8% abaixo da média de 50 pregões"
+     "texto": "12,4% abaixo da média de 50 pregões"
     }
    ],
    "pontos": 2,
@@ -807,49 +722,91 @@
    "noticias": []
   },
   {
-   "ticker": "VGHF11",
-   "nome": "FII VALOR HE",
-   "tipo": "fii",
-   "preco": 3.94,
-   "var_dia": 1.29,
-   "var_semana": 2.07,
-   "var_mes": -31.59,
-   "min_52s": 3.69,
-   "max_52s": 7.37,
-   "dist_min_52s": 6.8,
-   "rsi14": 36.1,
-   "pl": null,
+   "ticker": "POMO4",
+   "nome": "MARCOPOLO S.A.",
+   "tipo": "acao",
+   "preco": 3.62,
+   "var_dia": 5.54,
+   "var_semana": -4.23,
+   "var_mes": -11.49,
+   "min_52s": 3.33,
+   "max_52s": 7.14,
+   "dist_min_52s": 8.7,
+   "rsi14": 41.6,
+   "pl": 4.6,
    "regras": [
     {
-     "id": "queda_mes",
-     "texto": "Caiu 31,6% em 21 pregões"
-    },
-    {
      "id": "abaixo_da_media",
-     "texto": "17,8% abaixo da média de 50 pregões"
+     "texto": "12,8% abaixo da média de 50 pregões"
     }
    ],
-   "pontos": 2,
-   "desde": "2026-11-25",
+   "pontos": 1,
+   "desde": "2026-11-24",
    "noticias": []
   },
   {
-   "ticker": "GARE11",
-   "nome": "FII GUARDIAN",
-   "tipo": "fii",
-   "preco": 8.02,
-   "var_dia": 1.39,
-   "var_semana": -0.87,
-   "var_mes": -7.51,
-   "min_52s": 7.75,
-   "max_52s": 9.24,
-   "dist_min_52s": 3.5,
-   "rsi14": 44.1,
-   "pl": null,
+   "ticker": "CYRE3",
+   "nome": "CYRELA BRAZIL REALTY S.A.EMPREEND E PART",
+   "tipo": "acao",
+   "preco": 21,
+   "var_dia": 6.82,
+   "var_semana": 9.95,
+   "var_mes": 6.98,
+   "min_52s": 16.26,
+   "max_52s": 35.91,
+   "dist_min_52s": 29.2,
+   "rsi14": 48.6,
+   "pl": 4.5,
    "regras": [
     {
-     "id": "queda_mes",
-     "texto": "Caiu 7,5% em 21 pregões"
+     "id": "abaixo_da_media",
+     "texto": "16,7% abaixo da média de 50 pregões"
+    }
+   ],
+   "pontos": 1,
+   "desde": "2026-11-26",
+   "noticias": []
+  },
+  {
+   "ticker": "LWSA3",
+   "nome": "LWSA S.A.",
+   "tipo": "acao",
+   "preco": 3.44,
+   "var_dia": 7.5,
+   "var_semana": 5.52,
+   "var_mes": -11.34,
+   "min_52s": 2.98,
+   "max_52s": 5.83,
+   "dist_min_52s": 15.4,
+   "rsi14": 45.5,
+   "pl": 15.5,
+   "regras": [
+    {
+     "id": "abaixo_da_media",
+     "texto": "14,8% abaixo da média de 50 pregões"
+    }
+   ],
+   "pontos": 1,
+   "desde": "2026-11-26",
+   "noticias": []
+  },
+  {
+   "ticker": "LREN3",
+   "nome": "LOJAS RENNER S.A.",
+   "tipo": "acao",
+   "preco": 10.02,
+   "var_dia": 8.21,
+   "var_semana": 5.81,
+   "var_mes": 3.51,
+   "min_52s": 8.66,
+   "max_52s": 16.25,
+   "dist_min_52s": 15.7,
+   "rsi14": 48.0,
+   "pl": 6.7,
+   "regras": [
+    {
+     "id": "abaixo_da_media",
+     "texto": "11,1% abaixo da média de 50 pregões"
     }
    ],
    "pontos": 1,
@@ -857,17 +814,17 @@
    "noticias": []
   },
   {
-   "ticker": "MCRE11",
-   "nome": "FII MAUA RE",
-   "tipo": "fii",
-   "preco": 6.48,
-   "var_dia": 1.41,
-   "var_semana": -4.0,
-   "var_mes": -25.27,
-   "min_52s": 6.38,
-   "max_52s": 9.87,
-   "dist_min_52s": 1.6,
-   "rsi14": 35.6,
+   "ticker": "CSNA3",
+   "nome": "CIA SIDERURGICA NACIONAL",
+   "tipo": "acao",
+   "preco": 3.74,
+   "var_dia": 8.41,
+   "var_semana": 2.47,
+   "var_mes": -25.35,
+   "min_52s": 3.24,
+   "max_52s": 11.32,
+   "dist_min_52s": 15.4,
+   "rsi14": 40.9,
    "pl": null,
    "regras": [
     {
@@ -875,380 +832,261 @@
      "texto": "Caiu 25,3% em 21 pregões"
     },
     {
-     "id": "perto_minima_52s",
-     "texto": "A 1,6% da mínima de 52 semanas (R$ 6,38)"
-    },
-    {
      "id": "abaixo_da_media",
-     "texto": "13,6% abaixo da média de 50 pregões"
-    }
-   ],
-   "pontos": 3,
-   "desde": "2026-11-24",
-   "noticias": []
-  },
-  {
-   "ticker": "PRIO3",
-   "nome": "PRIO S.A.",
-   "tipo": "acao",
-   "preco": 60.5,
-   "var_dia": 1.51,
-   "var_semana": -5.41,
-   "var_mes": -18.02,
-   "min_52s": 37.11,
-   "max_52s": 74.6,
-   "dist_min_52s": 63.0,
-   "rsi14": 42.3,
-   "pl": 7.9,
-   "regras": [
-    {
-     "id": "queda_mes",
-     "texto": "Caiu 18,0% em 21 pregões"
-    }
-   ],
-   "pontos": 1,
-   "desde": "2026-11-25",
-   "noticias": []
-  },
-  {
-   "ticker": "ALOS3",
-   "nome": "ALLOS S.A",
-   "tipo": "acao",
-   "preco": 26.23,
-   "var_dia": 1.55,
-   "var_semana": 0.72,
-   "var_mes": -24.5,
-   "min_52s": 22.99,
-   "max_52s": 36.26,
-   "dist_min_52s": 14.1,
-   "rsi14": 44.9,
-   "pl": 12.0,
-   "regras": [
-    {
-     "id": "queda_mes",
-     "texto": "Caiu 24,5% em 21 pregões"
-    }
-   ],
-   "pontos": 1,
-   "desde": "2026-11-25",
-   "noticias": []
-  },
-  {
-   "ticker": "ALZR11",
-   "nome": "FII ALIANZA",
-   "tipo": "fii",
-   "preco": 9.44,
-   "var_dia": 1.61,
-   "var_semana": -0.58,
-   "var_mes": -8.86,
-   "min_52s": 9.15,
-   "max_52s": 10.85,
-   "dist_min_52s": 3.2,
-   "rsi14": 43.8,
-   "pl": null,
-   "regras": [
-    {
-     "id": "queda_mes",
-     "texto": "Caiu 8,9% em 21 pregões"
-    }
-   ],
-   "pontos": 1,
-   "desde": "2026-11-25",
-   "noticias": []
-  },
-  {
-   "ticker": "MULT3",
-   "nome": "MULTIPLAN - EMPREEND IMOBILIARIOS S.A.",
-   "tipo": "acao",
-   "preco": 26.64,
-   "var_dia": 1.64,
-   "var_semana": -0.75,
-   "var_mes": -29.02,
-   "min_52s": 22.51,
-   "max_52s": 39.38,
-   "dist_min_52s": 18.3,
-   "rsi14": 39.1,
-   "pl": 8.5,
-   "regras": [
-    {
-     "id": "queda_mes",
-     "texto": "Caiu 29,0% em 21 pregões"
-    },
-    {
-     "id": "abaixo_da_media",
-     "texto": "13,9% abaixo da média de 50 pregões"
+     "texto": "27,7% abaixo da média de 50 pregões"
     }
    ],
    "pontos": 2,
-   "desde": "2026-11-25",
+   "desde": "2026-11-26",
    "noticias": []
   },
   {
-   "ticker": "AUAU3",
-   "nome": "UNIÃO PET PARTICIPAÇÕES S.A.",
+   "ticker": "MOVI3",
+   "nome": "MOVIDA PARTICIPACOES SA",
    "tipo": "acao",
-   "preco": 4.27,
-   "var_dia": 1.67,
-   "var_semana": -2.95,
-   "var_mes": -19.13,
-   "min_52s": 2.82,
-   "max_52s": 5.37,
-   "dist_min_52s": 51.4,
-   "rsi14": 50.8,
-   "pl": 20.2,
+   "preco": 6.76,
+   "var_dia": 9.92,
+   "var_semana": 14.58,
+   "var_mes": -12.77,
+   "min_52s": 5.34,
+   "max_52s": 20.48,
+   "dist_min_52s": 26.6,
+   "rsi14": 43.4,
+   "pl": 4.9,
    "regras": [
-    {
-     "id": "queda_mes",
-     "texto": "Caiu 19,1% em 21 pregões"
-    }
-   ],
-   "pontos": 1,
-   "desde": "2026-11-25",
-   "noticias": []
-  },
-  {
-   "ticker": "GMAT3",
-   "nome": "GRUPO MATEUS S.A.",
-   "tipo": "acao",
-   "preco": 4.17,
-   "var_dia": 1.71,
-   "var_semana": -0.24,
-   "var_mes": -21.32,
-   "min_52s": 3.37,
-   "max_52s": 5.99,
-   "dist_min_52s": 23.7,
-   "rsi14": 48.6,
-   "pl": 8.7,
-   "regras": [
-    {
-     "id": "queda_mes",
-     "texto": "Caiu 21,3% em 21 pregões"
-    }
-   ],
-   "pontos": 1,
-   "desde": "2026-11-25",
-   "noticias": []
-  },
-  {
-   "ticker": "POMO4",
-   "nome": "MARCOPOLO S.A.",
-   "tipo": "acao",
-   "preco": 3.43,
-   "var_dia": 1.78,
-   "var_semana": -10.91,
-   "var_mes": -28.09,
-   "min_52s": 3.33,
-   "max_52s": 7.14,
-   "dist_min_52s": 3.0,
-   "rsi14": 32.9,
-   "pl": 4.4,
-   "regras": [
-    {
-     "id": "queda_semana",
-     "texto": "Caiu 10,9% em 5 pregões"
-    },
-    {
-     "id": "queda_mes",
-     "texto": "Caiu 28,1% em 21 pregões"
-    },
-    {
-     "id": "perto_minima_52s",
-     "texto": "A 3,0% da mínima de 52 semanas (R$ 3,33)"
-    },
     {
      "id": "abaixo_da_media",
-     "texto": "17,7% abaixo da média de 50 pregões"
+     "texto": "32,4% abaixo da média de 50 pregões"
     }
    ],
-   "pontos": 4,
-   "desde": "2026-11-24",
+   "pontos": 1,
+   "desde": "2026-11-26",
    "noticias": []
   },
   {
-   "ticker": "VGIR11",
-   "nome": "FII VALREIII",
-   "tipo": "fii",
-   "preco": 8.21,
-   "var_dia": 1.86,
-   "var_semana": 1.23,
-   "var_mes": -13.2,
-   "min_52s": 7.8,
-   "max_52s": 9.98,
-   "dist_min_52s": 5.3,
-   "rsi14": 40.3,
+   "ticker": "PGMN3",
+   "nome": "EMPREENDIMENTOS PAGUE MENOS S.A.",
+   "tipo": "acao",
+   "preco": 2.66,
+   "var_dia": 9.92,
+   "var_semana": 12.24,
+   "var_mes": -5.34,
+   "min_52s": 2.22,
+   "max_52s": 7.62,
+   "dist_min_52s": 19.8,
+   "rsi14": 44.6,
+   "pl": 5.3,
+   "regras": [
+    {
+     "id": "abaixo_da_media",
+     "texto": "25,6% abaixo da média de 50 pregões"
+    }
+   ],
+   "pontos": 1,
+   "desde": "2026-11-26",
+   "noticias": []
+  },
+  {
+   "ticker": "NATU3",
+   "nome": "NATURA COSMETICOS S.A.",
+   "tipo": "acao",
+   "preco": 5.2,
+   "var_dia": 10.4,
+   "var_semana": 8.79,
+   "var_mes": -12.01,
+   "min_52s": 4.26,
+   "max_52s": 11.15,
+   "dist_min_52s": 22.1,
+   "rsi14": 45.9,
    "pl": null,
    "regras": [
     {
-     "id": "queda_mes",
-     "texto": "Caiu 13,2% em 21 pregões"
-    },
-    {
      "id": "abaixo_da_media",
-     "texto": "9,2% abaixo da média de 50 pregões"
+     "texto": "18,7% abaixo da média de 50 pregões"
     }
    ],
-   "pontos": 2,
-   "desde": "2026-11-25",
+   "pontos": 1,
+   "desde": "2026-11-26",
    "noticias": []
-  }
- ],
- "cotacoes": [
-  {
-   "ticker": "BRKM5",
-   "nome": "BRASKEM S.A.",
-   "tipo": "acao",
-   "preco": 2.24,
-   "var_dia": -10.4,
-   "var_semana": -18.55,
-   "var_mes": -46.15
   },
   {
-   "ticker": "SAUD3",
-   "nome": "BRADSAUDE S.A.",
+   "ticker": "ANIM3",
+   "nome": "ANIMA HOLDING S.A.",
    "tipo": "acao",
-   "preco": 15.53,
-   "var_dia": -5.48,
-   "var_semana": -4.31,
-   "var_mes": -3.83
-  },
-  {
-   "ticker": "EMBJ3",
-   "nome": "EMBRAER S.A.",
-   "tipo": "acao",
-   "preco": 103.2,
-   "var_dia": -4,
-   "var_semana": -6.16,
-   "var_mes": 16.81
-  },
-  {
-   "ticker": "SANB11",
-   "nome": "BCO SANTANDER (BRASIL) S.A.",
-   "tipo": "acao",
-   "preco": 27.37,
-   "var_dia": -2.6,
-   "var_semana": -3.63,
-   "var_mes": -0.58
-  },
-  {
-   "ticker": "ABEV3",
-   "nome": "AMBEV S.A.",
-   "tipo": "acao",
-   "preco": 15.81,
-   "var_dia": -1.8,
-   "var_semana": -0.75,
-   "var_mes": -5.22
-  },
-  {
-   "ticker": "MBRF3",
-   "nome": "MARFRIG GLOBAL FOODS S.A.",
-   "tipo": "acao",
-   "preco": 18.01,
-   "var_dia": -1.58,
-   "var_semana": 0.28,
-   "var_mes": -3.12
-  },
-  {
-   "ticker": "VIVT3",
-   "nome": "TELEFÔNICA BRASIL S.A",
-   "tipo": "acao",
-   "preco": 34.8,
-   "var_dia": -1.42,
-   "var_semana": -3.04,
-   "var_mes": 7.72
-  },
-  {
-   "ticker": "SUZB3",
-   "nome": "SUZANO S.A.",
-   "tipo": "acao",
-   "preco": 55.4,
-   "var_dia": -1.32,
-   "var_semana": 0.02,
-   "var_mes": 28.66
-  },
-  {
-   "ticker": "WEGE3",
-   "nome": "WEG S.A.",
-   "tipo": "acao",
-   "preco": 49.65,
-   "var_dia": -1.1,
-   "var_semana": -2.93,
-   "var_mes": 16.19
-  },
-  {
-   "ticker": "CMIG4",
-   "nome": "CIA ENERGETICA DE MINAS GERAIS - CEMIG",
-   "tipo": "acao",
-   "preco": 10.73,
-   "var_dia": -0.83,
-   "var_semana": -1.74,
-   "var_mes": -8.05
-  },
-  {
-   "ticker": "CPLE3",
-   "nome": "CIA PARANAENSE DE ENERGIA - COPEL",
-   "tipo": "acao",
-   "preco": 14.9,
-   "var_dia": -0.53,
-   "var_semana": -2.93,
-   "var_mes": -14.07
-  },
-  {
-   "ticker": "FLRY3",
-   "nome": "FLEURY S.A.",
-   "tipo": "acao",
-   "preco": 22.45,
-   "var_dia": -0.27,
-   "var_semana": 7.31,
-   "var_mes": -19.45
-  },
-  {
-   "ticker": "TIMS3",
-   "nome": "TIM S.A.",
-   "tipo": "acao",
-   "preco": 21.83,
-   "var_dia": -0.23,
-   "var_semana": -3.02,
-   "var_mes": 14.35
-  },
-  {
-   "ticker": "PSSA3",
-   "nome": "PORTO SEGURO S.A.",
-   "tipo": "acao",
-   "preco": 41.88,
-   "var_dia": -0.12,
-   "var_semana": -8.8,
-   "var_mes": -18.81
-  },
-  {
-   "ticker": "ADSH11",
-   "nome": "FII ADSH",
-   "tipo": "fii",
-   "preco": 10.9,
-   "var_dia": 0,
-   "var_semana": 5.11,
-   "var_mes": 8.76
+   "preco": 2.73,
+   "var_dia": 10.53,
+   "var_semana": 12.35,
+   "var_mes": -3.53,
+   "min_52s": 1.92,
+   "max_52s": 5.83,
+   "dist_min_52s": 42.2,
+   "rsi14": 47.3,
+   "pl": 5.0,
+   "regras": [
+    {
+     "id": "abaixo_da_media",
+     "texto": "17,1% abaixo da média de 50 pregões"
+    }
+   ],
+   "pontos": 1,
+   "desde": "2026-11-26",
+   "noticias": []
   },
   {
    "ticker": "COGN3",
    "nome": "COGNA EDUCAÇÃO S.A.",
    "tipo": "acao",
-   "preco": 1.65,
-   "var_dia": 0,
-   "var_semana": 1.85,
-   "var_mes": -46.77
+   "preco": 1.83,
+   "var_dia": 10.91,
+   "var_semana": 14.38,
+   "var_mes": -4.19,
+   "min_52s": 1.37,
+   "max_52s": 4.75,
+   "dist_min_52s": 33.6,
+   "rsi14": 50.2,
+   "pl": 7.6,
+   "regras": [
+    {
+     "id": "abaixo_da_media",
+     "texto": "16,0% abaixo da média de 50 pregões"
+    }
+   ],
+   "pontos": 1,
+   "desde": "2026-11-25",
+   "noticias": []
   },
   {
-   "ticker": "HAPV3",
-   "nome": "HAPVIDA PARTICIPACOES E INVESTIMENTOS SA",
+   "ticker": "ECOR3",
+   "nome": "ECORODOVIAS INFRAESTRUTURA E LOGÍSTICA S.A.",
    "tipo": "acao",
-   "preco": 6.1,
+   "preco": 7.41,
+   "var_dia": 11.09,
+   "var_semana": 25.38,
+   "var_mes": 42.77,
+   "min_52s": 4.75,
+   "max_52s": 14.87,
+   "dist_min_52s": 56.0,
+   "rsi14": 53.7,
+   "pl": 9.8,
+   "regras": [
+    {
+     "id": "abaixo_da_media",
+     "texto": "14,4% abaixo da média de 50 pregões"
+    }
+   ],
+   "pontos": 1,
+   "desde": "2026-11-26",
+   "noticias": []
+  },
+  {
+   "ticker": "VAMO3",
+   "nome": "VAMOS LOCAÇÃO DE CAMINHÕES. MÁQUINAS E EQUIP. S.A.",
+   "tipo": "acao",
+   "preco": 3.09,
+   "var_dia": 11.15,
+   "var_semana": 19.31,
+   "var_mes": 11.55,
+   "min_52s": 2.19,
+   "max_52s": 6.97,
+   "dist_min_52s": 41.1,
+   "rsi14": 48.4,
+   "pl": 8.6,
+   "regras": [
+    {
+     "id": "abaixo_da_media",
+     "texto": "21,9% abaixo da média de 50 pregões"
+    }
+   ],
+   "pontos": 1,
+   "desde": "2026-11-26",
+   "noticias": []
+  }
+ ],
+ "cotacoes": [
+  {
+   "ticker": "LIGT3",
+   "nome": "LIGHT S.A.",
+   "tipo": "acao",
+   "preco": 2.78,
+   "var_dia": -13.13,
+   "var_semana": -2.8,
+   "var_mes": 2.21
+  },
+  {
+   "ticker": "BRKM5",
+   "nome": "BRASKEM S.A.",
+   "tipo": "acao",
+   "preco": 2.17,
+   "var_dia": -3.13,
+   "var_semana": -17.49,
+   "var_mes": -31.76
+  },
+  {
+   "ticker": "TRXF11",
+   "nome": "TRX REAL ESTATE FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+   "tipo": "fii",
+   "preco": 54.36,
+   "var_dia": -3.08,
+   "var_semana": 0.8,
+   "var_mes": -20.91
+  },
+  {
+   "ticker": "XPML11",
+   "nome": "XP MALLS FUNDO DE INVESTIMENTO IMOBILIÁRIO FII",
+   "tipo": "fii",
+   "preco": 85.5,
+   "var_dia": -1.69,
+   "var_semana": -0.35,
+   "var_mes": -13.89
+  },
+  {
+   "ticker": "ARRI11",
+   "nome": "OPEN K ATIVOS E RECEBIVEIS IMOBILIARIOS - FUNDO DE INVESTIMENTO IMOBILIARIO",
+   "tipo": "fii",
+   "preco": 2.9,
+   "var_dia": -1.36,
+   "var_semana": -2.03,
+   "var_mes": -30.76
+  },
+  {
+   "ticker": "SUZB3",
+   "nome": "SUZANO S.A.",
+   "tipo": "acao",
+   "preco": 54.87,
+   "var_dia": -0.96,
+   "var_semana": -1.31,
+   "var_mes": 15.76
+  },
+  {
+   "ticker": "BTLG11",
+   "nome": "BTG PACTUAL LOGÍSTICA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+   "tipo": "fii",
+   "preco": 96.5,
+   "var_dia": -0.52,
+   "var_semana": 0.08,
+   "var_mes": -2.85
+  },
+  {
+   "ticker": "CPUR11",
+   "nome": "CAPITÂNIA HBC RENDA URBANA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE  LIMITADA",
+   "tipo": "fii",
+   "preco": 10.15,
+   "var_dia": -0.2,
+   "var_semana": -2.87,
+   "var_mes": -2.64
+  },
+  {
+   "ticker": "ADSH11",
+   "nome": "AD SHOPPING FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+   "tipo": "fii",
+   "preco": 10.9,
    "var_dia": 0,
-   "var_semana": -0.33,
-   "var_mes": -30.92
+   "var_semana": 5.21,
+   "var_mes": 8.76
   },
   {
    "ticker": "HBCR11",
-   "nome": "FII HBC REN",
+   "nome": "FUNDO DE INVESTIMENTO IMOBILIÁRIO HBC RENDA URBANA",
    "tipo": "fii",
    "preco": 144,
    "var_dia": 0,
@@ -1257,12 +1095,12 @@
   },
   {
    "ticker": "MIDW11",
-   "nome": "FII MIDW",
+   "nome": "MIDWAY MALL FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
    "tipo": "fii",
    "preco": 11,
    "var_dia": 0,
-   "var_semana": 1.01,
-   "var_mes": 2.47
+   "var_semana": 0.0,
+   "var_mes": 1.86
   },
   {
    "ticker": "TRPL15",
@@ -1274,769 +1112,841 @@
    "var_mes": null
   },
   {
-   "ticker": "RBRX11",
-   "nome": "FII RBRX PAX",
+   "ticker": "BTHF11",
+   "nome": "BTG PACTUAL REAL ESTATE HEDGE FUND FII - FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
    "tipo": "fii",
-   "preco": 6.37,
-   "var_dia": 0.47,
-   "var_semana": -0.31,
-   "var_mes": -16.45
+   "preco": 8.1,
+   "var_dia": 0.25,
+   "var_semana": 1.25,
+   "var_mes": -4.97
   },
   {
-   "ticker": "RDOR3",
-   "nome": "REDE DOR SÃO LUIZ S.A.",
+   "ticker": "KLBN11",
+   "nome": "KLABIN S.A.",
    "tipo": "acao",
-   "preco": 36.8,
-   "var_dia": 0.57,
-   "var_semana": 1.55,
-   "var_mes": -15.85
-  },
-  {
-   "ticker": "ISAE4",
-   "nome": "ISA ENERGIA BRASIL S.A",
-   "tipo": "acao",
-   "preco": 26.16,
-   "var_dia": 0.58,
-   "var_semana": -0.95,
-   "var_mes": -7.09
-  },
-  {
-   "ticker": "LREN3",
-   "nome": "LOJAS RENNER S.A.",
-   "tipo": "acao",
-   "preco": 9.26,
-   "var_dia": 0.65,
-   "var_semana": -3.34,
-   "var_mes": -36.49
-  },
-  {
-   "ticker": "ITUB4",
-   "nome": "ITAU UNIBANCO HOLDING S.A.",
-   "tipo": "acao",
-   "preco": 40.01,
-   "var_dia": 0.68,
-   "var_semana": -2.15,
-   "var_mes": -17.13
-  },
-  {
-   "ticker": "KNCR11",
-   "nome": "FII KINEA RI",
-   "tipo": "fii",
-   "preco": 103.2,
-   "var_dia": 0.78,
-   "var_semana": -0.31,
-   "var_mes": -1.19
-  },
-  {
-   "ticker": "PETR3",
-   "nome": "PETROLEO BRASILEIRO S.A. PETROBRAS",
-   "tipo": "acao",
-   "preco": 46.69,
-   "var_dia": 0.82,
-   "var_semana": -7.05,
-   "var_mes": -28.43
-  },
-  {
-   "ticker": "BBSE3",
-   "nome": "BB SEGURIDADE PARTICIPAÇÕES S.A.",
-   "tipo": "acao",
-   "preco": 36.52,
-   "var_dia": 0.83,
-   "var_semana": -2.04,
-   "var_mes": -16.39
-  },
-  {
-   "ticker": "CXSE3",
-   "nome": "CAIXA SEGURIDADE PARTICIPAÇÕES S.A.",
-   "tipo": "acao",
-   "preco": 20.3,
-   "var_dia": 0.89,
-   "var_semana": -4.61,
-   "var_mes": -3.56
+   "preco": 16.95,
+   "var_dia": 1.01,
+   "var_semana": -1.05,
+   "var_mes": -9.89
   },
   {
    "ticker": "HGBS11",
-   "nome": "FII HEDGEBS",
+   "nome": "HEDGE BRASIL SHOPPING FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA",
    "tipo": "fii",
-   "preco": 16.68,
-   "var_dia": 0.91,
-   "var_semana": -4.08,
-   "var_mes": -14.09
+   "preco": 16.85,
+   "var_dia": 1.02,
+   "var_semana": -2.15,
+   "var_mes": -8.5
   },
   {
-   "ticker": "AXIA3",
-   "nome": "AXIA ENERGIA S.A.",
-   "tipo": "acao",
-   "preco": 46.16,
-   "var_dia": 0.98,
-   "var_semana": -2.68,
-   "var_mes": -20.41
+   "ticker": "VGHF11",
+   "nome": "VALORA HEDGE FUND FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA",
+   "tipo": "fii",
+   "preco": 3.99,
+   "var_dia": 1.27,
+   "var_semana": 2.57,
+   "var_mes": -20.63
   },
   {
-   "ticker": "RAIL3",
-   "nome": "RUMO S.A.",
+   "ticker": "GGRC11",
+   "nome": "ZAGROS RENDA IMOBILIÁRIA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+   "tipo": "fii",
+   "preco": 8.34,
+   "var_dia": 1.34,
+   "var_semana": 2.21,
+   "var_mes": -4.61
+  },
+  {
+   "ticker": "ALZR11",
+   "nome": "ALIANZA TRUST RENDA IMOBILIÁRIA - FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+   "tipo": "fii",
+   "preco": 9.58,
+   "var_dia": 1.48,
+   "var_semana": 1.48,
+   "var_mes": -3.92
+  },
+  {
+   "ticker": "MBRF3",
+   "nome": "MARFRIG GLOBAL FOODS S.A.",
    "tipo": "acao",
-   "preco": 17.03,
-   "var_dia": 1.01,
-   "var_semana": 0.71,
-   "var_mes": -8.54
+   "preco": 18.3,
+   "var_dia": 1.61,
+   "var_semana": -2.09,
+   "var_mes": 10.11
+  },
+  {
+   "ticker": "CPTS11",
+   "nome": "CAPITÂNIA SECURITIES II FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+   "tipo": "fii",
+   "preco": 6.77,
+   "var_dia": 1.8,
+   "var_semana": 2.73,
+   "var_mes": -6.52
+  },
+  {
+   "ticker": "GARE11",
+   "nome": "GUARDIAN REAL ESTATE FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA",
+   "tipo": "fii",
+   "preco": 8.17,
+   "var_dia": 1.87,
+   "var_semana": 2.51,
+   "var_mes": -1.16
+  },
+  {
+   "ticker": "KNSC11",
+   "nome": "KINEA SECURITIES FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+   "tipo": "fii",
+   "preco": 8.35,
+   "var_dia": 1.95,
+   "var_semana": 0.24,
+   "var_mes": -6.16
+  },
+  {
+   "ticker": "VGIR11",
+   "nome": "VALORA CRI CDI FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII RESPONSABILIDADE LIMITADA",
+   "tipo": "fii",
+   "preco": 8.37,
+   "var_dia": 1.95,
+   "var_semana": 7.03,
+   "var_mes": -10.58
+  },
+  {
+   "ticker": "TRXB11",
+   "nome": "TRX REAL ESTATE II FUNDO DE INVESTIMENTO IMOBILIÁRIO - RESPONSABILIDADE LIMITADA",
+   "tipo": "fii",
+   "preco": 197.99,
+   "var_dia": 2.06,
+   "var_semana": 0.0,
+   "var_mes": 3.5
+  },
+  {
+   "ticker": "RBRX11",
+   "nome": "PATRIA PLUS MULTIESTRATÉGIA REAL ESTATE FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+   "tipo": "fii",
+   "preco": 6.52,
+   "var_dia": 2.35,
+   "var_semana": 4.82,
+   "var_mes": -7.67
   },
   {
    "ticker": "BEEF3",
    "nome": "MINERVA S.A.",
    "tipo": "acao",
-   "preco": 3.8,
-   "var_dia": 1.06,
-   "var_semana": 8.88,
-   "var_mes": -11.01
-  },
-  {
-   "ticker": "MXRF11",
-   "nome": "FII MAXI REN",
-   "tipo": "fii",
-   "preco": 8.46,
-   "var_dia": 1.08,
-   "var_semana": -2.08,
-   "var_mes": -9.41
-  },
-  {
-   "ticker": "TEPP11",
-   "nome": "FII TEL PROP",
-   "tipo": "fii",
-   "preco": 6.63,
-   "var_dia": 1.22,
-   "var_semana": 2.31,
-   "var_mes": -14.59
-  },
-  {
-   "ticker": "ITSA4",
-   "nome": "ITAUSA S.A.",
-   "tipo": "acao",
-   "preco": 13.09,
-   "var_dia": 1.24,
-   "var_semana": -1.58,
-   "var_mes": -14.5
-  },
-  {
-   "ticker": "USIM5",
-   "nome": "USINAS SID DE MINAS GERAIS S.A.-USIMINAS",
-   "tipo": "acao",
-   "preco": 4.9,
-   "var_dia": 1.24,
-   "var_semana": -1.41,
-   "var_mes": -26.09
-  },
-  {
-   "ticker": "VGHF11",
-   "nome": "FII VALOR HE",
-   "tipo": "fii",
-   "preco": 3.94,
-   "var_dia": 1.29,
-   "var_semana": 2.07,
-   "var_mes": -31.59
-  },
-  {
-   "ticker": "GARE11",
-   "nome": "FII GUARDIAN",
-   "tipo": "fii",
-   "preco": 8.02,
-   "var_dia": 1.39,
-   "var_semana": -0.87,
-   "var_mes": -7.51
-  },
-  {
-   "ticker": "MCRE11",
-   "nome": "FII MAUA RE",
-   "tipo": "fii",
-   "preco": 6.48,
-   "var_dia": 1.41,
-   "var_semana": -4.0,
-   "var_mes": -25.27
-  },
-  {
-   "ticker": "CMIN3",
-   "nome": "CSN MINERAÇÃO S.A.",
-   "tipo": "acao",
-   "preco": 4.85,
-   "var_dia": 1.46,
-   "var_semana": 2.11,
-   "var_mes": -2.81
-  },
-  {
-   "ticker": "PRIO3",
-   "nome": "PRIO S.A.",
-   "tipo": "acao",
-   "preco": 60.5,
-   "var_dia": 1.51,
-   "var_semana": -5.41,
-   "var_mes": -18.02
-  },
-  {
-   "ticker": "ALOS3",
-   "nome": "ALLOS S.A",
-   "tipo": "acao",
-   "preco": 26.23,
-   "var_dia": 1.55,
-   "var_semana": 0.72,
-   "var_mes": -24.5
-  },
-  {
-   "ticker": "ALZR11",
-   "nome": "FII ALIANZA",
-   "tipo": "fii",
-   "preco": 9.44,
-   "var_dia": 1.61,
-   "var_semana": -0.58,
-   "var_mes": -8.86
-  },
-  {
-   "ticker": "MULT3",
-   "nome": "MULTIPLAN - EMPREEND IMOBILIARIOS S.A.",
-   "tipo": "acao",
-   "preco": 26.64,
-   "var_dia": 1.64,
-   "var_semana": -0.75,
-   "var_mes": -29.02
-  },
-  {
-   "ticker": "AUAU3",
-   "nome": "UNIÃO PET PARTICIPAÇÕES S.A.",
-   "tipo": "acao",
-   "preco": 4.27,
-   "var_dia": 1.67,
-   "var_semana": -2.95,
-   "var_mes": -19.13
-  },
-  {
-   "ticker": "GMAT3",
-   "nome": "GRUPO MATEUS S.A.",
-   "tipo": "acao",
-   "preco": 4.17,
-   "var_dia": 1.71,
-   "var_semana": -0.24,
-   "var_mes": -21.32
-  },
-  {
-   "ticker": "POMO4",
-   "nome": "MARCOPOLO S.A.",
-   "tipo": "acao",
-   "preco": 3.43,
-   "var_dia": 1.78,
-   "var_semana": -10.91,
-   "var_mes": -28.09
-  },
-  {
-   "ticker": "VGIR11",
-   "nome": "FII VALREIII",
-   "tipo": "fii",
-   "preco": 8.21,
-   "var_dia": 1.86,
-   "var_semana": 1.23,
-   "var_mes": -13.2
-  },
-  {
-   "ticker": "ASAI3",
-   "nome": "SENDAS DISTRIBUIDORA S.A.",
-   "tipo": "acao",
-   "preco": 9.84,
-   "var_dia": 1.97,
-   "var_semana": 1.86,
-   "var_mes": -28.7
-  },
-  {
-   "ticker": "PETR4",
-   "nome": "PETROLEO BRASILEIRO S.A. PETROBRAS",
-   "tipo": "acao",
-   "preco": 41.36,
-   "var_dia": 2,
-   "var_semana": -5.96,
-   "var_mes": -29.52
-  },
-  {
-   "ticker": "UGPA3",
-   "nome": "ULTRAPAR PARTICIPACOES S.A.",
-   "tipo": "acao",
-   "preco": 30.84,
-   "var_dia": 2.05,
-   "var_semana": -0.75,
-   "var_mes": -17.38
-  },
-  {
-   "ticker": "MOTV3",
-   "nome": "MOTIVA INFRAESTRUTURA DE MOBILIDADE S.A.",
-   "tipo": "acao",
-   "preco": 16.18,
-   "var_dia": 2.15,
-   "var_semana": 3.12,
-   "var_mes": -19.9
-  },
-  {
-   "ticker": "SBSP3",
-   "nome": "CIA SANEAMENTO BASICO EST SAO PAULO",
-   "tipo": "acao",
-   "preco": 28.48,
-   "var_dia": 2.19,
-   "var_semana": 2.59,
-   "var_mes": -8.89
-  },
-  {
-   "ticker": "GGRC11",
-   "nome": "FII GGR ZAG",
-   "tipo": "fii",
-   "preco": 8.23,
-   "var_dia": 2.24,
-   "var_semana": -0.12,
-   "var_mes": -10.52
-  },
-  {
-   "ticker": "KNSC11",
-   "nome": "FII KINEA SC",
-   "tipo": "fii",
-   "preco": 8.19,
-   "var_dia": 2.25,
-   "var_semana": -2.85,
-   "var_mes": -9.96
-  },
-  {
-   "ticker": "CPTS11",
-   "nome": "FII CAPI SEC",
-   "tipo": "fii",
-   "preco": 6.65,
-   "var_dia": 2.31,
-   "var_semana": 0.15,
-   "var_mes": -13.26
+   "preco": 3.89,
+   "var_dia": 2.37,
+   "var_semana": 4.85,
+   "var_mes": 17.17
   },
   {
    "ticker": "GGBR4",
    "nome": "GERDAU S.A.",
    "tipo": "acao",
-   "preco": 25.86,
-   "var_dia": 2.33,
-   "var_semana": 4.74,
-   "var_mes": 3.91
+   "preco": 26.5,
+   "var_dia": 2.47,
+   "var_semana": 3.56,
+   "var_mes": 5.51
   },
   {
    "ticker": "GOAU4",
    "nome": "METALURGICA GERDAU S.A.",
    "tipo": "acao",
-   "preco": 11.64,
-   "var_dia": 2.37,
-   "var_semana": 6.4,
-   "var_mes": 3.56
+   "preco": 11.94,
+   "var_dia": 2.58,
+   "var_semana": 6.13,
+   "var_mes": 5.12
   },
   {
-   "ticker": "JSAF11",
-   "nome": "FII JS A FIN",
+   "ticker": "GRND3",
+   "nome": "GRENDENE S.A.",
+   "tipo": "acao",
+   "preco": 3.95,
+   "var_dia": 2.6,
+   "var_semana": 6.76,
+   "var_mes": 5.35
+  },
+  {
+   "ticker": "MXRF11",
+   "nome": "MAXI RENDA FUNDO DE INVESTIMENTO IMOBILIÁRIO - FII - RESPONSABILIDADE LIMITADA",
    "tipo": "fii",
-   "preco": 6.49,
-   "var_dia": 2.37,
-   "var_semana": 0.0,
-   "var_mes": -17.6
+   "preco": 8.69,
+   "var_dia": 2.72,
+   "var_semana": 1.52,
+   "var_mes": -3.58
   },
   {
-   "ticker": "ENGI11",
-   "nome": "ENERGISA S.A.",
+   "ticker": "EMBJ3",
+   "nome": "EMBRAER S.A.",
    "tipo": "acao",
-   "preco": 50.66,
-   "var_dia": 2.38,
-   "var_semana": 3.35,
-   "var_mes": -23.79
+   "preco": 106.05,
+   "var_dia": 2.76,
+   "var_semana": -3.41,
+   "var_mes": 10.24
   },
   {
-   "ticker": "BTHF11",
-   "nome": "FII BTHF",
-   "tipo": "fii",
-   "preco": 8.08,
-   "var_dia": 2.54,
-   "var_semana": 0.37,
-   "var_mes": -10.3
-  },
-  {
-   "ticker": "TEND3",
-   "nome": "CONSTRUTORA TENDA S.A.",
+   "ticker": "PSSA3",
+   "nome": "PORTO SEGURO S.A.",
    "tipo": "acao",
-   "preco": 15.59,
-   "var_dia": 2.57,
-   "var_semana": -1.39,
-   "var_mes": -45.03
-  },
-  {
-   "ticker": "SNEL11",
-   "nome": "FII SUNO EL",
-   "tipo": "fii",
-   "preco": 7.28,
-   "var_dia": 2.68,
-   "var_semana": 3.85,
-   "var_mes": -7.29
-  },
-  {
-   "ticker": "QUAL3",
-   "nome": "QUALICORP CONSULTORIA E CORRETORA DE SEGUROS S.A.",
-   "tipo": "acao",
-   "preco": 1.85,
-   "var_dia": 2.78,
-   "var_semana": 6.94,
-   "var_mes": -17.04
-  },
-  {
-   "ticker": "B3SA3",
-   "nome": "B3 S.A. - BRASIL. BOLSA. BALCÃO",
-   "tipo": "acao",
-   "preco": 14.58,
+   "preco": 43.06,
    "var_dia": 2.82,
-   "var_semana": -0.48,
-   "var_mes": -38.35
-  },
-  {
-   "ticker": "RENT3",
-   "nome": "LOCALIZA RENT A CAR S.A.",
-   "tipo": "acao",
-   "preco": 29.32,
-   "var_dia": 2.84,
-   "var_semana": -1.15,
-   "var_mes": -44.07
-  },
-  {
-   "ticker": "RADL3",
-   "nome": "RAIA DROGASIL S.A.",
-   "tipo": "acao",
-   "preco": 15.43,
-   "var_dia": 2.94,
-   "var_semana": 9.05,
-   "var_mes": -23.92
-  },
-  {
-   "ticker": "DIRR3",
-   "nome": "DIRECIONAL ENGENHARIA S.A.",
-   "tipo": "acao",
-   "preco": 9.33,
-   "var_dia": 3.09,
-   "var_semana": 2.08,
-   "var_mes": -19.29
-  },
-  {
-   "ticker": "VALE3",
-   "nome": "VALE S.A.",
-   "tipo": "acao",
-   "preco": 56.9,
-   "var_dia": 3.1,
-   "var_semana": -5.7,
-   "var_mes": -8.08
-  },
-  {
-   "ticker": "BTCI11",
-   "nome": "FII BTG CRI",
-   "tipo": "fii",
-   "preco": 7.84,
-   "var_dia": 3.16,
-   "var_semana": -2.37,
-   "var_mes": -13.89
-  },
-  {
-   "ticker": "RBVA11",
-   "nome": "FII RIOB VA",
-   "tipo": "fii",
-   "preco": 7.79,
-   "var_dia": 3.18,
-   "var_semana": 0.52,
-   "var_mes": -12.96
-  },
-  {
-   "ticker": "BBDC3",
-   "nome": "BCO BRADESCO S.A.",
-   "tipo": "acao",
-   "preco": 12.91,
-   "var_dia": 3.2,
-   "var_semana": -2.12,
-   "var_mes": -28.43
-  },
-  {
-   "ticker": "ANIM3",
-   "nome": "ANIMA HOLDING S.A.",
-   "tipo": "acao",
-   "preco": 2.47,
-   "var_dia": 3.35,
-   "var_semana": -0.8,
-   "var_mes": -50.99
-  },
-  {
-   "ticker": "BBAS3",
-   "nome": "BCO BRASIL S.A.",
-   "tipo": "acao",
-   "preco": 14.69,
-   "var_dia": 3.6,
-   "var_semana": 0.48,
-   "var_mes": -40.57
-  },
-  {
-   "ticker": "EZTC3",
-   "nome": "EZ TEC EMPREEND. E PARTICIPACOES S.A.",
-   "tipo": "acao",
-   "preco": 9.41,
-   "var_dia": 3.63,
-   "var_semana": -1.36,
-   "var_mes": -51.25
-  },
-  {
-   "ticker": "ENEV3",
-   "nome": "ENEVA S.A",
-   "tipo": "acao",
-   "preco": 27.53,
-   "var_dia": 3.69,
-   "var_semana": 3.15,
-   "var_mes": -12.55
-  },
-  {
-   "ticker": "HFOF11",
-   "nome": "FII HTOPFOF3",
-   "tipo": "fii",
-   "preco": 5.49,
-   "var_dia": 3.78,
-   "var_semana": -2.14,
-   "var_mes": -16.89
-  },
-  {
-   "ticker": "XPML11",
-   "nome": "FII XP MALLS",
-   "tipo": "fii",
-   "preco": 86.97,
-   "var_dia": 3.84,
-   "var_semana": -0.41,
-   "var_mes": -16.1
-  },
-  {
-   "ticker": "EQTL3",
-   "nome": "EQUATORIAL S.A.",
-   "tipo": "acao",
-   "preco": 34.87,
-   "var_dia": 3.93,
-   "var_semana": 2.26,
-   "var_mes": -28.66
-  },
-  {
-   "ticker": "VBBR3",
-   "nome": "VIBRA ENERGIA S.A.",
-   "tipo": "acao",
-   "preco": 32.47,
-   "var_dia": 4,
-   "var_semana": 5.9,
-   "var_mes": -9.35
-  },
-  {
-   "ticker": "BBDC4",
-   "nome": "BCO BRADESCO S.A.",
-   "tipo": "acao",
-   "preco": 14.19,
-   "var_dia": 4.19,
-   "var_semana": -1.53,
-   "var_mes": -30.26
-  },
-  {
-   "ticker": "LIGT3",
-   "nome": "LIGHT S.A.",
-   "tipo": "acao",
-   "preco": 3.2,
-   "var_dia": 4.23,
-   "var_semana": 15.52,
-   "var_mes": -12.81
-  },
-  {
-   "ticker": "TRXF11",
-   "nome": "FII TRX REAL",
-   "tipo": "fii",
-   "preco": 56.09,
-   "var_dia": 4.24,
-   "var_semana": 3.49,
-   "var_mes": -20.88
-  },
-  {
-   "ticker": "HYPE3",
-   "nome": "HYPERA S.A.",
-   "tipo": "acao",
-   "preco": 22.59,
-   "var_dia": 4.39,
-   "var_semana": 1.16,
-   "var_mes": -17.1
-  },
-  {
-   "ticker": "CSMG3",
-   "nome": "CIA SANEAMENTO DE MINAS GERAIS-COPASA MG",
-   "tipo": "acao",
-   "preco": 60.02,
-   "var_dia": 4.64,
-   "var_semana": 7.99,
-   "var_mes": -7.06
-  },
-  {
-   "ticker": "YDUQ3",
-   "nome": "YDUQS PARTICIPACOES S.A.",
-   "tipo": "acao",
-   "preco": 10.04,
-   "var_dia": 4.8,
-   "var_semana": 4.26,
-   "var_mes": -28.49
-  },
-  {
-   "ticker": "SMFT3",
-   "nome": "SMARTFIT ESCOLA DE GINÁSTICA E DANÇA S.A.",
-   "tipo": "acao",
-   "preco": 18.83,
-   "var_dia": 4.84,
-   "var_semana": 6.99,
-   "var_mes": -24.44
-  },
-  {
-   "ticker": "PGMN3",
-   "nome": "EMPREENDIMENTOS PAGUE MENOS S.A.",
-   "tipo": "acao",
-   "preco": 2.42,
-   "var_dia": 5.22,
-   "var_semana": -1.22,
-   "var_mes": -55.43
-  },
-  {
-   "ticker": "ECOR3",
-   "nome": "ECORODOVIAS INFRAESTRUTURA E LOGÍSTICA S.A.",
-   "tipo": "acao",
-   "preco": 6.67,
-   "var_dia": 5.87,
-   "var_semana": 9.52,
-   "var_mes": -49.28
-  },
-  {
-   "ticker": "CSAN3",
-   "nome": "COSAN S.A.",
-   "tipo": "acao",
-   "preco": 3.42,
-   "var_dia": 5.88,
-   "var_semana": 5.23,
-   "var_mes": -34.23
-  },
-  {
-   "ticker": "BPAC11",
-   "nome": "BCO BTG PACTUAL S.A.",
-   "tipo": "acao",
-   "preco": 52.95,
-   "var_dia": 5.9,
-   "var_semana": 1.92,
-   "var_mes": -33.66
-  },
-  {
-   "ticker": "CYRE3",
-   "nome": "CYRELA BRAZIL REALTY S.A.EMPREEND E PART",
-   "tipo": "acao",
-   "preco": 19.66,
-   "var_dia": 5.98,
-   "var_semana": 0.31,
-   "var_mes": -44.73
-  },
-  {
-   "ticker": "CEAB3",
-   "nome": "CEA MODAS S.A.",
-   "tipo": "acao",
-   "preco": 7.58,
-   "var_dia": 6.01,
-   "var_semana": -3.81,
-   "var_mes": -45.23
-  },
-  {
-   "ticker": "MGLU3",
-   "nome": "MAGAZINE LUIZA S.A.",
-   "tipo": "acao",
-   "preco": 9.29,
-   "var_dia": 6.17,
-   "var_semana": 16.86,
-   "var_mes": -26.79
-  },
-  {
-   "ticker": "BRAV3",
-   "nome": "BRAVA ENERGIA S.A.",
-   "tipo": "acao",
-   "preco": 12.68,
-   "var_dia": 6.38,
-   "var_semana": -7.51,
-   "var_mes": -41.54
-  },
-  {
-   "ticker": "MRVE3",
-   "nome": "MRV ENGENHARIA E PARTICIPACOES S.A.",
-   "tipo": "acao",
-   "preco": 4.62,
-   "var_dia": 6.45,
-   "var_semana": -7.78,
-   "var_mes": -43.86
-  },
-  {
-   "ticker": "CSNA3",
-   "nome": "CIA SIDERURGICA NACIONAL",
-   "tipo": "acao",
-   "preco": 3.45,
-   "var_dia": 6.48,
-   "var_semana": -8.49,
-   "var_mes": -43.16
-  },
-  {
-   "ticker": "SIMH3",
-   "nome": "SIMPAR S.A.",
-   "tipo": "acao",
-   "preco": 5.97,
-   "var_dia": 7.57,
-   "var_semana": 5.66,
-   "var_mes": -64.14
+   "var_semana": -3.58,
+   "var_mes": -10.63
   },
   {
    "ticker": "PCAR3",
    "nome": "CIA BRASILEIRA DE DISTRIBUICAO",
    "tipo": "acao",
-   "preco": 3.52,
-   "var_dia": 7.65,
-   "var_semana": 21.8,
-   "var_mes": 16.17
+   "preco": 3.62,
+   "var_dia": 2.84,
+   "var_semana": 21.07,
+   "var_mes": 57.39
   },
   {
-   "ticker": "VAMO3",
-   "nome": "VAMOS LOCAÇÃO DE CAMINHÕES. MÁQUINAS E EQUIP. S.A.",
-   "tipo": "acao",
-   "preco": 2.78,
-   "var_dia": 7.75,
-   "var_semana": 3.35,
-   "var_mes": -56.63
+   "ticker": "SNEL11",
+   "nome": "SUNO ENERGIAS LIMPAS FUNDO DE INVESTIMENTO IMOBILIÁRIO IS RESPONSABILIDADE LIMITADA",
+   "tipo": "fii",
+   "preco": 7.49,
+   "var_dia": 2.88,
+   "var_semana": 10.31,
+   "var_mes": -3.03
   },
   {
-   "ticker": "AZZA3",
-   "nome": "AZZAS 2154 S.A.",
+   "ticker": "GMAT3",
+   "nome": "GRUPO MATEUS S.A.",
    "tipo": "acao",
-   "preco": 15.33,
-   "var_dia": 8.11,
-   "var_semana": -1.98,
-   "var_mes": -39.93
+   "preco": 4.3,
+   "var_dia": 3.12,
+   "var_semana": 6.17,
+   "var_mes": 17.49
   },
   {
-   "ticker": "SBFG3",
-   "nome": "GRUPO SBF SA",
+   "ticker": "PRIO3",
+   "nome": "PRIO S.A.",
    "tipo": "acao",
-   "preco": 4.24,
-   "var_dia": 8.44,
-   "var_semana": -1.17,
-   "var_mes": -62.68
+   "preco": 62.45,
+   "var_dia": 3.22,
+   "var_semana": 0.94,
+   "var_mes": -12.22
+  },
+  {
+   "ticker": "VALE3",
+   "nome": "VALE S.A.",
+   "tipo": "acao",
+   "preco": 58.73,
+   "var_dia": 3.22,
+   "var_semana": -0.46,
+   "var_mes": -8.78
+  },
+  {
+   "ticker": "WEGE3",
+   "nome": "WEG S.A.",
+   "tipo": "acao",
+   "preco": 51.36,
+   "var_dia": 3.44,
+   "var_semana": -0.04,
+   "var_mes": 15.34
+  },
+  {
+   "ticker": "VIVT3",
+   "nome": "TELEFÔNICA BRASIL S.A",
+   "tipo": "acao",
+   "preco": 36.05,
+   "var_dia": 3.59,
+   "var_semana": 1.38,
+   "var_mes": 17.91
+  },
+  {
+   "ticker": "ISAE4",
+   "nome": "ISA ENERGIA BRASIL S.A",
+   "tipo": "acao",
+   "preco": 27.14,
+   "var_dia": 3.75,
+   "var_semana": 4.25,
+   "var_mes": 5.62
+  },
+  {
+   "ticker": "CXSE3",
+   "nome": "CAIXA SEGURIDADE PARTICIPAÇÕES S.A.",
+   "tipo": "acao",
+   "preco": 21.07,
+   "var_dia": 3.79,
+   "var_semana": 2.78,
+   "var_mes": 1.57
+  },
+  {
+   "ticker": "MGLU3",
+   "nome": "MAGAZINE LUIZA S.A.",
+   "tipo": "acao",
+   "preco": 9.65,
+   "var_dia": 3.88,
+   "var_semana": 15.99,
+   "var_mes": 82.08
+  },
+  {
+   "ticker": "ABEV3",
+   "nome": "AMBEV S.A.",
+   "tipo": "acao",
+   "preco": 16.43,
+   "var_dia": 3.92,
+   "var_semana": 2.24,
+   "var_mes": 6.9
+  },
+  {
+   "ticker": "VIVA3",
+   "nome": "VIVARA PARTICIPAÇOES S.A",
+   "tipo": "acao",
+   "preco": 16.54,
+   "var_dia": 4.29,
+   "var_semana": -0.06,
+   "var_mes": -15.31
+  },
+  {
+   "ticker": "ENEV3",
+   "nome": "ENEVA S.A",
+   "tipo": "acao",
+   "preco": 28.72,
+   "var_dia": 4.32,
+   "var_semana": 9.91,
+   "var_mes": 7.69
+  },
+  {
+   "ticker": "HFOF11",
+   "nome": "HEDGE TOP FOFII 3 FUNDO DE INVESTIMENTO IMOBILIÁRIO DE RESPONSABILIDADE LIMITADA",
+   "tipo": "fii",
+   "preco": 5.73,
+   "var_dia": 4.37,
+   "var_semana": 4.18,
+   "var_mes": -6.98
+  },
+  {
+   "ticker": "PETR4",
+   "nome": "PETROLEO BRASILEIRO S.A. PETROBRAS",
+   "tipo": "acao",
+   "preco": 43.19,
+   "var_dia": 4.42,
+   "var_semana": 0.05,
+   "var_mes": -19.84
+  },
+  {
+   "ticker": "CMIN3",
+   "nome": "CSN MINERAÇÃO S.A.",
+   "tipo": "acao",
+   "preco": 5.07,
+   "var_dia": 4.54,
+   "var_semana": 0.0,
+   "var_mes": 8.33
+  },
+  {
+   "ticker": "BTCI11",
+   "nome": "BTG PACTUAL CRÉDITO IMOBILIÁRIO - FUNDO DE CRI - FI IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+   "tipo": "fii",
+   "preco": 8.2,
+   "var_dia": 4.59,
+   "var_semana": 0.99,
+   "var_mes": -5.84
+  },
+  {
+   "ticker": "QUAL3",
+   "nome": "QUALICORP CONSULTORIA E CORRETORA DE SEGUROS S.A.",
+   "tipo": "acao",
+   "preco": 1.94,
+   "var_dia": 4.86,
+   "var_semana": 10.23,
+   "var_mes": 44.78
+  },
+  {
+   "ticker": "MCRE11",
+   "nome": "MAUÁ CAPITAL REAL ESTATE FUNDO DE INVESTIMENTO IMOBILIÁRIO RESPONSABILIDADE LIMITADA",
+   "tipo": "fii",
+   "preco": 6.81,
+   "var_dia": 5.09,
+   "var_semana": 2.25,
+   "var_mes": -11.74
+  },
+  {
+   "ticker": "USIM5",
+   "nome": "USINAS SID DE MINAS GERAIS S.A.-USIMINAS",
+   "tipo": "acao",
+   "preco": 5.15,
+   "var_dia": 5.1,
+   "var_semana": 2.79,
+   "var_mes": -13.01
+  },
+  {
+   "ticker": "RAIL3",
+   "nome": "RUMO S.A.",
+   "tipo": "acao",
+   "preco": 17.9,
+   "var_dia": 5.11,
+   "var_semana": 6.93,
+   "var_mes": 15.48
+  },
+  {
+   "ticker": "PETR3",
+   "nome": "PETROLEO BRASILEIRO S.A. PETROBRAS",
+   "tipo": "acao",
+   "preco": 49.09,
+   "var_dia": 5.14,
+   "var_semana": -0.43,
+   "var_mes": -19.26
+  },
+  {
+   "ticker": "CMIG4",
+   "nome": "CIA ENERGETICA DE MINAS GERAIS - CEMIG",
+   "tipo": "acao",
+   "preco": 11.29,
+   "var_dia": 5.22,
+   "var_semana": 3.29,
+   "var_mes": 9.19
+  },
+  {
+   "ticker": "TIMS3",
+   "nome": "TIM S.A.",
+   "tipo": "acao",
+   "preco": 22.99,
+   "var_dia": 5.31,
+   "var_semana": 3.56,
+   "var_mes": 27.02
+  },
+  {
+   "ticker": "POMO4",
+   "nome": "MARCOPOLO S.A.",
+   "tipo": "acao",
+   "preco": 3.62,
+   "var_dia": 5.54,
+   "var_semana": -4.23,
+   "var_mes": -11.49
+  },
+  {
+   "ticker": "AXIA3",
+   "nome": "AXIA ENERGIA S.A.",
+   "tipo": "acao",
+   "preco": 48.77,
+   "var_dia": 5.65,
+   "var_semana": 5.33,
+   "var_mes": -4.0
+  },
+  {
+   "ticker": "CSMG3",
+   "nome": "CIA SANEAMENTO DE MINAS GERAIS-COPASA MG",
+   "tipo": "acao",
+   "preco": 63.41,
+   "var_dia": 5.65,
+   "var_semana": 14.25,
+   "var_mes": 28.75
+  },
+  {
+   "ticker": "ENGI11",
+   "nome": "ENERGISA S.A.",
+   "tipo": "acao",
+   "preco": 53.59,
+   "var_dia": 5.78,
+   "var_semana": 9.77,
+   "var_mes": 13.32
+  },
+  {
+   "ticker": "JHSF3",
+   "nome": "JHSF PARTICIPACOES S.A.",
+   "tipo": "acao",
+   "preco": 10.35,
+   "var_dia": 5.83,
+   "var_semana": 6.05,
+   "var_mes": -2.48
+  },
+  {
+   "ticker": "ALOS3",
+   "nome": "ALLOS S.A",
+   "tipo": "acao",
+   "preco": 27.8,
+   "var_dia": 5.99,
+   "var_semana": 7.28,
+   "var_mes": 7.36
+  },
+  {
+   "ticker": "ITUB4",
+   "nome": "ITAU UNIBANCO HOLDING S.A.",
+   "tipo": "acao",
+   "preco": 42.56,
+   "var_dia": 6.37,
+   "var_semana": 5.9,
+   "var_mes": 2.1
+  },
+  {
+   "ticker": "RDOR3",
+   "nome": "REDE DOR SÃO LUIZ S.A.",
+   "tipo": "acao",
+   "preco": 39.16,
+   "var_dia": 6.41,
+   "var_semana": 7.85,
+   "var_mes": 11.82
+  },
+  {
+   "ticker": "DIRR3",
+   "nome": "DIRECIONAL ENGENHARIA S.A.",
+   "tipo": "acao",
+   "preco": 9.93,
+   "var_dia": 6.43,
+   "var_semana": 11.2,
+   "var_mes": 13.1
+  },
+  {
+   "ticker": "HAPV3",
+   "nome": "HAPVIDA PARTICIPACOES E INVESTIMENTOS SA",
+   "tipo": "acao",
+   "preco": 6.5,
+   "var_dia": 6.56,
+   "var_semana": 2.2,
+   "var_mes": 63.32
+  },
+  {
+   "ticker": "SBSP3",
+   "nome": "CIA SANEAMENTO BASICO EST SAO PAULO",
+   "tipo": "acao",
+   "preco": 30.35,
+   "var_dia": 6.57,
+   "var_semana": 10.65,
+   "var_mes": 22.88
+  },
+  {
+   "ticker": "UGPA3",
+   "nome": "ULTRAPAR PARTICIPACOES S.A.",
+   "tipo": "acao",
+   "preco": 32.92,
+   "var_dia": 6.74,
+   "var_semana": 7.59,
+   "var_mes": -3.53
+  },
+  {
+   "ticker": "CYRE3",
+   "nome": "CYRELA BRAZIL REALTY S.A.EMPREEND E PART",
+   "tipo": "acao",
+   "preco": 21,
+   "var_dia": 6.82,
+   "var_semana": 9.95,
+   "var_mes": 6.98
+  },
+  {
+   "ticker": "ITSA4",
+   "nome": "ITAUSA S.A.",
+   "tipo": "acao",
+   "preco": 13.99,
+   "var_dia": 6.88,
+   "var_semana": 6.39,
+   "var_mes": 4.48
+  },
+  {
+   "ticker": "LWSA3",
+   "nome": "LWSA S.A.",
+   "tipo": "acao",
+   "preco": 3.44,
+   "var_dia": 7.5,
+   "var_semana": 5.52,
+   "var_mes": -11.34
+  },
+  {
+   "ticker": "CURY3",
+   "nome": "CURY CONSTRUTORA E INCORPORADORA S.A.",
+   "tipo": "acao",
+   "preco": 28.42,
+   "var_dia": 7.69,
+   "var_semana": 12.33,
+   "var_mes": 7.37
+  },
+  {
+   "ticker": "AUAU3",
+   "nome": "UNIÃO PET PARTICIPAÇÕES S.A.",
+   "tipo": "acao",
+   "preco": 4.6,
+   "var_dia": 7.73,
+   "var_semana": 7.73,
+   "var_mes": 11.92
+  },
+  {
+   "ticker": "MOTV3",
+   "nome": "MOTIVA INFRAESTRUTURA DE MOBILIDADE S.A.",
+   "tipo": "acao",
+   "preco": 17.43,
+   "var_dia": 7.73,
+   "var_semana": 10.32,
+   "var_mes": 18.09
+  },
+  {
+   "ticker": "SMFT3",
+   "nome": "SMARTFIT ESCOLA DE GINÁSTICA E DANÇA S.A.",
+   "tipo": "acao",
+   "preco": 20.33,
+   "var_dia": 7.97,
+   "var_semana": 14.54,
+   "var_mes": 21.3
+  },
+  {
+   "ticker": "CPLE3",
+   "nome": "CIA PARANAENSE DE ENERGIA - COPEL",
+   "tipo": "acao",
+   "preco": 16.09,
+   "var_dia": 7.99,
+   "var_semana": 5.3,
+   "var_mes": 6.56
+  },
+  {
+   "ticker": "EQTL3",
+   "nome": "EQUATORIAL S.A.",
+   "tipo": "acao",
+   "preco": 37.73,
+   "var_dia": 8.2,
+   "var_semana": 12.06,
+   "var_mes": 8.3
+  },
+  {
+   "ticker": "LREN3",
+   "nome": "LOJAS RENNER S.A.",
+   "tipo": "acao",
+   "preco": 10.02,
+   "var_dia": 8.21,
+   "var_semana": 5.81,
+   "var_mes": 3.51
+  },
+  {
+   "ticker": "FLRY3",
+   "nome": "FLEURY S.A.",
+   "tipo": "acao",
+   "preco": 24.3,
+   "var_dia": 8.24,
+   "var_semana": 15.82,
+   "var_mes": 9.95
+  },
+  {
+   "ticker": "CSNA3",
+   "nome": "CIA SIDERURGICA NACIONAL",
+   "tipo": "acao",
+   "preco": 3.74,
+   "var_dia": 8.41,
+   "var_semana": 2.47,
+   "var_mes": -25.35
+  },
+  {
+   "ticker": "VBBR3",
+   "nome": "VIBRA ENERGIA S.A.",
+   "tipo": "acao",
+   "preco": 35.2,
+   "var_dia": 8.41,
+   "var_semana": 15.83,
+   "var_mes": 9.28
+  },
+  {
+   "ticker": "MULT3",
+   "nome": "MULTIPLAN - EMPREEND IMOBILIARIOS S.A.",
+   "tipo": "acao",
+   "preco": 28.99,
+   "var_dia": 8.82,
+   "var_semana": 8.7,
+   "var_mes": 3.35
+  },
+  {
+   "ticker": "ASAI3",
+   "nome": "SENDAS DISTRIBUIDORA S.A.",
+   "tipo": "acao",
+   "preco": 10.73,
+   "var_dia": 9.04,
+   "var_semana": 13.31,
+   "var_mes": 36.34
+  },
+  {
+   "ticker": "IGTI11",
+   "nome": "IGUATEMI S.A.",
+   "tipo": "acao",
+   "preco": 24.17,
+   "var_dia": 9.37,
+   "var_semana": 10.57,
+   "var_mes": -1.39
+  },
+  {
+   "ticker": "BBDC3",
+   "nome": "BCO BRADESCO S.A.",
+   "tipo": "acao",
+   "preco": 14.15,
+   "var_dia": 9.6,
+   "var_semana": 9.69,
+   "var_mes": -1.14
   },
   {
    "ticker": "MOVI3",
    "nome": "MOVIDA PARTICIPACOES SA",
    "tipo": "acao",
-   "preco": 6.15,
-   "var_dia": 8.66,
-   "var_semana": 3.36,
-   "var_mes": -67.06
+   "preco": 6.76,
+   "var_dia": 9.92,
+   "var_semana": 14.58,
+   "var_mes": -12.77
+  },
+  {
+   "ticker": "PGMN3",
+   "nome": "EMPREENDIMENTOS PAGUE MENOS S.A.",
+   "tipo": "acao",
+   "preco": 2.66,
+   "var_dia": 9.92,
+   "var_semana": 12.24,
+   "var_mes": -5.34
   },
   {
    "ticker": "NATU3",
    "nome": "NATURA COSMETICOS S.A.",
    "tipo": "acao",
-   "preco": 4.71,
-   "var_dia": 10.56,
-   "var_semana": -0.84,
-   "var_mes": -40.38
+   "preco": 5.2,
+   "var_dia": 10.4,
+   "var_semana": 8.79,
+   "var_mes": -12.01
+  },
+  {
+   "ticker": "AZZA3",
+   "nome": "AZZAS 2154 S.A.",
+   "tipo": "acao",
+   "preco": 16.94,
+   "var_dia": 10.5,
+   "var_semana": 7.35,
+   "var_mes": 2.48
+  },
+  {
+   "ticker": "ANIM3",
+   "nome": "ANIMA HOLDING S.A.",
+   "tipo": "acao",
+   "preco": 2.73,
+   "var_dia": 10.53,
+   "var_semana": 12.35,
+   "var_mes": -3.53
+  },
+  {
+   "ticker": "B3SA3",
+   "nome": "B3 S.A. - BRASIL. BOLSA. BALCÃO",
+   "tipo": "acao",
+   "preco": 16.16,
+   "var_dia": 10.84,
+   "var_semana": 13.01,
+   "var_mes": 7.23
+  },
+  {
+   "ticker": "COGN3",
+   "nome": "COGNA EDUCAÇÃO S.A.",
+   "tipo": "acao",
+   "preco": 1.83,
+   "var_dia": 10.91,
+   "var_semana": 14.38,
+   "var_mes": -4.19
+  },
+  {
+   "ticker": "ECOR3",
+   "nome": "ECORODOVIAS INFRAESTRUTURA E LOGÍSTICA S.A.",
+   "tipo": "acao",
+   "preco": 7.41,
+   "var_dia": 11.09,
+   "var_semana": 25.38,
+   "var_mes": 42.77
+  },
+  {
+   "ticker": "VAMO3",
+   "nome": "VAMOS LOCAÇÃO DE CAMINHÕES. MÁQUINAS E EQUIP. S.A.",
+   "tipo": "acao",
+   "preco": 3.09,
+   "var_dia": 11.15,
+   "var_semana": 19.31,
+   "var_mes": 11.55
+  },
+  {
+   "ticker": "BPAC11",
+   "nome": "BCO BTG PACTUAL S.A.",
+   "tipo": "acao",
+   "preco": 59.04,
+   "var_dia": 11.5,
+   "var_semana": 17.82,
+   "var_mes": -1.6
+  },
+  {
+   "ticker": "BBDC4",
+   "nome": "BCO BRADESCO S.A.",
+   "tipo": "acao",
+   "preco": 15.83,
+   "var_dia": 11.56,
+   "var_semana": 12.43,
+   "var_mes": -0.64
+  },
+  {
+   "ticker": "CEAB3",
+   "nome": "CEA MODAS S.A.",
+   "tipo": "acao",
+   "preco": 8.47,
+   "var_dia": 11.74,
+   "var_semana": 7.49,
+   "var_mes": 16.51
+  },
+  {
+   "ticker": "SBFG3",
+   "nome": "GRUPO SBF SA",
+   "tipo": "acao",
+   "preco": 4.75,
+   "var_dia": 12.03,
+   "var_semana": 15.29,
+   "var_mes": -13.95
+  },
+  {
+   "ticker": "CSAN3",
+   "nome": "COSAN S.A.",
+   "tipo": "acao",
+   "preco": 3.84,
+   "var_dia": 12.28,
+   "var_semana": 22.68,
+   "var_mes": 38.63
+  },
+  {
+   "ticker": "BBAS3",
+   "nome": "BCO BRASIL S.A.",
+   "tipo": "acao",
+   "preco": 16.54,
+   "var_dia": 12.59,
+   "var_semana": 17.14,
+   "var_mes": -5.32
+  },
+  {
+   "ticker": "RADL3",
+   "nome": "RAIA DROGASIL S.A.",
+   "tipo": "acao",
+   "preco": 17.46,
+   "var_dia": 13.16,
+   "var_semana": 24.45,
+   "var_mes": 11.14
+  },
+  {
+   "ticker": "LJQQ3",
+   "nome": "LOJAS QUERO-QUERO S/A",
+   "tipo": "acao",
+   "preco": 1.27,
+   "var_dia": 14.41,
+   "var_semana": 17.59,
+   "var_mes": 15.45
+  },
+  {
+   "ticker": "SIMH3",
+   "nome": "SIMPAR S.A.",
+   "tipo": "acao",
+   "preco": 6.85,
+   "var_dia": 14.74,
+   "var_semana": 22.1,
+   "var_mes": 17.09
+  },
+  {
+   "ticker": "RENT3",
+   "nome": "LOCALIZA RENT A CAR S.A.",
+   "tipo": "acao",
+   "preco": 33.77,
+   "var_dia": 15.18,
+   "var_semana": 14.67,
+   "var_mes": 6.63
+  },
+  {
+   "ticker": "MRVE3",
+   "nome": "MRV ENGENHARIA E PARTICIPACOES S.A.",
+   "tipo": "acao",
+   "preco": 5.33,
+   "var_dia": 15.37,
+   "var_semana": 11.74,
+   "var_mes": 12.68
   }
  ],
  "erros": []
