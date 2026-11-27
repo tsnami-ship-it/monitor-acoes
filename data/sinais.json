@@ -1,6 +1,6 @@
 {
  "versao": 1,
- "gerado_em": "2026-11-26T23:11:22Z",
+ "gerado_em": "2026-11-27T00:59:08Z",
  "pregao": "2026-11-26",
  "resumo": {
   "monitorados": 105,
@@ -59,7 +59,7 @@
    "min_52s": 2.1,
    "max_52s": 13.78,
    "dist_min_52s": 3.3,
-   "rsi14": 29.9,
+   "rsi14": 30.0,
    "pl": null,
    "regras": [
     {
@@ -75,15 +75,11 @@
      "texto": "A 3,3% da mínima de 52 semanas (R$ 2,10)"
     },
     {
-     "id": "rsi_baixo",
-     "texto": "RSI 14 em 29,9"
-    },
-    {
      "id": "abaixo_da_media",
      "texto": "40,7% abaixo da média de 50 pregões"
     }
    ],
-   "pontos": 5,
+   "pontos": 4,
    "desde": "2026-11-24",
    "noticias": [
     {
@@ -117,7 +113,7 @@
    "min_52s": 52.54,
    "max_52s": 101.66,
    "dist_min_52s": 3.5,
-   "rsi14": 31.9,
+   "rsi14": 31.8,
    "pl": null,
    "regras": [
     {
@@ -167,7 +163,7 @@
    "min_52s": 80.33,
    "max_52s": 112.2,
    "dist_min_52s": 6.4,
-   "rsi14": 36.3,
+   "rsi14": 36.1,
    "pl": null,
    "regras": [
     {
@@ -244,7 +240,7 @@
    "min_52s": 16.26,
    "max_52s": 21.05,
    "dist_min_52s": 3.6,
-   "rsi14": 38.1,
+   "rsi14": 38.0,
    "pl": null,
    "regras": [
     {
@@ -372,7 +368,7 @@
    "min_52s": 7.8,
    "max_52s": 9.98,
    "dist_min_52s": 7.3,
-   "rsi14": 44.8,
+   "rsi14": 44.7,
    "pl": null,
    "regras": [
     {
@@ -586,7 +582,7 @@
    "min_52s": 5.11,
    "max_52s": 7.11,
    "dist_min_52s": 12.1,
-   "rsi14": 47.9,
+   "rsi14": 47.8,
    "pl": null,
    "regras": [
     {
@@ -609,7 +605,7 @@
    "min_52s": 29.53,
    "max_52s": 59.79,
    "dist_min_52s": 46.3,
-   "rsi14": 38.1,
+   "rsi14": 37.9,
    "pl": 4.0,
    "regras": [
     {
@@ -655,7 +651,7 @@
    "min_52s": 6.38,
    "max_52s": 9.87,
    "dist_min_52s": 6.7,
-   "rsi14": 44.5,
+   "rsi14": 44.3,
    "pl": null,
    "regras": [
     {
@@ -682,7 +678,7 @@
    "min_52s": 4.66,
    "max_52s": 12.18,
    "dist_min_52s": 10.5,
-   "rsi14": 43.3,
+   "rsi14": 43.0,
    "pl": null,
    "regras": [
     {
@@ -705,7 +701,7 @@
    "min_52s": 30.99,
    "max_52s": 66.49,
    "dist_min_52s": 58.4,
-   "rsi14": 38.6,
+   "rsi14": 38.4,
    "pl": 4.5,
    "regras": [
     {
@@ -755,7 +751,7 @@
    "min_52s": 16.26,
    "max_52s": 35.91,
    "dist_min_52s": 29.2,
-   "rsi14": 48.6,
+   "rsi14": 48.5,
    "pl": 4.5,
    "regras": [
     {
@@ -801,7 +797,7 @@
    "min_52s": 8.66,
    "max_52s": 16.25,
    "dist_min_52s": 15.7,
-   "rsi14": 48.0,
+   "rsi14": 47.9,
    "pl": 6.7,
    "regras": [
     {
@@ -824,7 +820,7 @@
    "min_52s": 3.24,
    "max_52s": 11.32,
    "dist_min_52s": 15.4,
-   "rsi14": 40.9,
+   "rsi14": 40.8,
    "pl": null,
    "regras": [
     {
@@ -851,7 +847,7 @@
    "min_52s": 5.34,
    "max_52s": 20.48,
    "dist_min_52s": 26.6,
-   "rsi14": 43.4,
+   "rsi14": 43.3,
    "pl": 4.9,
    "regras": [
     {
@@ -874,7 +870,7 @@
    "min_52s": 2.22,
    "max_52s": 7.62,
    "dist_min_52s": 19.8,
-   "rsi14": 44.6,
+   "rsi14": 44.5,
    "pl": 5.3,
    "regras": [
     {
@@ -920,7 +916,7 @@
    "min_52s": 1.92,
    "max_52s": 5.83,
    "dist_min_52s": 42.2,
-   "rsi14": 47.3,
+   "rsi14": 47.2,
    "pl": 5.0,
    "regras": [
     {
@@ -943,7 +939,7 @@
    "min_52s": 1.37,
    "max_52s": 4.75,
    "dist_min_52s": 33.6,
-   "rsi14": 50.2,
+   "rsi14": 50.1,
    "pl": 7.6,
    "regras": [
     {
