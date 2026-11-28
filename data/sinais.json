@@ -1,6 +1,6 @@
 {
  "versao": 1,
- "gerado_em": "2026-11-28T02:08:03Z",
+ "gerado_em": "2026-11-28T03:55:29Z",
  "pregao": "2026-11-27",
  "resumo": {
   "monitorados": 105,
@@ -315,16 +315,16 @@
    "desde": "2026-11-26",
    "noticias": [
     {
-     "titulo": "Top 5 Recomendações da Semana: oportunidades em ações",
-     "fonte": "Safra",
-     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9FZzJTVERzM1RlV1JVMEsydTN0a3BWWGJvTWxTQk5WcF9mYTcwZ0g1QkpiSTU2M0tvNWdNWDQ3QjdYeG84Vk9RRm9RejFKTlNEdHJhaFRqVV9ob1ZQQ201a2hIWk01ZU1NVXdjNkQybTZVQk0?oc=5",
-     "data": "2026-11-23T16:21:56Z"
-    },
-    {
      "titulo": "As ações que mais caíram nas últimas 24h, com Trambuco no radar",
      "fonte": "Investidor10",
      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUHoxYWxMeEZMVE92NWdvcGlaYUhuaWwzMVZvZjBZSFVaZ1pqRXpsamd3NVlKWFdhSVVQUkIyWGtreUlMc1NWX1IzalU3QUlDTy0zT2tlMTJFS29MSUVlLU1UdWJIVnlLT2hEeGN2Q2RoZXQzMmMxT2JwMzdkQ09XRzBLX2R2dUFreEE0TWFmcWdKNGs5QzZGc2hCUWRLWUVvY0U0ZDVQeWFnVXNmNklUadIBsAFBVV95cUxNUHoxYWxMeEZMVE92NWdvcGlaYUhuaWwzMVZvZjBZSFVaZ1pqRXpsamd3NVlKWFdhSVVQUkIyWGtreUlMc1NWX1IzalU3QUlDTy0zT2tlMTJFS29MSUVlLU1UdWJIVnlLT2hEeGN2Q2RoZXQzMmMxT2JwMzdkQ09XRzBLX2R2dUFreEE0TWFmcWdKNGs5QzZGc2hCUWRLWUVvY0U0ZDVQeWFnVXNmNklUaQ?oc=5",
      "data": "2026-11-27T13:29:19Z"
+    },
+    {
+     "titulo": "Top 5 Recomendações da Semana: oportunidades em ações",
+     "fonte": "Safra",
+     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9FZzJTVERzM1RlV1JVMEsydTN0a3BWWGJvTWxTQk5WcF9mYTcwZ0g1QkpiSTU2M0tvNWdNWDQ3QjdYeG84Vk9RRm9RejFKTlNEdHJhaFRqVV9ob1ZQQ201a2hIWk01ZU1NVXdjNkQybTZVQk0?oc=5",
+     "data": "2026-11-23T16:21:56Z"
     },
     {
      "titulo": "Maiores altas da semana: PCAR3 sobe 26,2%; AZEV3 e BEEF3 têm notícias",
@@ -679,10 +679,10 @@
      "data": "2026-11-23T16:21:56Z"
     },
     {
-     "titulo": "Petrobras (PETR4), Braskem (BRKM5), Raízen (RAIZ4) e mais: veja os destaques das empresas",
-     "fonte": "Valor Investe",
-     "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOMnQ4SFR6bldXOF84ZGlpc0VrUXUybG9FNGVVcGNTeWhVMzVXMlhKaFYybjhDZVMwajBnWk9uRjBiLTFZWnhpV2xLOU9zeHdmYURuYWtGS1pDLTlUd2MzMGhja0NDRVBmZHFBck5tS0NPdWxkTW5tdTB3bVBGa0dzWmQ5ZmxMSW5uTlJmU1pSdnd5Wk56LTJ3bVhILVM2Z0Rtb20wX3dkQTBaem1na3UwVnFkaldjZnBGdTNySC1nV2RabkljSExnMDVTZFhHdGowY1MzbXpVdGZwMmZtS3VVNmRfcWJXX3k3cjNlODdxNGRsUnE1N2hpNU1tVzRab1JsLTgxMWtOS0Z2MUpT0gGMAkFVX3lxTE4ydDhIVHpuV1c4XzhkaWlzRWtRdTJsb0U0ZVVwY1N5aFUzNVcyWEpoVjJuOENlUzBqMGdaT25GMGItMVlaeGlXbEs5T3N4d2ZhRG5ha0ZLWkMtOVR3YzMwaGNrQ0NFUGZkcUFyTm1LQ091bGRNbm11MHdtUEZrR3NaZDlmbExJbm5OUmZTWlJ2d3laTnotMndtWEgtUzZnRG1vbTBfd2RBMFp6bWdrdTBWcWRqV2NmcEZ1M3JILWdXZFpuSWNITGcwNVNkWEd0ajBjUzNtelV0ZnAyZm1LdVU2ZF9xYldfeTdyM2U4N3E0ZGxScTU3aGk1TW1XNFpvUmwtODExa05LRnYxSlM?oc=5",
-     "data": "2026-11-24T11:14:44Z"
+     "titulo": "Motiva (MOTV3) e EcoRodovias (ECOR3): JPMorgan mantém visão favorável, mas alerta para dois riscos",
+     "fonte": "Guia do Investidor",
+     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQMm13MHBrc0VmdUNBX3BuWS00Uk00RHZLWnFUOFA0QzE5TlpvYnVsd0RvMHZMUzR1REljSlRqS3M0MlJfN2txVURKX3AwUDZhSzRrYzliMEFzZ2lSNVljQXBkZlV2M1dmaFRuZ2lhaUtUSENqRENYZHZNYVhaTDBaNVVwNzIycF82WFJnQWstNHQwMTMxTVlnYmhXbUZCMFdxUndyMXhOZnNSTll1UWVPd2JhZjBSVzhRX3dTZTU0czFVdnRtRC1WLVdXckRlQQ?oc=5",
+     "data": "2026-11-26T14:59:16Z"
     }
    ]
   },
