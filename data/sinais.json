@@ -1,6 +1,6 @@
 {
  "versao": 1,
- "gerado_em": "2026-11-28T00:25:45Z",
+ "gerado_em": "2026-11-28T02:08:03Z",
  "pregao": "2026-11-27",
  "resumo": {
   "monitorados": 105,
@@ -103,16 +103,16 @@
      "data": "2026-11-24T21:35:06Z"
     },
     {
-     "titulo": "Braskem (BRKM5) salta na bolsa após notícia de acordo com credores",
-     "fonte": "Valor Investe",
-     "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOWmxlVHp1S3ZWRVhTY01oczkzZGRDVDZlVDdYbGxHNzlGaVktY1gwcG5xY0d6V0V2bTl1UWs5NGpXLWtORTc1MVF6cFg2blZ5TlZVOTR4UVNYanRfTllVRjR3NzFWV1FlVlItYkZyNjNVLXcteVlkaVVLNUh0YTJtVTRuQTI2SUlKZ0VxdG5RT212Ml9UeHJ6b1FVU205bWdMcGtTcjJXb0pXNUFmc3JGOGc4US05WFF5c0ZlUHdpeTZEbHRJOEIyWjdyNXoxZU9DRHFzZGZuRzlJLTZZS2ZySWluaHFpRVR10gH3AUFVX3lxTFBpOVlkeWNlOG9YeE9OMkxXYlR3MGNVd3laS3F2cktiY05xU3dPdWExU01RVGlSRlRLSVhYUUZYdjljZThZZjVVdTVlblFkeF8yWTJiR2FKeXUyTGRYNFZVWk5WbUNGRzF6YVBxM0FHMDNGVVFuY2tiX05QdG9Pdkx1eTNOS1AtT2prQ2tiVFVuOW1iNHk5TXhqdTk0T3hBUllPNXhaajhVNzdnbXhTcUNiZTZaRmR3U1FTaVZUZERYNzJlT3pGSGJVZ3Fud1dUazZwd3pFQ0lXemJrZERxcGg1UzRTSUFQUlJOYlUxa2k0bHpQV0hWS1E?oc=5",
-     "data": "2026-11-23T15:16:21Z"
-    },
-    {
      "titulo": "Braskem (BRKM5): preço-alvo subiu, mas Citi segue neutro",
      "fonte": "Acionista.com.br",
      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMExSaUlfSnJsMHU4bS1LdFY4ZTgxYlFqUTUtUUxUalhfcTJqelpTUUZ4a3hWX3VRQld5M1FTQzl3YWhxM3BTUl9kUHM1LXQ0ekZ5cG1UcHZFYlZwQTJwUGt5WHJpa0NQRldyVmN6UzFDTEh4bnRCMGtMMlEzb0ljSE9FT1c?oc=5",
      "data": "2026-11-24T08:00:00Z"
+    },
+    {
+     "titulo": "Braskem (BRKM5) salta na bolsa após notícia de acordo com credores",
+     "fonte": "Valor Investe",
+     "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOWmxlVHp1S3ZWRVhTY01oczkzZGRDVDZlVDdYbGxHNzlGaVktY1gwcG5xY0d6V0V2bTl1UWs5NGpXLWtORTc1MVF6cFg2blZ5TlZVOTR4UVNYanRfTllVRjR3NzFWV1FlVlItYkZyNjNVLXcteVlkaVVLNUh0YTJtVTRuQTI2SUlKZ0VxdG5RT212Ml9UeHJ6b1FVU205bWdMcGtTcjJXb0pXNUFmc3JGOGc4US05WFF5c0ZlUHdpeTZEbHRJOEIyWjdyNXoxZU9DRHFzZGZuRzlJLTZZS2ZySWluaHFpRVR10gH3AUFVX3lxTFBpOVlkeWNlOG9YeE9OMkxXYlR3MGNVd3laS3F2cktiY05xU3dPdWExU01RVGlSRlRLSVhYUUZYdjljZThZZjVVdTVlblFkeF8yWTJiR2FKeXUyTGRYNFZVWk5WbUNGRzF6YVBxM0FHMDNGVVFuY2tiX05QdG9Pdkx1eTNOS1AtT2prQ2tiVFVuOW1iNHk5TXhqdTk0T3hBUllPNXhaajhVNzdnbXhTcUNiZTZaRmR3U1FTaVZUZERYNzJlT3pGSGJVZ3Fud1dUazZwd3pFQ0lXemJrZERxcGg1UzRTSUFQUlJOYlUxa2k0bHpQV0hWS1E?oc=5",
+     "data": "2026-11-23T15:16:21Z"
     }
    ]
   },
@@ -315,16 +315,16 @@
    "desde": "2026-11-26",
    "noticias": [
     {
-     "titulo": "As ações que mais caíram nas últimas 24h, com Trambuco no radar",
-     "fonte": "Investidor10",
-     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUHoxYWxMeEZMVE92NWdvcGlaYUhuaWwzMVZvZjBZSFVaZ1pqRXpsamd3NVlKWFdhSVVQUkIyWGtreUlMc1NWX1IzalU3QUlDTy0zT2tlMTJFS29MSUVlLU1UdWJIVnlLT2hEeGN2Q2RoZXQzMmMxT2JwMzdkQ09XRzBLX2R2dUFreEE0TWFmcWdKNGs5QzZGc2hCUWRLWUVvY0U0ZDVQeWFnVXNmNklUadIBsAFBVV95cUxNUHoxYWxMeEZMVE92NWdvcGlaYUhuaWwzMVZvZjBZSFVaZ1pqRXpsamd3NVlKWFdhSVVQUkIyWGtreUlMc1NWX1IzalU3QUlDTy0zT2tlMTJFS29MSUVlLU1UdWJIVnlLT2hEeGN2Q2RoZXQzMmMxT2JwMzdkQ09XRzBLX2R2dUFreEE0TWFmcWdKNGs5QzZGc2hCUWRLWUVvY0U0ZDVQeWFnVXNmNklUaQ?oc=5",
-     "data": "2026-11-27T13:29:19Z"
-    },
-    {
      "titulo": "Top 5 Recomendações da Semana: oportunidades em ações",
      "fonte": "Safra",
      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9FZzJTVERzM1RlV1JVMEsydTN0a3BWWGJvTWxTQk5WcF9mYTcwZ0g1QkpiSTU2M0tvNWdNWDQ3QjdYeG84Vk9RRm9RejFKTlNEdHJhaFRqVV9ob1ZQQ201a2hIWk01ZU1NVXdjNkQybTZVQk0?oc=5",
      "data": "2026-11-23T16:21:56Z"
+    },
+    {
+     "titulo": "As ações que mais caíram nas últimas 24h, com Trambuco no radar",
+     "fonte": "Investidor10",
+     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUHoxYWxMeEZMVE92NWdvcGlaYUhuaWwzMVZvZjBZSFVaZ1pqRXpsamd3NVlKWFdhSVVQUkIyWGtreUlMc1NWX1IzalU3QUlDTy0zT2tlMTJFS29MSUVlLU1UdWJIVnlLT2hEeGN2Q2RoZXQzMmMxT2JwMzdkQ09XRzBLX2R2dUFreEE0TWFmcWdKNGs5QzZGc2hCUWRLWUVvY0U0ZDVQeWFnVXNmNklUadIBsAFBVV95cUxNUHoxYWxMeEZMVE92NWdvcGlaYUhuaWwzMVZvZjBZSFVaZ1pqRXpsamd3NVlKWFdhSVVQUkIyWGtreUlMc1NWX1IzalU3QUlDTy0zT2tlMTJFS29MSUVlLU1UdWJIVnlLT2hEeGN2Q2RoZXQzMmMxT2JwMzdkQ09XRzBLX2R2dUFreEE0TWFmcWdKNGs5QzZGc2hCUWRLWUVvY0U0ZDVQeWFnVXNmNklUaQ?oc=5",
+     "data": "2026-11-27T13:29:19Z"
     },
     {
      "titulo": "Maiores altas da semana: PCAR3 sobe 26,2%; AZEV3 e BEEF3 têm notícias",
@@ -449,22 +449,22 @@
    "desde": "2026-11-27",
    "noticias": [
     {
-     "titulo": "Anthropic: IPO de US$ 81,34 bi lidera ranking",
+     "titulo": "Nova York proíbe brinquedos com IA por cinco anos",
      "fonte": "ativovirtual.com.br",
-     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSHlwOF9kenBNbncwY1dzVHpOSjJZWWRNVzdmYXF2LWVfUy1WT0tXaFZuVVZLcy1kY041TDgwbjk1X0FaV1dtT1owVEEzWWU3eEU3RFlPbndoQkhkQTNqUm1QWGJPbmp2aUNRc0RueXRUdTAtek5jSzhPdXRfejZjSXkxcVYycjlTblVfY0htcFVOWjQ?oc=5",
-     "data": "2026-11-26T14:19:46Z"
+     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORkRZNVpGZ3JKWWhpTGpHVGVXVXRod0Q3Nk03amNhYmx3Z1F5bVREZWJaQW1Ib1hMS1Jhbm5GOGlpbjFUNm85VjVHQ3ZHVGNoZnFRM3Y1V2V2b1VrQkNoNk1oUGhvd29uYWVmRjRfbjBSV0N1dDIyb0ctUDdFUjE5a0tSdU9aaXJtWklCREV2VUpEZTQyQmJWeEQ0MEU?oc=5",
+     "data": "2026-11-25T18:41:16Z"
     },
     {
-     "titulo": "KLBN11: acidente adia evento e pressiona o Ebitda",
+     "titulo": "Black Friday Vivara: descontos de até 60% em joias",
      "fonte": "ativovirtual.com.br",
-     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdktVemxabmpaTXBfUzkydEFCNFJXaEZyeVVBbGNVTUVIcUl1Q2ZtaWdFbjR1ZElKUGp1bnZMUFNSZ3BKTDR5OTlRVzJvaGlyemI0X1hQSkFjS2dwMFd5dDF4c2Jiel9aSGt6NkFJWHBOMG01T3JlSl83NjJ1YUxqYWkzQVhuRTVjV25yeXJscmtQODlhU05VLW5tQQ?oc=5",
-     "data": "2026-11-26T13:53:57Z"
+     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZjVLYkttMzh2NlAtX0RZenh0VXd3SHZMVUtXLWpNblQwdDJoZ01VWXU3M3FKTWdmdm5TbHNCTUZ4cjdFbGxWekZrSC0wTmpnNFR6ZkNhTWlSTWNwNW15OUJGN1JBc3lhMzZUOVlkQ1pLc3JVVXBJYi04b1hpX196WlY4OW9MREZhZjIycGFmdlRjZWhvMlE0LUVDSQ?oc=5",
+     "data": "2026-11-26T13:03:16Z"
     },
     {
-     "titulo": "Rede D'Or antecipa dividendos de R$ 2,1 bilhões",
+     "titulo": "HGLG11 assume 100% do complexo logístico Itupeva",
      "fonte": "ativovirtual.com.br",
-     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQXZzLUlwdU41bHQ4X2t0Um81cjlBdVJjZXp0RXFDOWtIcnprbmdIZFRnSzAzWm1KTG53NXJtT3RpbVhKX0txTExaWW1FVjRGalliWVdRd2VXN2VZNmU4c081eFU3V1M5VUtCUmFhMW56MDljd1Y2WXN2c0ZMRUZjX2J3NHkwYUtvZkExSXhLbW5JZXIwd2M3Rg?oc=5",
-     "data": "2026-11-27T22:46:02Z"
+     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWUVwd19LX1h1WEpBU3RqTl9MVjVMTHg5SXFqOU1NZ0Z2cEFqWmtJRko4RVBRdXBIRWJsWGRnR3F4alhBOHFxRlZlME42NVZpWEtiVnFYaHZXT1Z5Yll3clRTR19iTTVDajkwV2c2RTg5YTVPVkhmaFZpaWwxSWZYM2ZVYWdJMHBVend1RlJnd3R3bElLLVFpbVh3?oc=5",
+     "data": "2026-11-26T00:30:00Z"
     }
    ]
   },
@@ -533,16 +533,16 @@
    "desde": "2026-11-27",
    "noticias": [
     {
-     "titulo": "Lucro do Banco do Brasil (BBAS3) despenca -40% no 4T25",
-     "fonte": "Nord Investimentos",
-     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObEJDbmMyMmFkb1ktTjJhdjJDeG1ReVAtYlJDSWsxZlI2blJRdVlieWstdzZaM3NEMTVoM3V1aEplajQySFpwanU0UVRDRVFTN3VVRVh2WFdLSmlrSFFKSXBiS3VPakZWa3NjRVNPNE9ISUc1TlpacHBZLVRsWmw3endtSjdUbU3SAYwBQVVfeXFMTlV0aHJhdjczQ2xpcWNfUTVKRFN1cVNsSVdJa1NPRklUQWFOQ3IwRHlwRnFPQ2FfdkpxT0czbE45N3hHUjZiWVR5dmtmbWdXZ0RJcTFSSGh6OUtja0NUQWF5QlMtWU5haFVUREZIY3FUZ0pXMnhkWmlxYlVTSGxmdDQ5c3BQVlFDV2FOYjE?oc=5",
-     "data": "2026-11-24T08:00:00Z"
-    },
-    {
      "titulo": "Ibovespa dispara 10 mil pontos e Banco do Brasil (BBAS3) sobe 12%",
      "fonte": "Suno - Investimentos Inteligentes",
      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9JeUdyQW56dUNpWFNZU0xISjBzdlk1dF9qRFFCelpKMERWeTM4WWZvYlJNQWtxZm9fcV9lV2dPQkhKY05mYjFDdkcwbTZTMHpheWJZa3BURkp4cU1xbW40VmNDQ25sbWNxUTB4eUVSTGlydFXSAXhBVV95cUxNWnFEUFpJOGFRQm1VZWlZZmJ1R2NMT0hZZnVldmM2VFo4Y3pHR0VTU25DZ0k3UG5WVzRWa3pQbkloREV3cGg5b24wN0RaNl9XSDdGbkd6M2JUYlNNQUIzRW50ZnFneFpCTFhnSTFUbEEtWDhKRVhOSnc?oc=5",
      "data": "2026-11-26T22:31:43Z"
+    },
+    {
+     "titulo": "BBAS3 dá adeus a Tarciana Medeiros? Governo Lula já tem nomes para novo CEO, diz jornal",
+     "fonte": "Investidor10",
+     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNeUVlQTYwX1lka1k5R214aTM2ajhfc1d5X2xJQjhMNGxvVnNGZEt4OWRVOHNGSnVlMTdZM0ZoUXJnUFVSMW1DclRPV2JFeW5tOFROUlVGekNuS3FhT3dzZ2NqX3RsUi1oOHJ1NC05bjNoYjJlcVdpYkxaYmJlTWFodzktMm9BS3RZVThBMDAwcFF5cHp5c3BfLVJHbWJ2QzB3bVF0YXlXbUJzSkNUSjlkXzNkZzZFak1wc0FEckxTVnRFYm5YdlNNWDln0gHPAUFVX3lxTE5JRVIwWWZCeHVnUk1vZXBCX0dWaFJrM19lQ09wS0Jzck5PZjdjVzEybDM1U2k4MGFDOXVfWS1Dd0VOeER2V2cyWEdVLTBTQ3hmbnRnN0NHc2NpTHRQTVBQZkxESng5OUpBUDJVdHk4ckIwM09fNDFVcHI2UWlzQW9NUGJXRXU5cnNaQVFiaG94VVlDN193d2owR2lfdnRWVzdyVjJMU1MzNXJjTlRKbWtHZDVPbGFZcjFOM3d1ellDSzl2d1Q1cmUtTV81QmtqSQ?oc=5",
+     "data": "2026-11-22T13:19:00Z"
     },
     {
      "titulo": "BBAS3, ITUB4, PETR4 e VALE3: ações podem cair mais ou reagir?",
@@ -1288,8 +1288,8 @@
    "tipo": "fii",
    "preco": 11,
    "var_dia": 0,
-   "var_semana": 0.0,
-   "var_mes": 1.86
+   "var_semana": 1.01,
+   "var_mes": 2.47
   },
   {
    "ticker": "TRPL15",
